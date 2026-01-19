@@ -1,0 +1,7001 @@
+{
+  "1 р байр": {
+    "canonical": "1-р байр",
+    "type": "bus_stop",
+    "lat": 47.9169049,
+    "lon": 106.8532435,
+    "aliases": [
+      "1 r bair",
+      "1 р байр",
+      "1-r bair",
+      "1-р байр",
+      "1rbair",
+      "1рбайр",
+      "neg dugeer bair",
+      "negdugeer bair",
+      "neg dgr bair",
+      "negdgr bair",
+      "нэгдүгээр байр",
+      "нэг дгр байр",
+      "1 дүгээр байр",
+      "1 dugeer bair",
+      "1 дгр байр"
+    ]
+  },
+  "1 р буудал": {
+    "canonical": "1-р буудал",
+    "type": "bus_stop",
+    "lat": 47.9611557,
+    "lon": 106.8273285,
+    "aliases": [
+      "1 r buudal",
+      "1 r buudl",
+      "1 р буудал",
+      "1 р буудл",
+      "1-r buudal",
+      "1-r buudl",
+      "1-р буудал",
+      "1-р буудл",
+      "1rbuudal",
+      "1рбуудал",
+      "neg dugeer buudal",
+      "neg dugeer buudl",
+      "neg dgr buudal",
+      "нэгдүгээр буудал",
+      "нэгдүгээр буудл"
+    ]
+  },
+  "1 р хорооны буудал": {
+  "canonical": "1-р хорооны буудал",
+  "type": "bus_stop",
+  "lat": 47.9200927,
+  "lon": 106.7661844,
+  "aliases": [
+    "1 r horooni buudal",
+    "1 r horooni buudl",
+    "1 r hrooni buudal",
+    "1 r hrooni buudl",
+    "1-р хорооны буудал",
+    "1-р horooni buudal",
+    "1-р hrooni buudal",
+    "1рхорооныбуудал",
+    "1rhoroonibuudal",
+    "нэгдүгээр хорооны буудал",
+    "negdugeer horooni buudal",
+    "neg dgr hrooni buudal",
+    "neg dugeer horooni buudal",
+    "neg dgr hrooni buudal",
+    "нэгдүгээр хорооны буудал",
+    "1 dugeer horooni buudal"
+  ]
+},
+  "1 р хороолол": {
+  "canonical": "1-р хороолол",
+  "type": "bus_stop",
+  "lat": 47.91600, 
+  "lon": 106.84359,
+  "aliases": [
+    "1 horoolol",
+    "1 horooll",
+    "1 хороолол",
+    "1хороолол",
+    "1horoolol",
+    "1horooll",
+    "1r horoolol",
+    "1r horooll",
+    "1-р хороолол",
+    "1-r horoolol",
+    "1рхороолол",
+    "1rhoroolol",
+    "нэгдүгээр хороолол",
+    "negdugeer horoolol",
+    "нэгдгр хороолол",
+    "1 дүгээр хороолол",
+    "negdvgeer horoolol",
+    "1 dugeer horoolol",
+    "1dugeer horoolol",
+    "1 dvgeer horoolol"
+  ]
+},
+  "10 р хороо": {
+  "canonical": "10-р хороо",
+  "type": "bus_stop",
+  "lat": 47.9553982,
+  "lon": 106.841917,
+  "aliases": [
+    "10 r horoo",
+    "10 r hroo",
+    "10-р хороо",
+    "10-р horoo",
+    "10рхороо",
+    "10rhoroo",
+    "арав дугаар хороо",
+    "arav dugaar horoo",
+    "aravdugaar horoo",
+    "аравдугаар хороо",
+    "10 dugeer horoo"
+  ]
+},
+  "10 р хороолол": {
+  "canonical": "10-р хороолол",
+  "type": "bus_stop",
+  "lat": 47.9137568,
+  "lon": 106.8674539,
+  "aliases": [
+    "10 horoolol",
+    "10 hrll",
+    "10 хороолол",
+    "10хороолол",
+    "10horoolol",
+    "10 r horoolol",
+    "10 r hrll",
+    "10-р хороолол",
+    "10-р horoolol",
+    "10р хороолол",
+    "10р хороолол",
+    "10r horoolol",
+    "10rhoroolol",
+    "арав дугаар хороолол",
+    "arav dugaar horoolol",
+    "аравдугаар хороолол",
+    "10 dugeer horoolol"
+  ]
+},
+  "10 ын буудал": {
+  "canonical": "10-ын буудал",
+  "type": "bus_stop",
+  "lat": 47.9097418,
+  "lon": 106.7985387,
+  "aliases": [
+    "10 in buudal",
+    "10 in bdl",
+    "10-ын буудал",
+    "10ын буудал",
+    "10ынбуудал",
+    "10inbuudal",
+    "аравын буудал",
+    "aravin buudal",
+    "aravin buudl"
+  ]
+},
+  "100 айл": {
+  "canonical": "100 айл",
+  "type": "bus_stop",
+  "lat": 47.93129355,
+  "lon": 106.9279636,
+  "aliases": [
+    "100 ail",
+    "100айл",
+    "100ail",
+    "zun ail",
+    "zuun ail",
+    "зуун айл",
+    "зуунайл"
+  ]
+},
+  "1000 оюутны байр": {
+  "canonical": "1000 Оюутны байр",
+  "type": "bus_stop",
+  "lat": 47.9238124,
+  "lon": 106.96358545,
+  "aliases": [
+    "1000 oyuutni bair",
+    "1000 oytni bair",
+    "1000 oyuutni br",
+    "1000 оюутны байр",
+    "1000оюутныбайр",
+    "1000oyutnibair",
+    "myangan oyutni bair",
+    "мянган оюутны байр",
+    "myngan oytni bair",
+    "myngn oytni bair"
+  ]
+},
+
+  "11 р байр": {
+    "canonical": "11-р байр",
+    "type": "bus_stop",
+    "lat": 47.9224706,
+    "lon": 106.8727527,
+    "aliases": [
+      "11 r bair",
+      "11 r br",
+      "11 р байр",
+      "11rbair",
+      "11рбайр"
+    ]
+  },
+  "11 р байр автобусны буудал": {
+    "canonical": "11-р байр автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.9167865,
+    "lon": 106.8466393,
+    "aliases": [
+      "11 r bair avtbsni buudal",
+      "11 r bair avtobusni bdl",
+      "11 r bair avtobusni buudal",
+      "11 r br avtobusni buudal",
+      "11 р байр автобусны буудал",
+      "11rbairavtobusnibuudal",
+      "11рбайравтобусныбуудал"
+    ]
+  },
+  "112 ын буудал": {
+    "canonical": "112-ын буудал",
+    "type": "bus_stop",
+    "lat": 47.95432595,
+    "lon": 106.85070865,
+    "aliases": [
+      "112 in bdl",
+      "112 in buudal",
+      "112 ын буудал",
+      "112inbuudal",
+      "112ынбуудал"
+    ]
+  },
+  "117 сургууль": {
+    "canonical": "117 Сургууль",
+    "type": "bus_stop",
+    "lat": 47.9951956,
+    "lon": 106.9258344,
+    "aliases": [
+      "117 srglь",
+      "117 surguulь",
+      "117 сургууль",
+      "117surguulь",
+      "117сургууль"
+    ]
+  },
+  "118 р сургууль": {
+    "canonical": "118-р Сургууль",
+    "type": "bus_stop",
+    "lat": 47.859604,
+    "lon": 106.79263265,
+    "aliases": [
+      "118 r srglь",
+      "118 r surguulь",
+      "118 р сургууль",
+      "118rsurguulь",
+      "118рсургууль"
+    ]
+  },
+  "11р хорооллын автобусны буудал": {
+    "canonical": "11р хорооллын автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.9268555,
+    "lon": 106.9268969,
+    "aliases": [
+      "11r horoollin avtbsni buudal",
+      "11r horoollin avtobusni bdl",
+      "11r horoollin avtobusni buudal",
+      "11r hrlln avtobusni buudal",
+      "11rhoroollinavtobusnibuudal",
+      "11р хорооллын автобусны буудал",
+      "11рхорооллынавтобусныбуудал"
+    ]
+  },
+  "120 мянгат": {
+    "canonical": "120 мянгат",
+    "type": "common",
+    "lat": 47.9013681,
+    "lon": 106.909944,
+    "aliases": [
+      "120",
+      "120d",
+      "120 myangat",
+      "120 myngat",
+      "120 myngt",
+      "120 мянгат",
+      "120myngat",
+      "120myangat",
+      "120мянгат"
+    ]
+  },
+  "13-р хороолол": {
+    "canonical": "13-р хороолол",
+    "type": "bus_stop",
+    "lat": 47.914097, 
+    "lon": 106.944424,
+    "aliases": [
+      "13d",
+      "13t",
+      "13 haviar",
+      "13 havid",
+      "13 horoolol",
+      "13 r horoolol",
+      "13 r hrll",
+      "13 р хороолол",
+      "13-р хороолол",
+      "13r horoolol",
+      "13rhoroolol"
+    ]
+  },
+  "149 р сургууль": {
+    "canonical": "149-р сургууль",
+    "type": "bus_stop",
+    "lat": 47.9570012,
+    "lon": 106.86560685,
+    "aliases": [
+      "149 r srglь",
+      "149 r surguulь",
+      "149 р сургууль",
+      "149rsurguulь",
+      "149рсургууль"
+    ]
+  },
+  "15 н буудал": {
+    "canonical": "15-н буудал",
+    "type": "bus_stop",
+    "lat": 47.9565908,
+    "lon": 106.902489,
+    "aliases": [
+      "15 n bdl",
+      "15 n buudal",
+      "15 н буудал",
+      "15nbuudal",
+      "15нбуудал"
+    ]
+  },
+  "158 р сургууль": {
+    "canonical": "158-р сургууль",
+    "type": "bus_stop",
+    "lat": 47.9437825,
+    "lon": 107.0198589,
+    "aliases": [
+      "158 r srglь",
+      "158 r surguulь",
+      "158 р сургууль",
+      "158rsurguulь",
+      "158рсургууль"
+    ]
+  },
+  "16 р хорооллын автобусны буудал": {
+    "canonical": "16-р хорооллын автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.9235961,
+    "lon": 106.9813851,
+    "aliases": [
+      "16 r horoollin avtbsni buudal",
+      "16 r horoollin avtobusni bdl",
+      "16 r horoollin avtobusni buudal",
+      "16 r hrlln avtobusni buudal",
+      "16 р хорооллын автобусны буудал",
+      "16rhoroollinavtobusnibuudal",
+      "16рхорооллынавтобусныбуудал"
+    ]
+  },
+  "16 р хороолл ын автобусны буудал": {
+    "canonical": "16-р хорооллын автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.9237767,
+    "lon": 106.9840448,
+    "aliases": [
+      "16 r horooll in avtbsni buudal",
+      "16 r horooll in avtobusni bdl",
+      "16 r horooll in avtobusni buudal",
+      "16 r hrll in avtobusni buudal",
+      "16 р хороолл ын автобусны буудал",
+      "16rhoroollinavtobusnibuudal",
+      "16рхорооллынавтобусныбуудал"
+    ]
+  },
+  "17 р сургууль": {
+    "canonical": "17 р сургууль",
+    "type": "bus_stop",
+    "lat": 47.9499639,
+    "lon": 106.9141945,
+    "aliases": [
+      "17 r srglь",
+      "17 r surguulь",
+      "17 р сургууль",
+      "17rsurguulь",
+      "17рсургууль"
+    ]
+  },
+  "17 р сургуулийн буудал": {
+    "canonical": "17-р сургуулийн буудал",
+    "type": "bus_stop",
+    "lat": 47.9486734,
+    "lon": 106.9136997,
+    "aliases": [
+      "17 r srgln buudal",
+      "17 r surguuliin bdl",
+      "17 r surguuliin buudal",
+      "17 р сургуулийн буудал",
+      "17rsurguuliinbuudal",
+      "17рсургуулийнбуудал"
+    ]
+  },
+  "19 р байр": {
+    "canonical": "19-р байр",
+    "type": "bus_stop",
+    "lat": 47.91194,
+    "lon": 106.839488,
+    "aliases": [
+      "19 r bair",
+      "19 r br",
+      "19 р байр",
+      "19rbair",
+      "19рбайр"
+    ]
+  },
+  "19-н үйлчилгээний төв": {
+    "canonical": "19-н үйлчилгээний төв",
+    "type": "bus_stop",
+    "lat": 47.9114867,
+    "lon": 106.8382083,
+    "aliases": [
+      "19t",
+      "19d",
+      "19 haviar",
+      "19 havid",
+      "19 n uilchilgeeni tuv",
+      "19 n uilchlgn tuv",
+      "19 н үйлчилгээний төв",
+      "19nuilchilgeenituv",
+      "19 vilchilgeenii tow",
+      "19нүйлчилгээнийтөв"
+    ]
+  },
+  "19 р сургууль": {
+    "canonical": "19-р сургууль",
+    "type": "bus_stop",
+    "lat": 47.9079996,
+    "lon": 106.7927349,
+    "aliases": [
+      "19 r srglь",
+      "19 r surguulь",
+      "19 р сургууль",
+      "19rsurguulь",
+      "19рсургууль"
+    ]
+  },
+  "19 р цооног": {
+    "canonical": "19-р цооног",
+    "type": "tourism",
+    "lat": 46.9659786,
+    "lon": 116.251917,
+    "aliases": [
+      "19 r tsng",
+      "19 r tsoonog",
+      "19 р цооног",
+      "19rtsoonog",
+      "19рцооног"
+    ]
+  },
+  "2 р буудал": {
+    "canonical": "2-р буудал",
+    "type": "bus_stop",
+    "lat": 47.9641746,
+    "lon": 106.8286722,
+    "aliases": [
+      "2 r bdl",
+      "2 r buudal",
+      "2 р буудал",
+      "2-р r bdl",
+      "2-р r buudal",
+      "2-р р буудал",
+      "2rbuudal",
+      "2рбуудал",
+      "hoyor r bdl",
+      "hoyor r buudal",
+      "hoyor р буудал",
+      "хоёр r bdl",
+      "хоёр r buudal",
+      "хоёр р буудал"
+    ]
+  },
+  "21 р хороолол": {
+    "canonical": "21-р хороолол",
+    "type": "common",
+    "lat": 47.920834,
+    "lon": 106.8170431,
+    "aliases": [
+      "21-t",
+      "21t",
+      "21d",
+      "21 havid",
+      "21 haviar",
+      "21 habiar",
+      "21 horoolol",
+      "horin neg",
+      "horinneg",
+      "хорин нэг",
+      "21 r horoolol",
+      "21 r horoolol",
+      "21 r horoolol",
+      "21 r hrll",
+      "21 р хороолол",
+      "21rhoroolol",
+      "21рхороолол"
+    ]
+  },
+  "21 р хороололын буудал": {
+    "canonical": "21-р хороололын буудал",
+    "type": "bus_stop",
+    "lat": 47.9204337,
+    "lon": 106.8167795,
+    "aliases": [
+      "21 r horoololin bdl",
+      "21 r horoololin buudal",
+      "21 r hrlln buudal",
+      "21 р хороололын буудал",
+      "21rhoroololinbuudal",
+      "21рхороололынбуудал"
+    ]
+  },
+  "23 р байр автобусны буудал": {
+    "canonical": "23-р Байр Автобусны Буудал",
+    "type": "bus_stop",
+    "lat": 47.9167572,
+    "lon": 106.8385645,
+    "aliases": [
+      "23 r bair avtbsni buudal",
+      "23 r bair avtobusni bdl",
+      "23 r bair avtobusni buudal",
+      "23 r br avtobusni buudal",
+      "23 р байр автобусны буудал",
+      "23rbairavtobusnibuudal",
+      "23рбайравтобусныбуудал"
+    ]
+  },
+  "25 р эмийн сан": {
+    "canonical": "25-р эмийн сан",
+    "type": "bus_stop",
+    "lat": 47.9145003,
+    "lon": 106.8791337,
+    "aliases": [
+      "25 dgr emiin san",
+      "25 dugaar emiin san",
+      "25-р эмийн сан",
+      "25-r emiin san",
+      "25р эмийн сан"
+    ]
+  },
+  "264 н цэг": {
+    "canonical": "264-н цэг",
+    "type": "railway_station",
+    "lat": 48.7040757,
+    "lon": 106.7318232,
+    "aliases": [
+      "264 n tseg",
+      "264 n tsg",
+      "264 н цэг",
+      "264ntseg",
+      "264нцэг"
+    ]
+  },
+  "3 4 р хороолол": {
+    "canonical": "3,4-р Хороолол",
+    "type": "bus_stop",
+    "lat": 47.92260785000001,
+    "lon": 106.8672345,
+    "aliases": [
+      "3,4t",
+      "xorolol",
+      "horolol",
+      "xoroolol",
+      "xorooll",
+      "horoolol",
+      "horooll",
+      "horoolliin etses",
+      "horoolliin etss",
+      "3, 4 r horoolol",
+      "3 4 r horooll",
+      "3 4r horooll",
+      "3 4 r hroolln etses",
+      "3 4р хороолол",
+      "3 4 р хороолол",
+      "3 4-р r horoolol",
+      "3 4-р r hroolol",
+      "3 4-р r hrooll",
+      "3 4-р р хорооллын",
+      "3 4-р р хорооллын",
+      "3 4 r horooll",
+      "3 4 r horooll",
+      "3 4 r hroolln",
+      "3 4 р хороолл",
+      "3 4 р  хороолол",
+      "34rhorooll",
+      "34рхороолол"
+    ]
+  },
+  "3 р сургууль": {
+    "canonical": "3-р Сургууль",
+    "type": "bus_stop",
+    "lat": 47.92923595,
+    "lon": 106.91848035,
+    "aliases": [
+      "3 r sruuuli",
+      "3 r surguuli",
+      "3 р сургууль",
+      "3-р sruuuli",
+      "3-р surguuli",
+      "3-р  сургууль",
+      "3rsurguuli",
+      "3рсургууль",
+      "gurav dugaar sur",
+      "gurav dgr surguuli",
+      "gurav dugaar sur",
+      "гурав дугар sur",
+      "гурав дугаар сургууль",
+      "гуравдугаар сургууль"
+    ]
+  },
+  "3 р эмнэлэг": {
+    "canonical": "3-р Эмнэлэг",
+    "type": "bus_stop",
+    "lat": 47.9131857,
+    "lon": 106.85984865,
+    "aliases": [
+      "3r emneleg",
+      "3r emnlg",
+      "3р эмнэлг",
+      "3 р эмнэлэг",
+      "3-r emneleg",
+      "3-r emnlg",
+      "3-р эмнэлг",
+      "3-р эмнэлэг",
+      "3remneleg",
+      "3рэмнэлэг",
+      "gurav dugaar emneleg",
+      "gurav dgr emnlg",
+      "гурав дугаар эмнэлг",
+      "gurav dugaar emneleg",
+      "гурав дугаар эмнэлэг",
+      "гурав дгаар эмнэлэг",
+      "гурав дгаар эмнэлг",
+      "гурав дугаар эмнэлэг"
+    ]
+  },
+  "31 р зөрлөг": {
+    "canonical": "31-р зөрлөг",
+    "type": "railway_station",
+    "lat": 45.5005739,
+    "lon": 109.5946146,
+    "aliases": [
+      "31 r zurlg",
+      "31 r zurlug",
+      "31 р зөрлг",
+      "31 р зөрлөг",
+      "31rzurlug",
+      "31рзөрлөг"
+    ]
+  },
+  "32 р байр": {
+    "canonical": "32-р байр",
+    "type": "bus_stop",
+    "lat": 47.91124615,
+    "lon": 106.83309115,
+    "aliases": [
+      "32 r bair",
+      "32r bair",
+      "32 р байр",
+      "32rbair",
+      "32рбайр"
+    ]
+  },
+  "32 ын тойрог": {
+    "canonical": "32-ын тойрог",
+    "type": "bus_stop",
+    "lat": 47.94462313333333,
+    "lon": 106.9144984,
+    "aliases": [
+      "32 in toirog",
+      "32 in toirg",
+      "32n toirog",
+      "32n toirg",
+      "32 ын тойрог",
+      "32intoirog",
+      "32intoirg",
+      "32ынтоирог"
+    ]
+  },
+  "33 ийн буудал": {
+    "canonical": "33=ийн буудал",
+    "type": "bus_stop",
+    "lat": 47.9700306,
+    "lon": 106.9305068,
+    "aliases": [
+      "33 iin bdl",
+      "33 iin buudal",
+      "33 ийн буудал",
+      "33iinbuudal",
+      "33ийнбуудал"
+    ]
+  },
+  "34 р байр": {
+    "canonical": "34-р байр",
+    "type": "bus_stop",
+    "lat": 47.9154089,
+    "lon": 106.8325708,
+    "aliases": [
+      "34 r bair",
+      "34 r br",
+      "34 р байр",
+      "34rbair",
+      "34рбайр"
+    ]
+  },
+  "34 р цэг": {
+    "canonical": "34-р цэг",
+    "type": "railway_station",
+    "lat": 50.1379316,
+    "lon": 106.1937986,
+    "aliases": [
+      "34 r tseg",
+      "34r tseg",
+      "34-р цэг",
+      "34rtseg",
+      "34рцэг"
+    ]
+  },
+  "39 р сургуулийн автобусны буудал": {
+    "canonical": "39-р сургуулийн автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.9342795,
+    "lon": 106.9067432,
+    "aliases": [
+      "39 r srgln avtobusni buudal",
+      "39 r surguuliin avtbsni buudal",
+      "39 r surguuliin avtobusni bdl",
+      "39 r surguuliin avtobusni buudal",
+      "39 р сургуулийн автобусны буудал",
+      "39rsurguuliinavtobusnibuudal",
+      "39рсургуулийнавтобусныбуудал"
+    ]
+  },
+  "39 р сургууль": {
+    "canonical": "39-р сургууль",
+    "type": "bus_stop",
+    "lat": 47.93670539999999,
+    "lon": 106.90873355,
+    "aliases": [
+      "39 r srguuli",
+      "39 r surguuli",
+      "39 р сургууль",
+      "39rsurguuli",
+      "39рсургууль"
+    ]
+  },
+  "42 р сургуулийн буудал": {
+    "canonical": "42-р сургуулийн буудал",
+    "type": "bus_stop",
+    "lat": 47.9138296,
+    "lon": 106.7749488,
+    "aliases": [
+      "42 r srguuln buudal",
+      "42 r surguuliin buudl",
+      "42 r surguuliin buudal",
+      "42 р сургуулийн буудал",
+      "42rsurguuliinbuudal",
+      "42рсургуулийнбуудал"
+    ]
+  },
+  "430 худаг": {
+    "canonical": "430 Худаг",
+    "type": "bus_stop",
+    "lat": 47.9404961,
+    "lon": 106.9690171,
+    "aliases": [
+      "430 hudg",
+      "430 hudag",
+      "430 худаг",
+      "430hudag",
+      "430худаг"
+    ]
+  },
+  "5 буудал": {
+    "canonical": "5 буудал",
+    "type": "bus_stop",
+    "lat": 47.9549038,
+    "lon": 106.91528735,
+    "aliases": [
+      "5 buudl",
+      "5 buudal",
+      "5 буудал",
+      "5-р buudl",
+      "5-р buudal",
+      "5-р буудал",
+      "5buudal",
+      "5буудал",
+      "tavan buudl",
+      "tavan buudal",
+      "tavn buudl",
+      "tavn buudal",
+      "тавн буудал",
+      "таван буудал"
+    ]
+  },
+  "5 шар": {
+    "canonical": "5 Шар",
+    "type": "bus_stop",
+    "lat": 47.9098515,
+    "lon": 106.81506225,
+    "aliases": [
+      "5 shar",
+      "5 шар",
+      "5shar",
+      "5шар",
+      "5n shar",
+      "5н шар",
+      "5nshar",
+      "5ншар",
+      "tavan shar",
+      "tavn shar",
+      "tavan шар",
+      "таван шар",
+      "тавн шар"
+    ]
+  },
+  "57 р сургуулийн автобусны буудал": {
+    "canonical": "57-р сургуулийн автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.93959375,
+    "lon": 106.91239765,
+    "aliases": [
+      "57 r sruugln avtobusni buudal",
+      "57 r surguuliin avtbsni buudal",
+      "57 r surguuliin avtobusni bdl",
+      "57 r surguuliin avtobusni buudal",
+      "57 р сургуулийн автобусны буудал",
+      "57rsurguuliinavtobusnibuudal",
+      "57рсургуулийнавтобусныбуудал"
+    ]
+  },
+  "5шар микроны буудал": {
+    "canonical": "5шар микроны буудал",
+    "type": "bus_stop",
+    "lat": 47.9109139,
+    "lon": 106.8218039,
+    "aliases": [
+      "5shar mikroni bdl",
+      "5shar mikroni buudal",
+      "5shar mkrni buudal",
+      "5sharmikronibuudal",
+      "5shr mikroni buudal",
+      "5шар микроны буудал",
+      "5шармикроныбуудал"
+    ]
+  },
+  "6 буудал": {
+    "canonical": "6 буудал",
+    "type": "bus_stop",
+    "lat": 47.965763,
+    "lon": 106.9175553,
+    "aliases": [
+      "6 buudl",
+      "6 buudal",
+      "6 буудал",
+      "6buudal",
+      "6буудал",
+      "6buudl",
+      "zurgaan buudal",
+      "зургаан буудал",
+      "zurgan buudal",
+      "зурган буудал"
+    ]
+  },
+  "6 р хороолол": {
+    "canonical": "6-Р ХОРООЛОЛ",
+    "type": "bus_stop",
+    "lat": 47.9272866,
+    "lon": 106.9042777,
+    "aliases": [
+      "6 r horoolol",
+      "6 r hrooll",
+      "6 р хороолол",
+      "6rhoroolol",
+      "6рхороолол"
+    ]
+  },
+  "63 р байр": {
+    "canonical": "63-р байр",
+    "type": "tourism",
+    "lat": 47.9153142,
+    "lon": 106.9045059,
+    "aliases": [
+      "63 r bair",
+      "63 r br",
+      "63 р байр",
+      "63rbair",
+      "63рбайр"
+    ]
+  },
+  "64 р дэлгүүр": {
+    "canonical": "64-р дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.9227063,
+    "lon": 106.9270564,
+    "aliases": [
+      "64 r delguur",
+      "64 r dlgr",
+      "64 р длгр",
+      "64 р дэлгүүр",
+      "64rdelguur",
+      "64рдэлгүүр",
+      "jarn durv"
+    ]
+  },
+  "65 р дэлгүүр": {
+    "canonical": "65-р дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.9200585,
+    "lon": 106.7938167,
+    "aliases": [
+      "65 r delguur",
+      "65 r dlgr",
+      "65 р длгр",
+      "65 р дэлгүүр",
+      "65rdelguur",
+      "65рдэлгүүр"
+    ]
+  },
+  "7 буудал": {
+    "canonical": "7 буудал",
+    "type": "bus_stop",
+    "lat": 47.9686801,
+    "lon": 106.9174168,
+    "aliases": [
+      "7 buudl",
+      "7 buudal",
+      "7 буудал",
+      "7buudal",
+      "7буудал",
+      "7buudl",
+      "doloon buudal",
+      "долоон буудал",
+      "doloon buudl"
+
+    ]
+  },
+  "7 р сургууль": {
+    "canonical": "7-р Сургууль",
+    "type": "bus_stop",
+    "lat": 47.86060209999999,
+    "lon": 106.7620734,
+    "aliases": [
+      "7 r srguuli",
+      "7 r surguuli",
+      "7 р сургууль",
+      "7rsurguuli",
+      "7рсургууль"
+    ]
+  },
+  "7 р хорооны буудал": {
+    "canonical": "7-р хорооны буудал",
+    "type": "bus_stop",
+    "lat": 47.948528,
+    "lon": 106.8249948,
+    "aliases": [
+      "7 r horooni buudl",
+      "7 r horooni buudal",
+      "7 r hrooni buudal",
+      "7 р хорооны буудал",
+      "7rhoroonibuudal",
+      "7рхорооныбуудал"
+    ]
+  },
+  "72 р хотхон": {
+    "canonical": "72-р хотхон",
+    "type": "bus_stop",
+    "lat": 47.92258245,
+    "lon": 106.9741646,
+    "aliases": [
+      "72 r hothon",
+      "72 r hthn",
+      "72 р хотхон",
+      "72rhothon",
+      "72рхотхон"
+    ]
+  },
+  "9 р дэлгүүр": {
+    "canonical": "9 р дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.93772075,
+    "lon": 106.92111295,
+    "aliases": [
+      "9 r delguur",
+      "9 r dlguur",
+      "9-р дэлгүүр",
+      "9 р дэлгүүр",
+      "9rdelguur",
+      "9рдэлгүүр"
+    ]
+  },
+  "тэрэлж": {
+    "canonical": "тэрэлж ",
+    "type": "tourism",
+    "lat": 47.8036,
+    "lon": 107.548432,
+    "aliases": [
+      "terelj",
+      "terlj",
+      "тэрлж",
+      "тэрэлж"
+    ]
+  },
+  "түнхэл": {
+    "canonical": "түнхэл",
+    "type": "tourism",
+    "lat": 48.6307741,
+    "lon": 106.7531465,
+    "aliases": [
+      "tunhl",
+      "tunhel",
+      "түнхл",
+      "түнхэл"
+    ]
+  },
+  "авгын гол": {
+    "canonical": "Авгын гол",
+    "type": "railway_station",
+    "lat": 44.1050708,
+    "lon": 111.3953794,
+    "aliases": [
+      "avgin gol",
+      "avgingol",
+      "avgn gol",
+      "авгын гол",
+      "авгынгол"
+    ]
+  },
+  "авто сургууль": {
+    "canonical": "Авто-Сургууль",
+    "type": "bus_stop",
+    "lat": 47.9214421,
+    "lon": 106.814374,
+    "aliases": [
+      "avto srguuli",
+      "avto surguuli",
+      "avtosurguuli",
+      "авто сургууль",
+      "автосургууль"
+    ]
+  },
+  "автобусны буудал": {
+    "canonical": "Автобусны буудал",
+    "type": "bus_stop",
+    "lat": 47.9000624,
+    "lon": 106.8580728,
+    "aliases": [
+      "avtbuusni buudal",
+      "avtobusni buudl",
+      "avtobusni buudal",
+      "avtobusnibuudal",
+      "автобусны буудал",
+      "автобусныбуудал"
+    ]
+  },
+  "агуйт": {
+    "canonical": "Агуйт",
+    "type": "railway_station",
+    "lat": 47.044508,
+    "lon": 107.6433221,
+    "aliases": [
+      "aguit",
+      "агуйт"
+    ]
+  },
+  "агьсүмбэт": {
+    "canonical": "Агьсүмбэт",
+    "type": "railway_station",
+    "lat": 45.150926,
+    "lon": 109.9646858,
+    "aliases": [
+      "agisumbt",
+      "agisumbet",
+      "агьсүмбт",
+      "агьсүмбэт"
+    ]
+  },
+  "адаацаг": {
+    "canonical": "Адаацаг ",
+    "type": "sum",
+    "lat": 46.325681,
+    "lon": 105.7501255,
+    "aliases": [
+      "adaatsag",
+      "adtsg",
+      "адаацаг"
+    ]
+  },
+  "ажилчдын соёлын ордон": {
+    "canonical": "Ажилчдын Соёлын Ордон",
+    "type": "bus_stop",
+    "lat": 47.89889250000001,
+    "lon": 106.897442,
+    "aliases": [
+      "ajilchdin soyolin ordn",
+      "ajilchdin soylin ordon",
+      "ajilchdin soyln ordon",
+      "ajilchdinsoyolinordon",
+      "ajlchdn soylin ordon",
+      "ажилчдын соёлын ордон",
+      "ажилчдын соёлын ордон",
+      "ажилчдынсоёлынордон"
+    ]
+  },
+  "айраг": {
+    "canonical": "Айраг",
+    "type": "common",
+    "lat": 45.624687,
+    "lon": 109.2296812,
+    "aliases": [
+      "airag",
+      "airg",
+      "айраг"
+    ]
+  },
+  "алаг эрдэнэ": {
+    "canonical": "Алаг-Эрдэнэ ",
+    "type": "sum",
+    "lat": 50.3412347,
+    "lon": 100.1371055,
+    "aliases": [
+      "alag erdene",
+      "alag erdne",
+      "alagerdene",
+      "alg erdene",
+      "алаг эрднэ",
+      "алаг эрдэнэ",
+      "алагэрдэнэ"
+    ]
+  },
+  "алдархаан": {
+    "canonical": "Алдархаан ",
+    "type": "sum",
+    "lat": 47.7009943,
+    "lon": 96.550748,
+    "aliases": [
+      "aldarhaan",
+      "aldrhn",
+      "алдархаан"
+    ]
+  },
+  "алтай хотхон": {
+    "canonical": "Алтай хотхон",
+    "type": "bus_stop",
+    "lat": 47.9038321,
+    "lon": 106.8928752,
+    "aliases": [
+      "altai hothon",
+      "altai hothn",
+      "altaihothon",
+      "алтай хотхон",
+      "алтай хотхн",
+      "алтайхотхон"
+    ]
+  },"алтай": {
+    "canonical": "Алтай ",
+    "type": "sum",
+    "lat": 46.01546400000001,
+    "lon": 92.56111646666666,
+    "aliases": [
+      "altai",
+      "алтай"
+    ]
+  },
+  "алтанбулаг": {
+    "canonical": "Алтанбулаг ",
+    "type": "sum",
+    "lat": 48.7610958,
+    "lon": 106.4085966,
+    "aliases": [
+      "altanbulag",
+      "altnbulg",
+      "altanbulg",
+      "алтанбулаг"
+    ]
+  },
+  "алтанцөгц": {
+    "canonical": "Алтанцөгц ",
+    "type": "sum",
+    "lat": 48.9839476,
+    "lon": 90.4096387,
+    "aliases": [
+      "altantsugts",
+      "altntsugts",
+      "алтнцөгц",
+      "алтанцөгц"
+    ]
+  },
+  "алтанширээ": {
+    "canonical": "Алтанширээ ",
+    "type": "sum",
+    "lat": 45.5344988,
+    "lon": 110.3517866,
+    "aliases": [
+      "altanshiree",
+      "altnshre",
+      "алтанширэ",
+      "алтанширээ"
+    ]
+  },
+  "алтганы гол": {
+    "canonical": "Алтганы гол",
+    "type": "railway_station",
+    "lat": 45.6383929,
+    "lon": 109.5498288,
+    "aliases": [
+      "altgani gol",
+      "altganigol",
+      "altgni gol",
+      "алтганы гол",
+      "алтганыгол"
+    ]
+  },
+  "амгалан": {
+    "canonical": "Амгалан",
+    "type": "railway_station",
+    "lat": 47.90547290000001,
+    "lon": 107.0144667666667,
+    "aliases": [
+      "amgalan",
+      "amgln",
+      "amglan",
+      "amgaln",
+      "амгалан"
+    ]
+  },
+  "англи сургууль": {
+    "canonical": "Англи сургууль",
+    "type": "bus_stop",
+    "lat": 47.874917775,
+    "lon": 106.844596175,
+    "aliases": [
+      "angli srguuli",
+      "angli surguuli",
+      "anglisurguuli",
+      "англи сургууль",
+      "англисургууль"
+    ]
+  },
+  "ар согоот": {
+    "canonical": "Ар Согоот",
+    "type": "bus_stop",
+    "lat": 48.0039696,
+    "lon": 106.9240394,
+    "aliases": [
+      "ar sgoot",
+      "ar sogoot",
+      "arsogoot",
+      "ар согоот",
+      "арсогоот"
+    ]
+  },
+  "арбулаг": {
+    "canonical": "Арбулаг ",
+    "type": "sum",
+    "lat": 49.9397599,
+    "lon": 99.3570637,
+    "aliases": [
+      "arbulg",
+      "arbulag",
+      "арбулаг"
+    ]
+  },
+  "арвайхээр": {
+    "canonical": "Арвайхээр ",
+    "type": "sum",
+    "lat": 46.2762107,
+    "lon": 102.772429,
+    "aliases": [
+      "arvaiheer",
+      "арвайхээр"
+    ]
+  },
+  "аргалант": {
+    "canonical": "Аргалант ",
+    "type": "sum",
+    "lat": 47.8374637,
+    "lon": 106.0890365,
+    "aliases": [
+      "argalant",
+      "arglnt",
+      "arglant",
+      "аргалант"
+    ]
+  },
+  "ард кино театр": {
+    "canonical": "Ард кино театр",
+    "type": "bus_stop",
+    "lat": 47.9180321,
+    "lon": 106.9117120666667,
+    "aliases": [
+      "ard kino teatr",
+      "ard kino",
+      "ardkinoteatr",
+      "ард кино театр",
+      "ардкинотеатр"
+    ]
+  },
+  "архангай": {
+    "canonical": "Архангай",
+    "type": "aimag",
+    "lat": 48.014237,
+    "lon": 100.925552,
+    "aliases": [
+      "arhangai",
+      "arhngai",
+      "архангай"
+    ]
+  },
+  "архивын ерөнхий газар": {
+    "canonical": "Архивын ерөнхий газар",
+    "type": "bus_stop",
+    "lat": 47.83953807499999,
+    "lon": 106.79002155,
+    "aliases": [
+      "arhivin ernhi gazar",
+      "arhivin erunhii gazar",
+      "arhivin erunhii gzr",
+      "arhivinerunhiigazar",
+      "arhvn erunhii gazar",
+      "архивын ернхий газар",
+      "архивын ерөнхий газар",
+      "архивынерөнхийгазар"
+    ]
+  },
+  "архуст": {
+    "canonical": "Архуст ",
+    "type": "sum",
+    "lat": 47.4832475,
+    "lon": 107.9412059,
+    "aliases": [
+      "arhust",
+      "архуст"
+    ]
+  },
+  "асгат": {
+    "canonical": "Асгат",
+    "type": "sum",
+    "lat": 49.4827861,
+    "lon": 96.6961198,
+    "aliases": [
+      "asgat",
+      "asgt",
+      "асгат"
+    ]
+  },
+  "аэрофлот": {
+    "canonical": "Аэрофлот",
+    "type": "bus_stop",
+    "lat": 47.9131837,
+    "lon": 106.901135,
+    "aliases": [
+      "aeroflot",
+      "арофлот",
+      "аэрофлот"
+    ]
+  },
+  "баацагаан": {
+    "canonical": "Баацагаан ",
+    "type": "sum",
+    "lat": 45.6190682,
+    "lon": 99.513184,
+    "aliases": [
+      "baatsagaan",
+      "baatsgn",
+      "баацагаан"
+    ]
+  },
+  "бага тойруу": {
+    "canonical": "Бага тойруу ",
+    "type": "tourism",
+    "lat": 47.9258031,
+    "lon": 106.9195897,
+    "aliases": [
+      "baga toiruu",
+      "baga toiru",
+      "bagatoiruu",
+      "bga toiruu",
+      "bga toiru",
+      "бага тойруу",
+      "багатойруу"
+    ]
+  },
+  "багануур": {
+    "canonical": "Багануур ",
+    "type": "sum",
+    "lat": 47.8269539,
+    "lon": 108.3534565,
+    "aliases": [
+      "baganuur",
+      "bganuur",
+      "багануур"
+    ]
+  },
+  "багахангай": {
+    "canonical": "Багахангай",
+    "type": "sum",
+    "lat": 47.3716926,
+    "lon": 107.4505119,
+    "aliases": [
+      "bagahangai",
+      "bgahangai",
+      "багахангай"
+    ]
+  },
+  "барc": {
+    "canonical": "Барс-2 ",
+    "type": "common",
+    "lat": 47.9088443,
+    "lon": 106.8321592,
+    "aliases": [
+      "bars ",
+      "барс"
+    ]
+  },
+  "баруун 4 зам": {
+    "canonical": "Баруун 4 зам",
+    "type": "bus_stop",
+    "lat": 47.91528025,
+    "lon": 106.8952246,
+    "aliases": [
+      "baruun 4 zam",
+      "baruun 4",
+      "baruun dorov",
+      "baruun durv",
+      "baruun4zam",
+      "bruun 4 ",
+      "bruun duruv",
+      "brn dorov zam",
+      "brn дөрөв zam",
+      "баруун 4 ",
+      "баруун 4 зам",
+      "баруун dorov",
+      "баруун дөрөв",
+      "баруун4зам"
+    ]
+  },
+  "баруун баян улаан": {
+    "canonical": "Баруун Баян-Улаан",
+    "type": "sum",
+    "lat": 45.1937223,
+    "lon": 101.5675588,
+    "aliases": [
+      "baruun bayan ulaan",
+      "baruun bayan uln",
+      "baruun byn ulaan",
+      "baruunbayanulaan",
+      "brn bayan ulaan",
+      "баруун баян улаан",
+      "баруунбаянулаан"
+    ]
+  },
+  "баруун салаа ": {
+    "canonical": "Баруун Салаа",
+    "type": "bus_stop",
+    "lat": 47.9594745,
+    "lon": 106.8214028,
+    "aliases": [
+      "baruun salaa",
+      "baruunsalaa",
+      "barun salaa",
+      "barunsalaa",
+      "баруун салаа",
+      "баруунсалаа"
+    ]
+  },
+  "баруун урт": {
+    "canonical": "Баруун-Урт ",
+    "type": "sum",
+    "lat": 46.6821826,
+    "lon": 113.279737,
+    "aliases": [
+      "baruun urt",
+      "baruunurt",
+      "barun urt",
+      "баруун урт",
+      "баруунурт"
+    ]
+  },
+  "баруунбүрэн": {
+    "canonical": "Баруунбүрэн ",
+    "type": "sum",
+    "lat": 49.2374395,
+    "lon": 104.7871475,
+    "aliases": [
+      "baruunburen",
+      "barunburn",
+      "баруунбүрн",
+      "баруунбүрэн"
+    ]
+  },
+  "баруунтуруун": {
+    "canonical": "Баруунтуруун ",
+    "type": "sum",
+    "lat": 49.7844848,
+    "lon": 94.8369207,
+    "aliases": [
+      "baruunturuun",
+      "baruntrun",
+      "баруунтуруун"
+    ]
+  },
+  "баруунхараа": {
+    "canonical": "Баруунхараа",
+    "type": "railway_station",
+    "lat": 48.9027795,
+    "lon": 106.091651,
+    "aliases": [
+      "baruunharaa",
+      "barunhara",
+      "баруунхараа"
+    ]
+  },
+  "бат өлзий": {
+    "canonical": "Бат-Өлзий ",
+    "type": "common",
+    "lat": 46.7587754,
+    "lon": 101.8874086,
+    "aliases": [
+      "bat ulzi",
+      "bat ulzii",
+      "batulzii",
+      "бат өлзий",
+      "батөлзий"
+    ]
+  },
+  "батноров": {
+    "canonical": "Батноров ",
+    "type": "sum",
+    "lat": 47.9895504,
+    "lon": 111.4633907,
+    "aliases": [
+      "batnorov",
+      "btnrv",
+      "батноров"
+    ]
+  },
+  "батсүмбэр": {
+    "canonical": "Батсүмбэр ",
+    "type": "sum",
+    "lat": 48.4014335,
+    "lon": 106.8159452,
+    "aliases": [
+      "batsumber",
+      "btsumbr",
+      "батсүмбр",
+      "батсүмбэр"
+    ]
+  },
+  "батцэнгэл": {
+    "canonical": "Батцэнгэл ",
+    "type": "sum",
+    "lat": 47.877803,
+    "lon": 101.9037436,
+    "aliases": [
+      "battsengel",
+      "bttsengl",
+      "батцэнгл",
+      "батцэнгэл"
+    ]
+  },
+  "батширээт": {
+    "canonical": "Батширээт ",
+    "type": "sum",
+    "lat": 48.7945612,
+    "lon": 109.7195163,
+    "aliases": [
+      "batshireet",
+      "batshiret",
+      "батширт",
+      "батширээт"
+    ]
+  },
+  "баянмонгол хороолол": {
+    "canonical": "Баянмонгол хороолол",
+    "type": "bus_stop",
+    "lat": 47.9044889,
+    "lon": 106.9311711,
+    "aliases": [
+      "bayanmongol horoolol",
+      "bayanmongol",
+      "bayanmongolhoroolol",
+      "baynmngl",
+      "баянмонгол",
+      "баянмонголхороолол"
+    ]
+  },
+  "баян бүрд": {
+    "canonical": "Баян Бүрд",
+    "type": "bus_stop",
+    "lat": 47.92828235,
+    "lon": 106.90795085,
+    "aliases": [
+      "bayan burd",
+      "bayn burd",
+      "baynburd",
+      "баян бүрд",
+      "баянбүрд"
+    ]
+  },
+  "баян агт": {
+    "canonical": "Баян-Агт ",
+    "type": "sum",
+    "lat": 49.0947876,
+    "lon": 102.1573216,
+    "aliases": [
+      "bayn agt",
+      "baynagt",
+      "баян агт",
+      "баянагт"
+    ]
+  },
+  "баян адрага": {
+    "canonical": "Баян-Адрага",
+    "type": "sum",
+    "lat": 48.4860906,
+    "lon": 111.2502596,
+    "aliases": [
+      "bayn adraga",
+      "bayn adrga",
+      "baynadraga",
+      "баян адрага",
+      "баянадрага"
+    ]
+  },
+  "баян овоо": {
+    "canonical": "Баян-Овоо ",
+    "type": "sum",
+    "lat": 45.55477070000001,
+    "lon": 106.1569026,
+    "aliases": [
+      "bayn ovo",
+      "bayn ovoo",
+      "baynovoo",
+      "bayn ovo",
+      "баян овоо",
+      "баяновоо"
+    ]
+  },
+  "баян уул": {
+    "canonical": "Баян-Уул ",
+    "type": "sum",
+    "lat": 48.11459505,
+    "lon": 103.80779805,
+    "aliases": [
+      "bayn uul",
+      "baynuul",
+      "bayn uul",
+      "баян уул",
+      "баянуул"
+    ]
+  },
+  "баян хангай": {
+    "canonical": "Баян-Хангай",
+    "type": "bus_stop",
+    "lat": 47.9961589,
+    "lon": 106.8259369,
+    "aliases": [
+      "bayn hangai",
+      "bayn hngai",
+      "baynhangai",
+      "баян хангай",
+      "баянхангай"
+    ]
+  },
+  "баян өлгий": {
+    "canonical": "Баян-Өлгий ",
+    "type": "aimag",
+    "lat": 48.2714537,
+    "lon": 89.8308541,
+    "aliases": [
+      "bayn ulgi",
+      "bayn ulgii",
+      "baynulgii",
+      "баян өлгий",
+      "баянөлгий"
+    ]
+  },
+  "баян өндөр": {
+    "canonical": "Баян-Өндөр ",
+    "type": "sum",
+    "lat": 46.4986069,
+    "lon": 104.2728967,
+    "aliases": [
+      "bayn undr",
+      "bayn undur",
+      "baynundur",
+      "bayn undur",
+      "баян өндр",
+      "баян өндөр",
+      "баянөндөр"
+    ]
+  },
+  "баян өнжүүл": {
+    "canonical": "Баян-Өнжүүл ",
+    "type": "sum",
+    "lat": 46.9195144,
+    "lon": 105.9986904,
+    "aliases": [
+      "bayn unjl",
+      "bayn unjuul",
+      "baynunjuul",
+      "bayn unjuul",
+      "баян өнжүүл",
+      "баян өнжүүл",
+      "баянөнжүүл"
+    ]
+  },
+  "баянбулаг": {
+    "canonical": "Баянбулаг ",
+    "type": "sum",
+    "lat": 46.8527533,
+    "lon": 98.0619882,
+    "aliases": [
+      "bayanbulag",
+      "baynbulg",
+      "баянбулаг"
+    ]
+  },
+  "баянбуурал": {
+    "canonical": "Баянбуурал",
+    "type": "railway_station",
+    "lat": 48.4747237,
+    "lon": 106.8053774,
+    "aliases": [
+      "bayanbuural",
+      "baynbuurl",
+      "баянбуурал"
+    ]
+  },
+  "баянговь": {
+    "canonical": "Баянговь ",
+    "type": "sum",
+    "lat": 44.5246128,
+    "lon": 100.1236623,
+    "aliases": [
+      "bayangovi",
+      "баянговь"
+    ]
+  },
+  "баянгол зочид буудал": {
+    "canonical": "Баянгол зочид буудал",
+    "type": "bus_stop",
+    "lat": 47.9133819,
+    "lon": 106.9150152,
+    "aliases": [
+      "bayngol",
+      "bayangol",
+      "bayagol zochid buudl",
+      "bayngol zochid buudal",
+      "bayngolzochidbuudal",
+      "bayngol zochid buudal",
+      "баянгол зочид буудал",
+      "баянголзочидбуудал"
+    ]
+  },
+  "баяндалай": {
+    "canonical": "Баяндалай ",
+    "type": "sum",
+    "lat": 42.9548191,
+    "lon": 103.4136051,
+    "aliases": [
+      "bayandalai",
+      "bayndlai",
+      "баяндалай"
+    ]
+  },
+  "баяндун": {
+    "canonical": "Баяндун ",
+    "type": "sum",
+    "lat": 49.3910136,
+    "lon": 113.4042802,
+    "aliases": [
+      "bayandun",
+      "bayndun",
+      "баяндун"
+    ]
+  },
+  "баяндэлгэр": {
+    "canonical": "Баяндэлгэр ",
+    "type": "sum",
+    "lat": 46.67961035,
+    "lon": 110.2895153,
+    "aliases": [
+      "bayndelger",
+      "bayndlger",
+      "баяндэлгэр"
+    ]
+  },
+  "баянжаргалан": {
+    "canonical": "Баянжаргалан ",
+    "type": "sum",
+    "lat": 46.4423758,
+    "lon": 108.2088094,
+    "aliases": [
+      "baynjargalan",
+      "baynjrgaln",
+      "баянжаргалан"
+    ]
+  },
+  "баянзүрх дүүрэг": {
+    "canonical": "Баянзүрх дүүрэг",
+    "type": "bus_stop",
+    "lat": 47.9164238,
+    "lon": 106.9649182,
+    "aliases": [
+      "bzd",
+      "бзд",
+      "bayanzurh",
+      "baynzurh",
+      "bayan zurh",
+      "bayn zurh",
+      "baynzurh duureg",
+      "baynzurhduureg",
+      "баянзүрх дүүрэг",
+      "баянзүрх",
+      "баянзүрх дүүрэг",
+      "баянзүрхдүүрэг"
+    ]
+  },
+  "баянлиг": {
+    "canonical": "Баянлиг",
+    "type": "sum",
+    "lat": 44.3872188,
+    "lon": 100.95369,
+    "aliases": [
+      "bayanlig",
+      "baynlig",
+      "баянлиг"
+    ]
+  },
+  "баяннуур": {
+    "canonical": "Баяннуур ",
+    "type": "sum",
+    "lat": 47.820994,
+    "lon": 104.5482612,
+    "aliases": [
+      "bayannuur",
+      "baynnuur",
+      "баяннуур"
+    ]
+  },
+  "баянтал": {
+    "canonical": "Баянтал ",
+    "type": "sum",
+    "lat": 46.6654779,
+    "lon": 108.1929705,
+    "aliases": [
+      "bayantal",
+      "bayntal",
+      "баянтал"
+    ]
+  },
+  "баянтэс": {
+    "canonical": "Баянтэс",
+    "type": "sum",
+    "lat": 49.7445099,
+    "lon": 96.311256,
+    "aliases": [
+      "bayantes",
+      "bayntes",
+      "баянтэс"
+    ]
+  },
+  "баянтүмэн": {
+    "canonical": "Баянтүмэн",
+    "type": "sum",
+    "lat": 48.054924,
+    "lon": 114.7050855,
+    "aliases": [
+      "bayantumen",
+      "bayntumen",
+      "bayntumn",
+      "баянтүмэн"
+    ]
+  },
+  "баянхайрхан": {
+    "canonical": "Баянхайрхан ",
+    "type": "sum",
+    "lat": 49.3275792,
+    "lon": 96.419242,
+    "aliases": [
+      "bayanhairhan",
+      "baynhairhn",
+      "баянхайрхан"
+    ]
+  },
+  "баянхангай": {
+    "canonical": "Баянхангай ",
+    "type": "sum",
+    "lat": 47.7764304,
+    "lon": 105.6313379,
+    "aliases": [
+      "bayanhangai",
+      "baynhangai",
+      "баянхангай"
+    ]
+  },
+  "баянхонгор": {
+    "canonical": "Баянхонгор ",
+    "type": "aimag",
+    "lat": 45.6632756,
+    "lon": 100.1941676,
+    "aliases": [
+      "bayanhongor",
+      "baynhongor",
+      "baynhongr",
+      "баянхонгор",
+      "bayan hongor",
+      "bayn hongor",
+      "bayn hongr",
+      "баян хонгор"
+    ]
+  },
+  "баянхошуу": {
+    "canonical": "Баянхошуу",
+    "type": "bus_stop",
+    "lat": 47.987865,
+    "lon": 106.8019481,
+    "aliases": [
+      "bayan hoshuu",
+      "bayn hoshuu",
+      "bayn hoshu",
+      "bayanhoshuu",
+      "baynhoshuu",
+      "baynhoshu",
+      "баян хошуу",
+      "баянхошуу"
+    ]
+  },
+  "баянхутаг": {
+    "canonical": "Баянхутаг ",
+    "type": "sum",
+    "lat": 47.1974088,
+    "lon": 110.9061472,
+    "aliases": [
+      "bayanhutag",
+      "baynhutg",
+      "баянхутаг"
+    ]
+  },
+  "баянцагаан": {
+    "canonical": "Баянцагаан",
+    "type": "sum",
+    "lat": 46.01497715,
+    "lon": 103.07829145,
+    "aliases": [
+      "bayantsagaan",
+      "bayntsgaan",
+      "bayntsgan",
+      "баянцагаан"
+    ]
+  },
+  "баянцогт": {
+    "canonical": "Баянцогт ",
+    "type": "sum",
+    "lat": 48.0937765,
+    "lon": 106.0235344,
+    "aliases": [
+      "bayantsogt",
+      "bayntsogt",
+      "баянцогт"
+    ]
+  },
+  "баянчандмань": {
+    "canonical": "Баянчандмань ",
+    "type": "sum",
+    "lat": 48.1872442,
+    "lon": 106.2085413,
+    "aliases": [
+      "bayanchandmani",
+      "baynchandmani",
+      "baynchandmni",
+      "баянчандмань"
+    ]
+  },
+  "бигэр": {
+    "canonical": "Бигэр ",
+    "type": "sum",
+    "lat": 45.7236077,
+    "lon": 97.1817321,
+    "aliases": [
+      "biger",
+      "бигэр"
+    ]
+  },
+  "биндэр": {
+    "canonical": "Биндэр",
+    "type": "sum",
+    "lat": 48.5898371,
+    "lon": 110.6715035,
+    "aliases": [
+      "binder",
+      "биндэр"
+    ]
+  },
+  "бичил": {
+    "canonical": "бичил",
+    "type": "common",
+    "lat": 47.925786,
+    "lon": 106.880026,
+    "aliases": [
+      "bichil",
+      "bichl",
+      "бичил", 
+      "бичл" 
+    ]
+},
+  "блю скай товер": {
+    "canonical": "Блю скай товер",
+    "type": "tourism",
+    "lat": 47.9165599,
+    "lon": 106.9185972,
+    "aliases": [
+      "blue sky tower",
+      "blue sky",
+      "bluesky ",
+      "blue sky hotel ",
+      "блю скай",
+      "блү скай"
+    ]
+  },
+  "богд ар хороолол": {
+    "canonical": "Богд ар хороолол",
+    "type": "bus_stop",
+    "lat": 47.91162925,
+    "lon": 106.88400865,
+    "aliases": [
+      "bogd ar",
+      "bogd ar khoroolol",
+      "bogd ar horoolol",
+      "bogdar",
+      "bogdar horoolol",
+      "богд ар",
+      "богдар"
+    ]
+  },
+  "богд": {
+    "canonical": "Богд ",
+    "type": "common",
+    "lat": 44.85965695,
+    "lon": 101.6774075,
+    "aliases": [
+      "bogd",
+      "богд"
+    ]
+  },
+  "бор өндөр": {
+    "canonical": "Бор-Өндөр ",
+    "type": "sum",
+    "lat": 46.32550190000001,
+    "lon": 109.50895855,
+    "aliases": [
+      "bor undur",
+      "bor undr",
+      "borundur",
+      "бор өндр",
+      "бор өндөр",
+      "борөндөр"
+    ]
+  },
+  "борнуур": {
+    "canonical": "Борнуур ",
+    "type": "sum",
+    "lat": 48.4558636,
+    "lon": 106.2333923,
+    "aliases": [
+      "bornuur",
+      "bornur",
+      "борнуур"
+    ]
+  },
+  "ботаник": {
+    "canonical": "Ботаник",
+    "type": "bus_stop",
+    "lat": 47.91245993333334,
+    "lon": 107.0012072333333,
+    "aliases": [
+      "botanik",
+      "batonik",
+      "botanik",
+      "ботаник",
+      "батоник"
+    ]
+  },
+  "бугат": {
+    "canonical": "Бугат ",
+    "type": "sum",
+    "lat": 49.0129607,
+    "lon": 89.9445926,
+    "aliases": [
+      "bugt",
+      "bugat",
+      "бугат",
+      "бугт"
+    ]
+  },
+  "булган": {
+    "canonical": "Булган ",
+    "type": "aimag",
+    "lat": 47.09171701428571,
+    "lon": 101.1400158142857,
+    "aliases": [
+      "bulgn",
+      "bulgan",
+      "булган"
+    ]
+  },
+  "бумбат": {
+    "canonical": "Бумбат",
+    "type": "railway_station",
+    "lat": 47.7885657,
+    "lon": 107.1706008,
+    "aliases": [
+      "bumbt",
+      "bumbat",
+      "бумбат"
+    ]
+  },
+  "бууцагаан": {
+    "canonical": "Бууцагаан ",
+    "type": "sum",
+    "lat": 46.1908574,
+    "lon": 98.7621709,
+    "aliases": [
+      "buutsuugn",
+      "buutsagaan",
+      "бууцагаан"
+    ]
+  },
+  "буяант": {
+    "canonical": "Буяант ",
+    "type": "common",
+    "lat": 48.5741844,
+    "lon": 89.6918093,
+    "aliases": [
+      "buyant",
+      "buynt",
+      "буяант",
+      "буянт"
+    ]
+  },
+  "буянт ухаа": {
+    "canonical": "Буянт ухаа",
+    "type": "bus_stop",
+    "lat": 47.856075825,
+    "lon": 106.7648153,
+    "aliases": [
+      "buyant uha",
+      "buyant uhaa",
+      "buyantuhaa",
+      "buyantuha",
+      "buyantuhaa ",
+      "buynt uha",
+      "buynt uhaa",
+      "buyntuhaa",
+      "buyntuha",
+      "buyntuhaa ",
+      "буянт ухаа",
+      "буянтухаа",
+      "буянтуха"
+    ]
+  },
+  "бэлх зах": {
+    "canonical": "Бэлх зах",
+    "type": "bus_stop",
+    "lat": 47.9953449,
+    "lon": 106.9659637,
+    "aliases": [
+      "belh zah",
+      "belhzah",
+      "бэлх зах",
+      "бэлхзах"
+    ]
+  },
+  "бэлэндалай зөрлөг": {
+    "canonical": "Бэлэндалай зөрлөг",
+    "type": "railway_station",
+    "lat": 49.0447674,
+    "lon": 105.4085281,
+    "aliases": [
+      "belendalai",
+      "belendalai zurlug",
+      "belendalaizurlug",
+      "бэлэндалай зөрлөг",
+      "бэлэндалайзөрлөг"
+    ]
+  },
+  "бэрх": {
+    "canonical": "Бэрх",
+    "type": "common",
+    "lat": 48.8542977,
+    "lon": 106.3357307,
+    "aliases": [
+      "berh",
+      "бэрх"
+    ]
+  },
+  "бүрэгхангай": {
+    "canonical": "Бүрэгхангай ",
+    "type": "sum",
+    "lat": 48.3441676,
+    "lon": 104.1218625,
+    "aliases": [
+      "bureghangai",
+      "бүрэгхангай"
+    ]
+  },
+  "бүрэн": {
+    "canonical": "Бүрэн",
+    "type": "common",
+    "lat": 46.8256856,
+    "lon": 105.1594577,
+    "aliases": [
+      "buren",
+      "burn",
+      "бүрэн"
+    ]
+  },
+  "бүрэнтогтох": {
+    "canonical": "Бүрэнтогтох ",
+    "type": "sum",
+    "lat": 49.5034409,
+    "lon": 99.7286399,
+    "aliases": [
+      "burentogtoh",
+      "бүрэнтогтох"
+    ]
+  },
+  "бөмбөгөр": {
+    "canonical": "Бөмбөгөр ",
+    "type": "sum",
+    "lat": 46.2276859,
+    "lon": 99.6081843,
+    "aliases": [
+      "bumbgur",
+      "bumbugur",
+      "bombgor",
+      "bombogor",
+      "бөмбгөр",
+      "бөмбөгөр"
+    ]
+  },
+  "бөхийн өргөө": {
+    "canonical": "Бөхийн өргөө",
+    "type": "bus_stop",
+    "lat": 47.9183736,
+    "lon": 106.933624,
+    "aliases": [
+      "buhin urguu",
+      "buhiin urgu",
+      "buhiin urguu",
+      "buhiinurguu",
+      "buhinurgu",
+      "бөхийнөргө",
+      "бөхийн өргө",
+      "бөхийн өргөө",
+      "бөхийнөргөө"
+    ]
+  },
+  "бөхмөрөн": {
+    "canonical": "Бөхмөрөн",
+    "type": "sum",
+    "lat": 49.8534547,
+    "lon": 90.7399002,
+    "aliases": [
+      "buhmurn",
+      "buhmurun",
+      "бөхмөрн",
+      "бөхмөрөн"
+    ]
+  },
+  "вива сити": {
+    "canonical": "Вива сити",
+    "type": "bus_stop",
+    "lat": 47.8806664,
+    "lon": 106.857332025,
+    "aliases": [
+      "viva city",
+      "vivacity",
+      "вива сити",
+      "вивасити"
+    ]
+  },
+  "вокзал": {
+    "canonical": "Вокзал",
+    "type": "bus_stop",
+    "lat": 47.9096137,
+    "lon": 106.8847132,
+    "aliases": [
+      "vogzal",
+      "vokzal",
+      "вокзал"
+    ]
+  },
+  "галт": {
+    "canonical": "Галт ",
+    "type": "common",
+    "lat": 48.7476743,
+    "lon": 100.1100754,
+    "aliases": [
+      "galt",
+      "галт"
+    ]
+  },
+  "галуут": {
+    "canonical": "Галуут",
+    "type": "sum",
+    "lat": 46.7399905,
+    "lon": 100.0278503,
+    "aliases": [
+      "galuut",
+      "галуут"
+    ]
+  },
+  "галшар": {
+    "canonical": "Галшар",
+    "type": "sum",
+    "lat": 46.5107682,
+    "lon": 110.694114,
+    "aliases": [
+      "galshar",
+      "gаlshr",
+      "галшар"
+    ]
+  },
+  "гандан": {
+    "canonical": "Гандан",
+    "type": "bus_stop",
+    "lat": 47.9247467,
+    "lon": 106.89413915,
+    "aliases": [
+      "gandan",
+      "gandn",
+      "гандан"
+    ]
+  },
+  "ганц худаг": {
+    "canonical": "Ганц худаг",
+    "type": "common",
+    "lat": 47.9553497,
+    "lon": 106.93389575,
+    "aliases": [
+      "gants hudg",
+      "gants hudag",
+      "gantshudg",
+      "gantshudag",
+      "ганц худаг",
+      "ганцхудаг"
+    ]
+  },
+  "говь алтай": {
+    "canonical": "Говь-Алтай ",
+    "type": "aimag",
+    "lat": 45.2472499,
+    "lon": 95.792071,
+    "aliases": [
+      "gowi altai",
+      "gowialtai",
+      "govi altai",
+      "govialtai",
+      "говь алтай",
+      "говь-алтай",
+      "говьалтай"
+    ]
+  },
+  "говь угтаал": {
+    "canonical": "Говь-Угтаал ",
+    "type": "sum",
+    "lat": 46.0062583,
+    "lon": 107.4832003,
+    "aliases": [
+      "govi ugtaal",
+      "goviugtaal",
+      "говь угтаал",
+      "говьугтаал"
+    ]
+  },
+  "говьсүмбэр": {
+    "canonical": "Говьсүмбэр ",
+    "type": "aimag",
+    "lat": 46.4403916,
+    "lon": 108.5018654,
+    "aliases": [
+      "govisumber",
+      "govisumbr",
+      "говьсүмбэр"
+    ]
+  },
+  "гурванбулаг": {
+    "canonical": "Гурванбулаг ",
+    "type": "sum",
+    "lat": 47.48643505,
+    "lon": 100.9758387,
+    "aliases": [
+      "gurvnbulg",
+      "gurvanbulag",
+      "гурванбулаг"
+    ]
+  },
+  "гурванзагал": {
+    "canonical": "Гурванзагал ",
+    "type": "sum",
+    "lat": 49.2359648,
+    "lon": 114.9134653,
+    "aliases": [
+      "gurvnzagl",
+      "gurvanzagal",
+      "гурванзагал"
+    ]
+  },
+  "гурвансайхан": {
+    "canonical": "Гурвансайхан",
+    "type": "sum",
+    "lat": 45.5950955,
+    "lon": 107.0912891,
+    "aliases": [
+      "gurvnshn",
+      "gurvnsaihn",
+      "gurvansaihan",
+      "гурвансайхан"
+    ]
+  },
+  "гурвантэс": {
+    "canonical": "Гурвантэс ",
+    "type": "sum",
+    "lat": 43.3267526,
+    "lon": 100.7525448,
+    "aliases": [
+      "gurvntes",
+      "gurvantes",
+      "гурвантэс"
+    ]
+  },
+  "гучин ус": {
+    "canonical": "Гучин-Ус",
+    "type": "sum",
+    "lat": 45.299822,
+    "lon": 102.4150053,
+    "aliases": [
+      "guchin us",
+      "guchinus",
+      "guchnus",
+      "гучин ус",
+      "гучинус"
+    ]
+  },
+  "гэрэлт хотхон": {
+    "canonical": "Гэрэлт хотхон",
+    "type": "bus_stop",
+    "lat": 47.8831148,
+    "lon": 106.9112924,
+    "aliases": [
+      "gerelt hothon",
+      "gerelt hothn",
+      "gerelthothon",
+      "гэрлт хотхон",
+      "гэрэлт хотхон",
+      "гэрэлтхотхон"
+    ]
+  },
+  "гэмтэлийн эмнэлэг": {
+    "canonical": "Гэмтэлийн эмнэлэг",
+    "type": "bus_stop",
+    "lat": 47.921435, 
+    "lon": 106.859135,
+    "aliases": [
+      "gemtel",
+      "gemtl",
+      "gemtliin",
+      "gemtliin emneleg",
+      "gemtliinemneleg",
+      "гэмтэл",
+      "гэмтэлийн эмнэлэг",
+      "гэмтэлийнэмнэлэг"
+    ]
+  },
+  "гранд плаза": {
+    "canonical": "Гранд плаза",
+    "type": "bus_stop",
+    "lat": 47.914436,
+    "lon":  106.890576,
+    "aliases": [
+      "grand plaza",
+      "grandplaza",
+      "гранд плаза",
+      "грандплаза"
+    ]
+  },
+  "да хүрээ зах": {
+    "canonical": "Да хүрээ зах",
+    "type": "bus_stop",
+    "lat": 47.930357,
+    "lon": 107.005628425,
+    "aliases": [
+      "da huree",
+      "da huree zah",
+      "dahureezah",
+      "dahuree",
+      "дахүрээ зах",
+      "да хүрээ зах",
+      "дахүрээзах"
+    ]
+  },
+  "давааны зөрлөг": {
+    "canonical": "Давааны зөрлөг",
+    "type": "bus_stop",
+    "lat": 47.85381264999999,
+    "lon": 106.7631535,
+    "aliases": [
+      "davaani",
+      "davaani zurlug",
+      "davaanizurlug",
+      "davani zurlug",
+      "davanizurlug",
+      "давааны зөрлөг",
+      "даваанызөрлөг"
+    ]
+  },
+  "давст": {
+    "canonical": "Давст ",
+    "type": "sum",
+    "lat": 50.4831718,
+    "lon": 92.3465284,
+    "aliases": [
+      "davst",
+      "давст"
+    ]
+  },
+  "дадал": {
+    "canonical": "Дадал ",
+    "type": "sum",
+    "lat": 49.0407843,
+    "lon": 111.5560125,
+    "aliases": [
+      "dadal",
+      "dadl",
+      "дадал"
+    ]
+  },
+  "даланжаргалан": {
+    "canonical": "Даланжаргалан ",
+    "type": "sum",
+    "lat": 46.0216305,
+    "lon": 109.0450215,
+    "aliases": [
+      "dalanjargalan",
+      "dalnjargaln",
+      "даланжаргалан"
+    ]
+  },
+  "даланзадгад": {
+    "canonical": "Даланзадгад",
+    "type": "sum",
+    "lat": 43.5546886,
+    "lon": 104.4887444,
+    "aliases": [
+      "dalanzadgad",
+      "dalnzadgad",
+      "dalnzadgd",
+      "даланзадгад"
+    ]
+  },
+  "дамбадаржаагийн тойрог": {
+    "canonical": "Дамбадаржаагийн тойрог",
+    "type": "bus_stop",
+    "lat": 47.97797455,
+    "lon": 106.93877875,
+    "aliases": [
+      "dambadarjaa",
+      "dambadarjaagiin toirog",
+      "dambadarjaagiin toirg",
+      "dambadarjaagiintoirog",
+      "dmbdrjgn toirog",
+      "дамбадаржаа",
+      "дамбадаржаагийн тойрог",
+      "дамбадаржаагийнтойрог"
+    ]
+  },
+  "дарви": {
+    "canonical": "Дарви ",
+    "type": "sum",
+    "lat": 46.78906475,
+    "lon": 93.93128545,
+    "aliases": [
+      "darvi",
+      "drvi",
+      "дарви"
+    ]
+  },
+  "дархан": {
+    "canonical": "Дархан ",
+    "type": "sum",
+    "lat": 48.0505901,
+    "lon": 107.6288665,
+    "aliases": [
+      "darhan",
+      "darkhan",
+      "darkhn",
+      "darxan",
+      "darxn",
+      "drhn",
+      "дархан"
+    ]
+  },
+  "дархан уул": {
+    "canonical": "Дархан-Уул",
+    "type": "aimag",
+    "lat": 49.5251941,
+    "lon": 106.3308799,
+    "aliases": [
+      "darhan uul",
+      "darhanuul",
+      "darhn uul",
+      "дархан уул",
+      "дархануул"
+    ]
+  },
+  "дарь эх": {
+    "canonical": "Дарь эх",
+    "type": "bus_stop",
+    "lat": 47.94107, 
+    "lon": 106.93800,
+    "aliases": [
+      "dari ekh",
+      "dariex",
+      "dariekh",
+      "dari eh",
+      "dari ex",
+      "darieh",
+      "дарь эх",
+      "дарьэх"
+    ]
+  },
+  "дарьганга": {
+    "canonical": "Дарьганга ",
+    "type": "sum",
+    "lat": 45.4465384,
+    "lon": 114.102754,
+    "aliases": [
+      "dariganga",
+      "darignga",
+      "дарьганга"
+    ]
+  },
+  "дашбалбар": {
+    "canonical": "Дашбалбар ",
+    "type": "sum",
+    "lat": 49.6683826,
+    "lon": 114.278655,
+    "aliases": [
+      "dashbalbar",
+      "dashbalbr",
+      "дашбалбар"
+    ]
+  },
+  "дашинчилэн": {
+    "canonical": "Дашинчилэн ",
+    "type": "sum",
+    "lat": 47.8060945,
+    "lon": 104.1209084,
+    "aliases": [
+      "dashinchilen",
+      "дашинчилн",
+      "дашинчилэн"
+    ]
+  },
+  "драгон төв": {
+    "canonical": "Драгон төв",
+    "type": "bus_stop",
+    "lat": 47.911325, 
+    "lon": 106.821729,
+    "aliases": [
+      "dragon",
+      "dragon tov",
+      "dragon tov",
+      "dragontov",
+      "драгон төв"
+    ]
+  },
+  "долоодын хөндий": {
+    "canonical": "Долоодын хөндий",
+    "type": "railway_station",
+    "lat": 44.5876026,
+    "lon": 110.9754988,
+    "aliases": [
+      "dloodin hundii",
+      "doloodin hundi",
+      "doloodin hundii",
+      "doloodinhundii",
+      "долоодын хөндий",
+      "долоодынхөндий"
+    ]
+  },
+  "дорноговь": {
+    "canonical": "Дорноговь ",
+    "type": "aimag",
+    "lat": 44.509793,
+    "lon": 109.8075216,
+    "aliases": [
+      "dornogovi",
+      "dorngovi",
+      "дорноговь"
+    ]
+  },
+  "дорнод": {
+    "canonical": "Дорнод ",
+    "type": "aimag",
+    "lat": 48.285703,
+    "lon": 115.9641319,
+    "aliases": [
+      "dornod",
+      "dornd",
+      "дорнод"
+    ]
+  },
+  "дунд буудал": {
+    "canonical": "Дунд буудал",
+    "type": "bus_stop",
+    "lat": 47.93554865,
+    "lon": 106.93179035,
+    "aliases": [
+      "dund buudal",
+      "dund buudl",
+      "dund buudl",
+      "dundbuudal",
+      "дунд буудал",
+      "дундбуудал"
+    ]
+  },
+  "дунд гол": {
+    "canonical": "Дунд гол ",
+    "type": "railway_station",
+    "lat": 47.9078137,
+    "lon": 106.9107528,
+    "aliases": [
+      "dund gol",
+      "dundgol",
+      "дунд гол",
+      "дундгол"
+    ]
+  },
+  "дундговь": {
+    "canonical": "Дундговь ",
+    "type": "aimag",
+    "lat": 45.4793582,
+    "lon": 106.134106,
+    "aliases": [
+      "dundgovi",
+      "дундговь"
+    ]
+  },
+  "дэлгэр": {
+    "canonical": "Дэлгэр ",
+    "type": "common",
+    "lat": 46.2137307,
+    "lon": 97.595092,
+    "aliases": [
+      "delger",
+      "дэлгэр"
+    ]
+  },
+  "дэлгэрхаан": {
+    "canonical": "Дэлгэрхаан ",
+    "type": "sum",
+    "lat": 46.6567462,
+    "lon": 104.6175145,
+    "aliases": [
+      "delgerhaan",
+      "delgrhaan",
+      "дэлгрхаан",
+      "дэлгэрхаан"
+    ]
+  },
+  "дэлгэрхангай": {
+    "canonical": "Дэлгэрхангай ",
+    "type": "sum",
+    "lat": 45.1351684,
+    "lon": 104.6755487,
+    "aliases": [
+      "delgerhangai",
+      "delgrhangai",
+      "дэлгрхангай",
+      "дэлгэрхангай"
+    ]
+  },
+  "дэлгэрцогт": {
+    "canonical": "Дэлгэрцогт ",
+    "type": "sum",
+    "lat": 46.2423996,
+    "lon": 106.2439773,
+    "aliases": [
+      "delgertsogt",
+      "delgrtsogt",
+      "дэлгрцогт",
+      "дэлгэрцогт"
+    ]
+  },
+  "дэлгэрэх": {
+    "canonical": "Дэлгэрэх ",
+    "type": "sum",
+    "lat": 45.8685253,
+    "lon": 111.2026159,
+    "aliases": [
+      "delgereh",
+      "delgrh",
+      "дэлгэрх",
+      "дэлгэрэх"
+    ]
+  },
+  "дэлүүн": {
+    "canonical": "Дэлүүн ",
+    "type": "sum",
+    "lat": 47.7245247,
+    "lon": 90.6553824,
+    "aliases": [
+      "deluun",
+      "дэлүүн"
+    ]
+  },
+  "дэрэн": {
+    "canonical": "Дэрэн ",
+    "type": "sum",
+    "lat": 46.1990638,
+    "lon": 106.769922,
+    "aliases": [
+      "deren",
+      "дэрэн"
+    ]
+  },
+  "дүүхээ дэлгүүр": {
+    "canonical": "Дүүхээ дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.92228195,
+    "lon": 106.868369,
+    "aliases": [
+      "duuhee",
+      "duuhee delguur",
+      "duuheedelguur",
+      "дүүхээ",
+      "дүүхээ дэлгүүр",
+      "дүүхээдэлгүүр"
+    ]
+  },
+  "дөрвөлжин": {
+    "canonical": "Дөрвөлжин ",
+    "type": "sum",
+    "lat": 48.0385215,
+    "lon": 94.3108089,
+    "aliases": [
+      "durvuljn",
+      "durvuljin",
+      "дөрвөлжин"
+    ]
+  },
+  "дөргөн": {
+    "canonical": "Дөргөн",
+    "type": "sum",
+    "lat": 48.3034619,
+    "lon": 92.8560768,
+    "aliases": [
+      "durgun",
+      "дөргөн"
+    ]
+  },
+  "ерөө": {
+    "canonical": "Ерөө ",
+    "type": "common",
+    "lat": 49.4753934,
+    "lon": 107.5212433,
+    "aliases": [
+      "eru",
+      "eruu",
+      "ерө",
+      "ерөө"
+    ]
+  },
+  "есөнбулаг": {
+    "canonical": "Есөнбулаг ",
+    "type": "sum",
+    "lat": 46.1994021,
+    "lon": 96.4214747,
+    "aliases": [
+      "esnbulg",
+      "esunbulag",
+      "есөнбулаг"
+    ]
+  },
+  "есөнзүйл": {
+    "canonical": "Есөнзүйл ",
+    "type": "sum",
+    "lat": 46.6307893,
+    "lon": 103.7192855,
+    "aliases": [
+      "esnzuil",
+      "esunzuil",
+      "есөнзүйл"
+    ]
+  },
+  "жавхлант": {
+    "canonical": "Жавхлант ",
+    "type": "common",
+    "lat": 49.7391849,
+    "lon": 106.300629,
+    "aliases": [
+      "javhlant",
+      "жавхлант"
+    ]
+  },
+  "жанжин клуб": {
+    "canonical": "Жанжин клуб",
+    "type": "bus_stop",
+    "lat": 47.9056601,
+    "lon": 106.98109845,
+    "aliases": [
+      "janjin club",
+      "janjin klub",
+      "janjinklub",
+      "janjinclub",
+      "жанжин клуб",
+      "жанжинклуб"
+    ]
+  },
+  "жаргалан эко": {
+    "canonical": "Жаргалан ЭКО",
+    "type": "bus_stop",
+    "lat": 47.82211024999999,
+    "lon": 106.7627803,
+    "aliases": [
+      "jargalan eco",
+      "jargalaneco",
+      "жаргалан эко",
+      "жаргаланэко"
+    ]
+  },
+  "жаргалан": {
+    "canonical": "Жаргалан ",
+    "type": "sum",
+    "lat": 47.0693138,
+    "lon": 95.8915427,
+    "aliases": [
+      "jargalan",
+      "жаргалан"
+    ]
+  },
+  "жаргалант": {
+    "canonical": "Жаргалант ",
+    "type": "sum",
+    "lat": 48.30758305,
+    "lon": 100.2449189333333,
+    "aliases": [
+      "jargalant",
+      "жаргалант"
+    ]
+  },
+  "жаргалтхаан": {
+    "canonical": "Жаргалтхаан",
+    "type": "sum",
+    "lat": 47.5221964,
+    "lon": 109.3519066,
+    "aliases": [
+      "jargalthaan",
+      "жаргалтхаан"
+    ]
+  },
+  "жинст": {
+    "canonical": "Жинст ",
+    "type": "sum",
+    "lat": 45.4253606,
+    "lon": 100.287228,
+    "aliases": [
+      "jinst",
+      "жинст"
+    ]
+  },
+  "жуков": {
+    "canonical": "Жуков",
+    "type": "bus_stop",
+    "lat": 47.9177413,
+    "lon": 106.9501426,
+    "aliases": [
+      "jukov",
+      "jukv",
+      "jukuv",
+      "jukow",
+      "jukw",
+      "jukuw",
+      "жуков",
+      "жукв"
+    ]
+  },
+  "заамар": {
+    "canonical": "Заамар ",
+    "type": "sum",
+    "lat": 48.264169,
+    "lon": 104.7050121,
+    "aliases": [
+      "zaamar",
+      "заамар"
+    ]
+  },
+  "зайсан": {
+    "canonical": "Зайсан",
+    "type": "bus_stop",
+    "lat": 47.88469, 
+    "lon": 106.91277,
+    "aliases": [
+      "zaisan",
+      "zaisn",
+      "zaysan",
+      "зайсан",
+      "зайсн"
+    ]
+  },
+  "завсарын буудал": {
+    "canonical": "Завсарын буудал",
+    "type": "bus_stop",
+    "lat": 47.9587671,
+    "lon": 106.9164734,
+    "aliases": [
+      "zavsarin buudl",
+      "zavsarin buudl",
+      "zavsarin buudal",
+      "zavsrinbuudal",
+      "zvsrin buudal",
+      "завсрын буудал",
+      "завсарын буудал",
+      "завсарынбуудал"
+    ]
+  },
+  "завхан": {
+    "canonical": "Завхан ",
+    "type": "aimag",
+    "lat": 48.57983785,
+    "lon": 94.77726290000001,
+    "aliases": [
+      "zavhan",
+      "zavhn",
+      "завхан"
+    ]
+  },
+  "завханмандал": {
+    "canonical": "Завханмандал ",
+    "type": "sum",
+    "lat": 48.1179988,
+    "lon": 94.9732303,
+    "aliases": [
+      "zavhanmandal",
+      "zavhnmandl",
+      "завханмандал"
+    ]
+  },
+  "замын цагдаа": {
+    "canonical": "Замын цагдаа",
+    "type": "bus_stop",
+    "lat": 47.9743385,
+    "lon": 106.918126625,
+    "aliases": [
+      "zamiin tsagdaa",
+      "zamin tsagdaa",
+      "zamin tsagda",
+      "zamiin tsagda",
+      "zamintsagdaa",
+      "zamn tsagdaa",
+      "zamiintsagdaa",
+      "zamntsagdaa",
+      "замын цагдаа",
+      "замынцагдаа"
+    ]
+  },
+  "замын үүд": {
+    "canonical": "Замын-Үүд",
+    "type": "sum",
+    "lat": 43.8157806,
+    "lon": 111.8102524,
+    "aliases": [
+      "zamiin vvd",
+      "zamiinvvd",
+      "zamin vvd",
+      "zaminvvd",
+      "zamiin uud",
+      "zamiinuud",
+      "zamin uud",
+      "zaminuud",
+      "замын үүд",
+      "замынүүд"
+    ]
+  },
+  "зоорь": {
+    "canonical": "Зоорь",
+    "type": "common",
+    "lat": 47.9079622,
+    "lon": 106.7673635,
+    "aliases": [
+      "zoori",
+      "зоорь"
+    ]
+  },
+  "зунжин": {
+    "canonical": "Зунжин",
+    "type": "common",
+    "lat": 48.0050364,
+    "lon": 106.9239074,
+    "aliases": [
+      "zunjin",
+      "зунжин"
+    ]
+  },
+  "зурагт": {
+    "canonical": "Зурагт",
+    "type": "common",
+    "lat": 47.9334495,
+    "lon": 106.8869593,
+    "aliases": [
+      "zuragt",
+      "zurgt",
+      "зурагт",
+      "zurgtiin etses",
+      "zurgtin etses",
+      "zurgtiin shine etses",
+      "zurgtiin huuchin etses",
+      "зурагтын эцэс",
+      "зурагтийн эцэс",
+      "зурагтийн шинэ эцэс",
+      "зурагтийн хуучин эцэс"
+    ]
+  
+  },
+  "зуунмод": {
+    "canonical": "Зуунмод ",
+    "type": "sum",
+    "lat": 47.7030632,
+    "lon": 106.9456862,
+    "aliases": [
+      "zuunmod",
+      "зуунмод"
+    ]
+  },
+  "зүүн 4 зам": {
+    "canonical": "Зүүн 4 зам",
+    "type": "bus_stop",
+    "lat": 47.91892595,
+    "lon": 106.94138755,
+    "aliases": [
+      "zuun 4",
+      "zuun dorov",
+      "zuun duruv",
+      "zuun 4 zam",
+      "zuun 4-р zam",
+      "zuun dorov zam",
+      "zuun дөрөв zam",
+      "zuun4zam",
+      "зүүн дөрөв",
+      "зүүн 4 зам",
+      "зүүн 4-р зам",
+      "зүүн dorov зам",
+      "зүүн дөрөв зам",
+      "зүүн4зам"
+    ]
+  },
+  "зүүн баян улаан": {
+    "canonical": "Зүүн Баян-Улаан",
+    "type": "sum",
+    "lat": 46.4134877,
+    "lon": 102.8602163,
+    "aliases": [
+      "zuun bayn ulaan",
+      "zuun bayan ulaan",
+      "zuun byn ulaan",
+      "zuunbayanulaan",
+      "зүүн баян улаан",
+      "зүүнбаянулаан"
+    ]
+  },
+  "зүүн салаа": {
+    "canonical": "Зүүн Салаа",
+    "type": "bus_stop",
+    "lat": 47.9879915,
+    "lon": 106.827617,
+    "aliases": [
+      "zuun salaa",
+      "zuunsalaa",
+      "зүүн салаа",
+      "зүүнсалаа",
+      "zuun salaanii",
+      "zuun salaani",
+      "зүүнсалааны"
+    ]
+  },
+  "зүүнбаян өртөө": {
+    "canonical": "Зүүнбаян өртөө",
+    "type": "railway_station",
+    "lat": 44.5188731,
+    "lon": 110.0628348,
+    "aliases": [
+      "zuunbayn urtuu",
+      "zuunbayan urtu",
+      "zuunbayan urtuu",
+      "zuunbaynurtuu",
+      "зүүнбаян өртө",
+      "зүүнбаян өртөө",
+      "зүүнбаянөртөө"
+    ]
+  },
+  "зүүнбүрэн": {
+    "canonical": "Зүүнбүрэн",
+    "type": "sum",
+    "lat": 49.9681527,
+    "lon": 105.864961,
+    "aliases": [
+      "zuunburen",
+      "зүүнбүрэн"
+    ]
+  },
+  "зүүнговь": {
+    "canonical": "Зүүнговь ",
+    "type": "sum",
+    "lat": 50.0939263,
+    "lon": 94.0116912,
+    "aliases": [
+      "zuungovi",
+      "зүүнговь"
+    ]
+  },
+  "зүүнхангай": {
+    "canonical": "Зүүнхангай",
+    "type": "sum",
+    "lat": 49.2739443,
+    "lon": 95.3831652,
+    "aliases": [
+      "zuunhangai",
+      "зүүнхангай"
+    ]
+  },
+  "зүүнхараа": {
+    "canonical": "Зүүнхараа",
+    "type": "railway_station",
+    "lat": 48.8568195,
+    "lon": 106.4544636,
+    "aliases": [
+      "zuun hara",
+      "zuun haraa",
+      "зүүн хараа",
+      "zuunhara",
+      "zuunharaa",
+      "зүүнхараа"
+    ]
+  },
+  "идэр": {
+    "canonical": "Идэр",
+    "type": "sum",
+    "lat": 48.1452362,
+    "lon": 97.5610503,
+    "aliases": [
+      "ider",
+      "идэр"
+    ]
+  },
+  "икс апартмент": {
+    "canonical": "Икс апартмент",
+    "type": "bus_stop",
+    "lat": 47.9145179,
+    "lon": 106.9749341,
+    "aliases": [
+      "iks apartment",
+      "iks aprtmnt",
+      "iksapartment",
+      "икс апартмент",
+      "иксапартмент"
+    ]
+  },
+  "иргэний бүртгэл мэдээллийн төв": {
+    "canonical": "Иргэний бүртгэл мэдээллийн төв",
+    "type": "bus_stop",
+    "lat": 47.9332057,
+    "lon": 106.9276256,
+    "aliases": [
+      "irgenii burtgl medeelliin tuv",
+      "irgenii burtgel",
+      "irgeniiburtgelmedeelliintuvbuudal",
+      "irgeni burtgel medeelliin tuv ",
+      "иргэний бүртгэл",
+      "иргэний бүртгэл мэдээллийн төв ",
+      "иргэнийбүртгэлмэдээллийнтөв"
+    ]
+  },
+  "их монгол хороолол": {
+    "canonical": "их монгол хороолол",
+    "type": "bus_stop",
+    "lat": 47.9063111,
+    "lon": 106.9432175,
+    "aliases": [
+      "ih mongol",
+      "ih mongol horoolol",
+      "ih mongol hrooll",
+      "ihmongolhoroolol",
+      "их монгол хороолол",
+      "ихмонголхороолол"
+    ]
+  },
+  "их тамир": {
+    "canonical": "Их тамир",
+    "type": "sum",
+    "lat": 47.5258906,
+    "lon": 101.0077831,
+    "aliases": [
+      "ih tamir",
+      "ihtamir",
+      "их тамир",
+      "ихтамир"
+    ]
+  },
+  "их уул": {
+    "canonical": "Их-Уул ",
+    "type": "sum",
+    "lat": 49.09036325,
+    "lon": 100.13838455,
+    "aliases": [
+      "ih uul",
+      "ihuul",
+      "их уул",
+      "ихуул"
+    ]
+  },
+  "их засаг их сургууль": {
+    "canonical": "Их Засаг Их Сургууль",
+    "type": "bus_stop",
+    "lat": 47.916051,
+    "lon": 106.887534,
+    "aliases": [
+      "ih zasag",
+      "ikh zasag",
+      "ih zasg",
+      "ikh zasg",
+      "ih zasag ih surguuli",
+      "ih zasag ih surgl",
+      "ihzasagihsurguuli",
+      "их засаг",
+      "ихзасаг",
+      "их засаг их сургууль",
+      "ихзасагихсургууль"
+    ]
+  },
+  "иххэт": {
+    "canonical": "Иххэт",
+    "type": "sum",
+    "lat": 46.1661864,
+    "lon": 110.0938455,
+    "aliases": [
+      "ihhet",
+      "иххэт"
+    ]
+  },
+  "их дэлгүүр": {
+    "canonical": "Их дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.917059, 
+    "lon": 106.906264,
+    "aliases": [
+      "ih delguur",
+      "ihdelguur",
+      "ih delgur",
+      "ihdelgur",
+      "ikh delguur",
+      "ikhdelguur",
+      "ikh delgur",
+      "ikhdelgur",
+      "их дэлгүүр",
+      "ихделгүүр"
+    ]
+  },
+  "колонк": {
+    "canonical": "Колонк",
+    "type": "common",
+    "lat": 47.9839743,
+    "lon": 106.9241821,
+    "aliases": [
+      "colonk",
+      "kolonk",
+      "колонк"
+    ]
+  },
+  "ктмс": {
+    "canonical": "КТМС",
+    "type": "bus_stop",
+    "lat": 47.9265742,
+    "lon": 106.94297685,
+    "aliases": [
+      "ktms",
+      "ктмс"
+    ]
+  },
+  "лабратори": {
+    "canonical": "common",
+    "type": "bus_stop",
+    "lat": 47.9112289,
+    "lon": 106.8190467,
+    "aliases": [
+      "labratori",
+      "лабратори"
+    ]
+  },
+  "луус": {
+    "canonical": "Луус",
+    "type": "sum",
+    "lat": 45.5828838,
+    "lon": 105.7964147,
+    "aliases": [
+      "luus",
+      "луус"
+    ]
+  },
+  "мааньт": {
+    "canonical": "Мааньт",
+    "type": "railway_station",
+    "lat": 47.2502893,
+    "lon": 107.5334679,
+    "aliases": [
+      "maanit",
+      "мааньт"
+    ]
+  },
+  "макс малл": {
+    "canonical": "Макс Малл",
+    "type": "bus_stop",
+    "lat": 47.9157862,
+    "lon": 106.8913408,
+    "aliases": [
+      "maks mall",
+      "maksmall",
+      "макс малл",
+      "максмалл"
+    ]
+  },
+  "малчин": {
+    "canonical": "Малчин",
+    "type": "common",
+    "lat": 49.6552961,
+    "lon": 93.2441641,
+    "aliases": [
+      "malchin",
+      "malchn",
+      "малчин"
+    ]
+  },
+  "мандал": {
+    "canonical": "Мандал ",
+    "type": "sum",
+    "lat": 48.8529771,
+    "lon": 106.9472408,
+    "aliases": [
+      "mandal",
+      "mandl",
+      "мандал"
+    ]
+  },
+  "мандал овоо": {
+    "canonical": "Мандал-Овоо",
+    "type": "sum",
+    "lat": 44.7235603,
+    "lon": 104.0208515,
+    "aliases": [
+      "mandal ovo",
+      "mandal ovoo",
+      "mandalovoo",
+      "mandl ovoo",
+      "мандал овоо",
+      "мандаловоо"
+    ]
+  },
+  "мандах": {
+    "canonical": "Мандах ",
+    "type": "sum",
+    "lat": 44.2048013,
+    "lon": 108.3945516,
+    "aliases": [
+      "mandah",
+      "mandh",
+      "мандах"
+    ]
+  },
+  "манзушир": {
+    "canonical": "Манзушир",
+    "type": "tourism",
+    "lat": 47.7590134,
+    "lon": 106.9972648,
+    "aliases": [
+      "manzushir",
+      "manzshir",
+      "манзушир"
+    ]
+  },
+  "манлай": {
+    "canonical": "Манлай ",
+    "type": "common",
+    "lat": 43.9952603,
+    "lon": 107.1445997,
+    "aliases": [
+      "manlai",
+      "манлай"
+    ]
+  },
+  "манхан": {
+    "canonical": "Манхан",
+    "type": "sum",
+    "lat": 47.4524465,
+    "lon": 92.3164107,
+    "aliases": [
+      "manhan",
+      "manhn",
+      "манхан"
+    ]
+  },
+  "матад": {
+    "canonical": "Матад",
+    "type": "sum",
+    "lat": 47.1038997,
+    "lon": 115.7076622,
+    "aliases": [
+      "matad",
+      "matd",
+      "матад"
+    ]
+  },
+  "механик инженер сургууль": {
+    "canonical": "Механик инженер сургууль",
+    "type": "bus_stop",
+    "lat": 47.90051295,
+    "lon": 106.89318535,
+    "aliases": [
+      "mehanik engineerin sur",
+      "mehanik injener surguuli",
+      "mehanik engineer surguuli",
+      "mehanikinjenersurguuli",
+      "mhnk injener surguuli",
+      "механик инженер сургууль",
+      "механик инженерийн сургууль",
+      "механикинженерсургууль"
+    ]
+  },
+  "миний дэлгүүр": {
+    "canonical": "Миний Дэлгүүр",
+    "type": "common",
+    "lat": 47.908269,
+    "lon": 106.9358282,
+    "aliases": [
+      "minii delguur",
+      "minii delgur",
+      "miniidelguur",
+      "mni delguur",
+      "миний дэлгүүр"
+    ]
+  },
+  "мишээл экспо": {
+    "canonical": "Мишээл Экспо",
+    "type": "bus_stop",
+    "lat": 47.8939907,
+    "lon": 106.8837849,
+    "aliases": [
+      "misheel expo",
+      "misheelexpo",
+      "mishel expo",
+      "мишээл экспо",
+      "мишээлэкспо"
+    ]
+  },
+  "модны 2": {
+    "canonical": "Модны 2",
+    "type": "bus_stop",
+    "lat": 47.919024,
+    "lon": 106.890621,
+    "aliases": [
+      "modni hoyor",
+      "modnii hoyor", 
+      "modny hoyor",
+      "modni hoyr", 
+      "modnii hoyr",
+      "modny hoyr",
+      "modni hoer",
+      "modnii hoer",
+      "modny hoer", 
+      "modny 2",
+      "modnii 2",
+      "modni 2",
+      "modnii2",
+      "modni2",
+      "modny2",
+      "модны 2",
+      "модний 2",
+      "модныи 2",
+      "модны2"
+    ]
+  },
+  "могод": {
+    "canonical": "Могод ",
+    "type": "sum",
+    "lat": 48.2585166,
+    "lon": 102.9318535,
+    "aliases": [
+      "mogod",
+      "могод"
+    ]
+  },
+  "могул таун": {
+    "canonical": "Могул таун",
+    "type": "bus_stop",
+    "lat": 47.8755135,
+    "lon": 106.9076973,
+    "aliases": [
+      "mogul town",
+      "mogultown",
+      "могул таун",
+      "могултаун"
+    ]
+  },
+  "монгол кино үйлдвэр": {
+    "canonical": "Монгол кино үйлдвэр",
+    "type": "bus_stop",
+    "lat": 47.91686165,
+    "lon": 106.9601815,
+    "aliases": [
+      "kino uildver",
+      "mongol kino uildver",
+      "mongol kino uildvr",
+      "kinouildver",
+      "mongolkinouildver",
+      "kino uildwer",
+      "mongol kino uildwer",
+      "mongol kino uildwr",
+      "kinouildwer",
+      "kino vildwer",
+      "mongol kino vildwer",
+      "mongol kino vildwr",
+      "kinovildwer",
+      "mongolkinouildver",
+      "кино үйлдвэр",
+      "киноүйлдвэр",
+      "монгол кино үйлдвэр",
+      "монголкиноүйлдвэр"
+    ]
+  },
+  "монгол улсын их сургууль": {
+    "canonical": "Монгол улсын их сургууль",
+    "type": "bus_stop",
+    "lat": 47.9224964,
+    "lon": 106.9206627,
+    "aliases": [
+      "muis",
+      "mongol ulsin ih surguuli",
+      "mongol ulsiin ih surguuli",
+      "mongolulsinihsurguuli",
+      "муис",
+      "монгол улсын их сургууль",
+      "монголулсынихсургууль"
+    ]
+  },
+  "монел": {
+    "canonical": "Монел",
+    "type": "bus_stop",
+    "lat": 47.9434608,
+    "lon": 106.969764,
+    "aliases": [
+      "monel",
+      "moneliin",
+      "монелийн",
+      "монел"
+    ]
+  },
+  "монос": {
+    "canonical": "Монос",
+    "type": "common",
+    "lat": 47.9059921,
+    "lon": 106.7861052,
+    "aliases": [
+      "monos",
+      "монос"
+    ]
+  },
+  "морин": {
+    "canonical": "Морин",
+    "type": "сommon",
+    "lat": 47.849278,
+    "lon": 106.7241593,
+    "aliases": [
+      "morin",
+      "морин"
+    ]
+  },
+  "морингийн даваа": {
+    "canonical": "Морингийн даваа",
+    "type": "bus_stop",
+    "lat": 47.84457725,
+    "lon": 106.72952755,
+    "aliases": [
+      "moringiin davaa",
+      "moringiin dva",
+      "moringiindavaa",
+      "морингийн даваа",
+      "морингийндаваа"
+    ]
+  },
+  "москва ресторан": {
+    "canonical": "Москва ресторан",
+    "type": "bus_stop",
+    "lat": 47.9230719,
+    "lon": 106.8809908,
+    "aliases": [
+      "moskva restoran",
+      "moskvarestoran",
+      "москва ресторан",
+      "москваресторан"
+    ]
+  },
+  "мотобуудлага спорт төв": {
+    "canonical": "Мотобуудлага спорт төв",
+    "type": "bus_stop",
+    "lat": 47.9011993,
+    "lon": 106.85731775,
+    "aliases": [
+      "motobuudlaga sport tuv",
+      "motobuudlag sport tuv",
+      "motobuudlagasporttuv",
+      "мотобуудлага спорт төв",
+      "мотобуудлагаспорттөв"
+    ]
+  },
+  "мубис": {
+    "canonical": "МУБИС",
+    "type": "bus_stop",
+    "lat": 47.91872384999999,
+    "lon": 106.924202375,
+    "aliases": [
+      "mongol ulsiin bolovsroliin ih surguuli",
+      "mubis",
+      "bagshiin deed",
+      "bagshin deed",
+      "bagshn deed",
+      "bagshiin ded",
+      "bagshin ded",
+      "монгол улсын боловсролын их сургууль",
+      "мубис"
+    ]
+  },
+  "мянгад": {
+    "canonical": "Мянгад ",
+    "type": "sum",
+    "lat": 48.5721622,
+    "lon": 91.8246955,
+    "aliases": [
+      "myangad",
+      "myangd",
+      "мянгад"
+    ]
+  },
+  "мөнгөн завъяа": {
+    "canonical": "Мөнгөн завъяа",
+    "type": "bus_stop",
+    "lat": 47.9165888,
+    "lon": 106.9095261,
+    "aliases": [
+      "mungun zavyaa",
+      "mungun zavya",
+      "mungun zaviya",
+      "mungunzavya",
+      "мөнгөн завъяа",
+      "мөнгөнзавъяа"
+    ]
+  },
+  "мөнгөнморьт": {
+    "canonical": "Мөнгөнморьт ",
+    "type": "sum",
+    "lat": 48.5233296,
+    "lon": 108.5496166,
+    "aliases": [
+      "mungunmorit",
+      "mungunmort",
+      "мөнгөнморьт"
+    ]
+  },
+  "мөнххаан": {
+    "canonical": "Мөнххаан ",
+    "type": "sum",
+    "lat": 47.1407138,
+    "lon": 112.272721,
+    "aliases": [
+      "munhkhaan",
+      "munhhaan",
+      "мөнххаан"
+    ]
+  },
+  "мөнххайрхан": {
+    "canonical": "Мөнххайрхан ",
+    "type": "sum",
+    "lat": 47.0156281,
+    "lon": 91.8369583,
+    "aliases": [
+      "munhhairhan",
+      "мөнххайрхан"
+    ]
+  },
+  "мөрөн": {
+    "canonical": "Мөрөн",
+    "type": "sum",
+    "lat": 48.48478245,
+    "lon": 105.19068195,
+    "aliases": [
+      "murun",
+      "мөрөн"
+    ]
+  },
+  "мөст": {
+    "canonical": "Мөст",
+    "type": "common",
+    "lat": 46.7375983,
+    "lon": 92.6024386,
+    "aliases": [
+      "must",
+      "most",
+      "мөст"
+    ]
+  },
+  "наадам центр": {
+    "canonical": "Наадам Центр",
+    "type": "bus_stop",
+    "lat": 47.903149, 
+    "lon": 106.912602,
+    "aliases": [
+      "naadam center",
+      "naadam tsenter",
+      "naadamtsenter",
+      "naadam centr",
+      "naadam tsentr",
+      "naadamtsentr",
+      "naadm center",
+      "naadm tsenter",
+      "naadmtsenter",
+      "naadm centr",
+      "naadm tsentr",
+      "naadmtsentr",
+      "наадам центр",
+      "наадам цэнтэр",
+      "наадамцентр"
+    ]
+  },
+  "налайх": {
+    "canonical": "Налайх",
+    "type": "sum",
+    "lat": 47.823306,
+    "lon": 107.4194685,
+    "aliases": [
+      "nalaih",
+      "налайх"
+    ]
+  },
+  "нарны зам": {
+    "canonical": "Нарны зам",
+    "type": "bus_stop",
+    "lat": 47.90883, 
+    "lon": 106.89989,
+    "aliases": [
+      "narni zam",
+      "narnizam",
+      "narnii zam",
+      "narniizam",
+      "narny zam",
+      "narnyzam",
+      "narn zam",
+      "narnzam",
+      "нарны зам",
+      "нарнызам"
+    ]
+  },
+  "нарны хороолол": {
+    "canonical": "Нарны хороолол",
+    "type": "bus_stop",
+    "lat": 47.906015,
+    "lon": 106.901082,
+    "aliases": [
+      "narni horoolol",
+      "narni horooll",
+      "narnihoroolol",
+      "narnii horoolol",
+      "narnii horooll",
+      "narniihoroolol",
+      "narny horoolol",
+      "narny horooll",
+      "narnyhoroolol",
+      "narn horoolol",
+      "narnhoroolol",
+      "нарны хороолол",
+      "нарныхороолол"
+    ]
+  },
+  "наран их дэлгүүр": {
+    "canonical": "Наран их дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.9131152,
+    "lon": 106.9010014,
+    "aliases": [
+      "naran ih delguur",
+      "naran ih delgur",
+      "narn ih delgur",
+      "narn delgur",
+      "naranihdelguur",
+      "наран их дэлгүүр",
+      "наранихдэлгүүр"
+    ]
+  },
+  "наран": {
+    "canonical": "Наран ",
+    "type": "common",
+    "lat": 45.1206374,
+    "lon": 113.6426583,
+    "aliases": [
+      "naran",
+      "наран"
+    ]
+  },
+  "наранбулаг": {
+    "canonical": "Наранбулаг",
+    "type": "sum",
+    "lat": 49.4736814,
+    "lon": 92.4943896,
+    "aliases": [
+      "naranbulag",
+      "narnbulag",
+      "narnbulg",
+      "наранбулаг"
+    ]
+  },
+  "нарангийн гол": {
+    "canonical": "Нарангийн Гол",
+    "type": "bus_stop",
+    "lat": 47.931449,
+    "lon": 106.7654693,
+    "aliases": [
+      "narangiin gol",
+      "narangiingol",
+      "narngiin gol",
+      "нарангийн гол",
+      "нарангийнгол"
+    ]
+  },
+  "нарантуул": {
+    "canonical": "Нарантуул",
+    "type": "tourism",
+    "lat": 47.9157487,
+    "lon": 106.8960487,
+    "aliases": [
+      "narantuul",
+      "narntuul",
+      "нарантуул"
+    ]
+  },
+  "нарийнтээл": {
+    "canonical": "Нарийнтээл ",
+    "type": "sum",
+    "lat": 45.8610739,
+    "lon": 101.5691446,
+    "aliases": [
+      "nariinteel",
+      "нарийнтээл"
+    ]
+  },
+  "нартын хошуу": {
+    "canonical": "Нартын хошуу",
+    "type": "railway_station",
+    "lat": 43.9776436,
+    "lon": 111.5690263,
+    "aliases": [
+      "nartin hoshuu",
+      "nartin hoshu",
+      "nartinhoshuu",
+      "нартын хошуу",
+      "нартынхошуу"
+    ]
+  },
+  "натур": {
+    "canonical": "Натур",
+    "type": "bus_stop",
+    "lat": 47.9127831,
+    "lon": 106.9365388,
+    "aliases": [
+      "natur",
+      "натур"
+    ]
+  },
+  "нисэх": {
+    "canonical": "Нисэх",
+    "type": "bus_stop",
+    "lat": 47.86536095,
+    "lon": 106.7632835,
+    "aliases": [
+      "niseh",
+      "nisex",
+      "nish",
+      "нисх",
+      "нисэх"
+    ]
+  },
+  "нисэхийн дэнж": {
+    "canonical": "Нисэхийн дэнж",
+    "type": "bus_stop",
+    "lat": 47.85621209999999,
+    "lon": 106.771032075,
+    "aliases": [
+      "nisehiin denj",
+      "nishiin denj",
+      "nishiindenj",
+      "nishn denj",
+      "нисэхийн дэнж",
+      "нисэхийндэнж"
+    ]
+  },
+  "ногоон нуурын буудал": {
+    "canonical": "Ногоон нуурын буудал",
+    "type": "bus_stop",
+    "lat": 47.935001,
+    "lon": 106.915964,
+    "aliases": [
+      "nogoon nuur",
+      "nogoonnuur",
+      "nogoon nuuriin buudal",
+      "nogoon nuurin buudl",
+      "nogoonnuurinbuudal",
+      "ногоон нуурын буудал",
+      "ногоон нуур",
+      "ногооннуурынбуудал",
+      "ногооннуур"
+
+    ]
+  },
+  "ногоонтолгой": {
+    "canonical": "Ногоонтолгой",
+    "type": "railway_station",
+    "lat": 48.1965473,
+    "lon": 106.7118556,
+    "aliases": [
+      "nogoontlgi",
+      "nogoontolgoi",
+      "ногоонтолгой"
+    ]
+  },
+  
+  "номгон": {
+    "canonical": "Номгон ",
+    "type": "sum",
+    "lat": 42.4235915,
+    "lon": 105.1260432,
+    "aliases": [
+      "nomgn",
+      "nomgon",
+      "номгон"
+    ]
+  },
+  "номт": {
+    "canonical": "Номт",
+    "type": "common",
+    "lat": 44.3463061,
+    "lon": 111.2438571,
+    "aliases": [
+      "nomt",
+      "номт"
+    ]
+  },
+  "норовлин": {
+    "canonical": "Норовлин",
+    "type": "sum",
+    "lat": 48.5776843,
+    "lon": 112.0434828,
+    "aliases": [
+      "norovlin",
+      "норовлин"
+    ]
+  },
+  "нөмрөг": {
+    "canonical": "Нөмрөг",
+    "type": "sum",
+    "lat": 48.8600328,
+    "lon": 96.9345103,
+    "aliases": [
+      "numrg",
+      "numrug",
+      "нөмрг",
+      "нөмрөг"
+    ]
+  },
+  "олимп хотхон": {
+    "canonical": "Олимп хотхон",
+    "type": "bus_stop",
+    "lat": 47.89865615,
+    "lon": 106.86060385,
+    "aliases": [
+      "olymp",
+      "olymp hothon",
+      "olymp hothn",
+      "olymphothon",
+      "олимп хотхон",
+      "олимпхотхон"
+    ]
+  },
+  "онгон": {
+    "canonical": "Онгон",
+    "type": "common",
+    "lat": 45.4434882,
+    "lon": 112.99542,
+    "aliases": [
+      "ongon",
+      "онгон"
+    ]
+  },
+  "оорцог энгэр": {
+    "canonical": "Оорцог энгэр",
+    "type": "railway_station",
+    "lat": 46.7131918,
+    "lon": 108.0325214,
+    "aliases": [
+      "oortsog enger",
+      "oortsog engr",
+      "oortsogenger",
+      "ortsg enger",
+      "оорцог энгр",
+      "оорцог энгэр",
+      "оорцогэнгэр"
+    ]
+  },
+  "оргил рашаан сувилал": {
+    "canonical": "Оргил рашаан сувилал",
+    "type": "bus_stop",
+    "lat": 47.8953867,
+    "lon": 106.9086843,
+    "aliases": [
+      "orgil rashaan suvilal",
+      "orgil rashaan suvill",
+      "orgilrashaan suvilal",
+      "orgilrashaansuvilal",
+      "orgl rashaan suvilal",
+      "оргил рашаан сувилал",
+      "оргилрашаан сувилал"
+    ]
+  },
+  "орхон": {
+    "canonical": "Орхон",
+    "type": "aimag",
+    "lat": 49.131543125,
+    "lon": 104.886511725,
+    "aliases": [
+      "orhn",
+      "orhon",
+      "орхон"
+    ]
+  },
+  "орхонтуул": {
+    "canonical": "Орхонтуул",
+    "type": "sum",
+    "lat": 48.7786882,
+    "lon": 105.004859,
+    "aliases": [
+      "orhntuul",
+      "orhontuul",
+      "орхонтуул"
+    ]
+  },
+  "отгон": {
+    "canonical": "Отгон",
+    "type": "common",
+    "lat": 47.2535468,
+    "lon": 97.9015673,
+    "aliases": [
+      "otgn",
+      "otgon",
+      "отгон"
+    ]
+  },
+  "офицеруудын ордон": {
+    "canonical": "Офицеруудын ордон",
+    "type": "bus_stop",
+    "lat": 47.9159721,
+    "lon": 106.97019365,
+    "aliases": [
+      "ofitseruudin ordon",
+      "opitseruudin ordon",
+      "ofitseruudiin ordon",
+      "opitseruudiin ordon",
+      "ofitseruudiin ordn",
+      "opitseruudiin ordn",
+      "ofitseruudin ordn",
+      "opitseruudin ordn",
+      "opitser",
+      "oppitser",
+      "opitsor",
+      "ofitser",
+      "opisor",
+      "ofiser",
+       "ofitsor",
+      "optser",
+      "oftser",
+      "opcer",
+      "ofcer",
+      "officer",
+      "offitser",
+      "ofitseruudinordon",
+      "ofitseruudiinordon",
+      "офицеруудын ордон",
+      "офицер",
+      "офцер",
+      "офицэруудын ордон",
+      "офицэр",
+      "офцэр",
+      "офицеруудынордон"
+    ]
+  },
+  "парадокс": {
+    "canonical": "Парадокс",
+    "type": "bus_stop",
+    "lat": 47.9226234,
+    "lon": 106.8783658,
+    "aliases": [
+      "paradoks",
+      "paradox",
+      "pradox",
+      "pradoks",
+      "парадокс",
+      "прадокс"
+    ]
+  },
+  "рашаант": {
+    "canonical": "Рашаант",
+    "type": "sum",
+    "lat": 49.1748931,
+    "lon": 101.214234,
+    "aliases": [
+      "rashaant",
+      "рашаант"
+    ]
+  },
+  "рэнчинлхүмбэ": {
+    "canonical": "Рэнчинлхүмбэ",
+    "type": "sum",
+    "lat": 51.0602377,
+    "lon": 99.5763875,
+    "aliases": [
+      "renchinlumbe",
+      "renchnlumbe",
+      "renchinlhumbe",
+      "renchnlhumbe",
+      "рэнчнлхүмбэ",
+      "рэнчинлхүмбэ",
+      "рэнчнлүмбэ",
+      "рэнчинлүмбэ"
+    ]
+  },
+  "сагил": {
+    "canonical": "Сагил ",
+    "type": "sum",
+    "lat": 50.2963596,
+    "lon": 91.1849019,
+    "aliases": [
+      "sagil",
+      "сагил"
+    ]
+  },
+  "сагсай": {
+    "canonical": "Сагсай",
+    "type": "sum",
+    "lat": 48.5387701,
+    "lon": 89.2868087,
+    "aliases": [
+      "sagsai",
+      "сагсай"
+    ]
+  },
+  "сайнцагаан": {
+    "canonical": "Сайнцагаан ",
+    "type": "sum",
+    "lat": 45.7370022,
+    "lon": 106.35528,
+    "aliases": [
+      "saintsagaan",
+      "saintsgaan",
+      "сайнцагаан"
+    ]
+  },
+  "сайншанд": {
+    "canonical": "Сайншанд ",
+    "type": "sum",
+    "lat": 44.6801796,
+    "lon": 109.8519266,
+    "aliases": [
+      "sainshand",
+      "сайншанд"
+    ]
+  },
+  "сайхан": {
+    "canonical": "Сайхан",
+    "type": "common",
+    "lat": 48.9650297,
+    "lon": 104.1197989,
+    "aliases": [
+      "saihan",
+      "saihn",
+      "сайхан"
+    ]
+  },
+  "сайхан овоо": {
+    "canonical": "Сайхан-Овоо",
+    "type": "sum",
+    "lat": 45.5685165,
+    "lon": 104.1159871,
+    "aliases": [
+      "saihan ovo",
+      "saihan ovoo",
+      "saihanovoo",
+      "saihn ovoo",
+      "сайхан овоо",
+      "сайхановоо"
+    ]
+  },
+  "сайхандулаан": {
+    "canonical": "Сайхандулаан",
+    "type": "sum",
+    "lat": 44.801969,
+    "lon": 109.2044361,
+    "aliases": [
+      "saihandulaan",
+      "saihndulaan",
+      "сайхандулаан"
+    ]
+  },
+  "салхит": {
+    "canonical": "Салхит",
+    "type": "railway_station",
+    "lat": 48.39503123333333,
+    "lon": 106.5732508,
+    "aliases": [
+      "salhit",
+      "салхит"
+    ]
+  },
+  "самбалхүндэв": {
+    "canonical": "Самбалхүндэв",
+    "type": "bus_stop",
+    "lat": 47.94413287499999,
+    "lon": 106.885429025,
+    "aliases": [
+      "sambalhundev",
+      "sambalhundv",
+      "samblhundev",
+      "samblhundv",
+      "самбалхүндэв",
+      "самбалхүндв",
+      "самблхүндэв",
+      "самблхүндв"
+    ]
+  },
+  "сансар": {
+    "canonical": "Сансар",
+    "type": "bus_stop",
+    "lat": 47.9241965,
+    "lon": 106.9412407,
+    "aliases": [
+      "sansar",
+      "sansr",
+      "сансар",
+      "санср"
+    ]
+  },
+  "сант": {
+    "canonical": "Сант ",
+    "type": "sum",
+    "lat": 47.68687335,
+    "lon": 104.5829618,
+    "aliases": [
+      "sant",
+      "сант"
+    ]
+  },
+  "сантмаргац": {
+    "canonical": "Сантмаргац",
+    "type": "sum",
+    "lat": 48.5854717,
+    "lon": 95.1560525,
+    "aliases": [
+      "santmargats",
+      "santmargts",
+      "сантмаргац"
+    ]
+  },
+  "саппоро": {
+    "canonical": "Саппоро",
+    "type": "bus_stop",
+    "lat": 47.9127101,
+    "lon": 106.8522922,
+    "aliases": [
+      "sapuro",
+      "sapporo",
+      "saporo",
+      "sapparo",
+      "saparo",
+      "саппоро",
+      "сапоро"
+    ]
+  },
+  "сентоза": {
+    "canonical": "Сентоза",
+    "type": "bus_stop",
+    "lat": 47.9228678,
+    "lon": 106.8869115,
+    "aliases": [
+      "sentoza",
+      "sintoza",
+      "сентоза"
+    ]
+  },
+  "сонгино хайрхан дүүрэг": {
+    "canonical": "Сонгино хайрхан дүүрэг",
+    "type": "bus_stop",
+    "lat": 47.9243344,
+    "lon": 106.8162215,
+    "aliases": [
+      "shd",
+      "songino hairhan duurg",
+      "songino hairhan duureg",
+      "songin hairhan duurg",
+      "songin hairhan duureg",
+      "songino hairhn duurg",
+      "songino hairhn duureg",
+      "songinhairhn duureg",
+      "songinhairhan duureg",
+      "сонгино хайрхан дүүрг",
+      "сонгино хайрхан дүүрэг",
+      "сонгинохайрхандүүрэг",
+      "songino hairhan",
+      "сонгино хайрхан",
+      "songinhairhan",
+      "сонгин хайрхан",
+      "songinhairhn",
+      "songinohairhn"
+    ]
+  },
+  "станц": {
+    "canonical": "Станц",
+    "type": "common",
+    "lat": 47.9649859,
+    "lon": 106.9309306,
+    "aliases": [
+      "stants",
+      "станц"
+    ]
+  },
+  "сумангийнзоо": {
+    "canonical": "Сумангийнзоо",
+    "type": "railway_station",
+    "lat": 44.1801392,
+    "lon": 111.2742451,
+    "aliases": [
+      "sumangiinzo",
+      "sumngiinzo",
+      "sumngiinzoo",
+      "sumangiinzoo",
+      "сумангийнзоо"
+    ]
+  },
+  "сэврэй": {
+    "canonical": "Сэврэй ",
+    "type": "sum",
+    "lat": 43.7153695,
+    "lon": 102.4359263,
+    "aliases": [
+      "sevrei",
+      "сэврэй"
+    ]
+  },
+  "сэлх": {
+    "canonical": "Сэлх",
+    "type": "bus_stop",
+    "lat": 48.0176246,
+    "lon": 106.9675523,
+    "aliases": [
+      "selh",
+      "сэлх"
+    ]
+  },
+  "сэлэнгэ": {
+    "canonical": "Сэлэнгэ ",
+    "type": "aimag",
+    "lat": 49.5824878,
+    "lon": 105.32573645,
+    "aliases": [
+      "selenge",
+      "selnge",
+      "сэлнгэ",
+      "сэлэнгэ"
+    ]
+  },
+  "сэргэлэн": {
+    "canonical": "Сэргэлэн ",
+    "type": "common",
+    "lat": 48.01411880000001,
+    "lon": 110.5959981,
+    "aliases": [
+      "sergelen",
+      "sergeln",
+      "сэргэлн",
+      "сэргэлэн"
+    ]
+  },
+  "сүлжмэл": {
+    "canonical": "Сүлжмэл",
+    "type": "bus_stop",
+    "lat": 47.9116886,
+    "lon": 106.8245929,
+    "aliases": [
+      "suljmel",
+      "suljml",
+      "сүлжмэл",
+      "сүлжмл"
+    ]
+  },
+  "сүмбэр": {
+    "canonical": "Сүмбэр",
+    "type": "sum",
+    "lat": 47.6341819,
+    "lon": 107.22985135,
+    "aliases": [
+      "sumbr",
+      "sumber",
+      "сүмбр",
+      "сүмбэр"
+    ]
+  },
+  "сүхбаатар": {
+    "canonical": "Сүхбаатар ",
+    "type": "aimag",
+    "lat": 47.874674375,
+    "lon": 110.229250675,
+    "aliases": [
+      "suhbaatr",
+      "suhbaatar",
+      "сүхбаатр",
+      "сүхбаатар"
+    ]
+  },
+  "сүхбаатар дүүргийн эмнэлэг": {
+    "canonical": "Сүхбаатар дүүргийн эмнэлэг",
+    "type": "bus_stop",
+    "lat": 47.9300594,
+    "lon": 106.928741,
+    "aliases": [
+      "suhbaatr duurgiin emneleg",
+      "suhbaatar duurgn emneleg",
+      "suhbaatar duurgiin emneleg",
+      "suhbaatar duurgiin emnlg",
+      "suhbaatarduurgiinemneleg",
+      "схбаатар дүүргийн эмнэлэг",
+      "сүхбаатар дргийн эмнэлэг",
+      "сүхбаатар дүүргийн эмнлг",
+      "сүхбаатар дүүргийн эмнэлэг",
+      "сүхбаатардүүргийнэмнэлэг"
+    ]
+  },
+  "сүхбаатарын талбай": {
+    "canonical": "Сүхбаатарын талбай",
+    "type": "bus_stop",
+    "lat": 47.9167262,
+    "lon": 106.9179447,
+    "aliases": [
+      "suhbaatrin talbai",
+      "suhbaatriin talbai",
+      "suhbaatarin tlbai",
+      "suhbaatrintalbai",
+      "suhbaatriintalbai",
+      "suhbaatrintalbai",
+      "сүхбаатарын талбай",
+      "сүхбаатарынталбай",
+      "сүхбаатрын талбай",
+      "сүхбаатрынталбай"
+    ]
+  },
+  "сөүлийн гудамж": {
+    "canonical": "Сөүлийн гудамж",
+    "type": "bus_stop",
+    "lat": 47.91446, 
+    "lon": 106.90897,
+    "aliases": [
+      "seoul gudamj",
+      "seoul gudam",
+      "seoulgudamj",
+      "seoulgudam",
+      "seoulin gudamj",
+      "seoulin gudam",
+      "seoulingudamj",
+      "seoulingudam",
+      "сөүлийн гудамж",
+      "сөүлийнгудамж"
+    ]
+  },
+  "тахилт": {
+    "canonical": "Тахилт ",
+    "type": "sum",
+    "lat": 47.92290,
+    "lon": 106.69613,
+    "aliases": [
+      "tahilt",
+      "tahlt",
+      "takhilt",
+      "takhlt",
+      "тахилт"
+    ]
+  },
+  "та чи": {
+    "canonical": "Та Чи",
+    "type": "bus_stop",
+    "lat": 47.9107794,
+    "lon": 106.8238443,
+    "aliases": [
+      "ta chi",
+      "tachi",
+      "та чи",
+      "тачи"
+    ]
+  },
+  "таван шар": {
+    "canonical": "Таван шар",
+    "type": "railway_station",
+    "lat": 47.9089968,
+    "lon": 106.8165305,
+    "aliases": [
+      "5 shar",
+      "5 шар",
+      "tavan shar",
+      "tavn shar",
+      "tavnshar",
+      "tvn shar",
+      "tvnshar",
+      "таван шар",
+      "таваншар",
+      "тавн шар",
+      "тавншар"
+    ]
+  },
+  "тайшир": {
+    "canonical": "Тайшир ",
+    "type": "sum",
+    "lat": 46.597481,
+    "lon": 96.4537806,
+    "aliases": [
+      "taishir",
+      "taishr",
+      "тайшир"
+    ]
+  },
+  "тбд андууд": {
+    "canonical": "ТБД андууд",
+    "type": "bus_stop",
+    "lat": 47.9148114,
+    "lon": 106.8868566,
+    "aliases": [
+      "tbd anduud",
+      "tbd andud",
+      "tbdanduud",
+      "tbdandud",
+      "тбд андууд",
+      "тбдандууд"
+    ]
+  },
+  "толбо": {
+    "canonical": "Толбо ",
+    "type": "common",
+    "lat": 48.374223,
+    "lon": 90.3523352,
+    "aliases": [
+      "tolbo",
+      "толбо"
+    ]
+  },
+  "толгойт": {
+    "canonical": "Толгойт ",
+    "type": "railway_station",
+    "lat": 47.908567,
+    "lon": 106.7785743,
+    "aliases": [
+      "tlgoit",
+      "tolgoit",
+      "толгойт"
+    ]
+  },
+  "тонхил": {
+    "canonical": "Тонхил",
+    "type": "sum",
+    "lat": 45.7956898,
+    "lon": 93.768305,
+    "aliases": [
+      "tonkhil",
+      "tonhil",
+      "тонхил"
+    ]
+  },
+  "тосонцэнгэл": {
+    "canonical": "Тосонцэнгэл ",
+    "type": "sum",
+    "lat": 48.98287435,
+    "lon": 99.5912308,
+    "aliases": [
+      "tosontsengel",
+      "tosntsengl",
+      "tosntsengel",
+      "тосонцэнгл",
+      "тоснцэнгл",
+      "тосонцэнгэл"
+    ]
+  },
+  "түвшинширээ": {
+    "canonical": "Түвшинширээ ",
+    "type": "sum",
+    "lat": 46.2716585,
+    "lon": 111.6419618,
+    "aliases": [
+      "tuvshinshiree",
+      "tuvshnshiree",
+      "tuvshnshree",
+      "tvshnsihre",
+      "түвшинширэ",
+      "түвшинширээ"
+    ]
+  },
+  "туул": {
+    "canonical": "Туул",
+    "type": "common",
+    "lat": 47.8749389,
+    "lon": 107.0910524,
+    "aliases": [
+      "tuul",
+      "туул"
+    ]
+  },
+  "тэлмэн": {
+    "canonical": "Тэлмэн ",
+    "type": "sum",
+    "lat": 48.7496793,
+    "lon": 97.4879214,
+    "aliases": [
+      "telmen",
+      "telmn",
+      "тэлмн",
+      "тэлмэн"
+    ]
+  },
+  "тэнгис кино театр": {
+    "canonical": "Тэнгис кино театр",
+    "type": "bus_stop",
+    "lat": 47.9221156,
+    "lon": 106.9047873,
+    "aliases": [
+      "tengis",
+      "tengs",
+      "tengis kino teatr",
+      "tengs kino teatr",
+      "tengiskino teatr",
+      "tngs kino teatr",
+      "тэнгис кино театр",
+      "тэнгискинотеатр"
+    ]
+  },
+  "тэц iii": {
+    "canonical": "ТЭЦ III",
+    "type": "bus_stop",
+    "lat": 47.899566,
+    "lon": 106.8674658,
+    "aliases": [
+      "tets iii",
+      "tetsiii",
+      "tets3",
+      "тэц iii",
+      "тэцiii",
+      "тэц3"
+    ]
+  },
+  "тэшиг": {
+    "canonical": "Тэшиг ",
+    "type": "sum",
+    "lat": 50.0411757,
+    "lon": 103.0637287,
+    "aliases": [
+      "teshig",
+      "teshg",
+      "тэшиг",
+      "тэшг"
+    ]
+  },
+  "түвшрүүлэх": {
+    "canonical": "Түвшрүүлэх ",
+    "type": "sum",
+    "lat": 47.3911325,
+    "lon": 102.1319474,
+    "aliases": [
+      "tuvshruuleh",
+      "tvshuurlh",
+      "түвшрүүлх",
+      "түвшрүүлэх"
+    ]
+  },
+  "түдэвтэй": {
+    "canonical": "Түдэвтэй ",
+    "type": "sum",
+    "lat": 48.8145616,
+    "lon": 96.488886,
+    "aliases": [
+      "tudvtei",
+      "tudevtei",
+      "түдэвтэй"
+    ]
+  },
+  "түмэнцогт": {
+    "canonical": "Түмэнцогт ",
+    "type": "sum",
+    "lat": 47.5318142,
+    "lon": 112.3978824,
+    "aliases": [
+      "tumntsogt",
+      "tumentsogt",
+      "түмнцогт",
+      "түмэнцогт"
+    ]
+  },
+  "түнхэл": {
+    "canonical": "Түнхэл ",
+    "type": "sum",
+    "lat": 49.7742452,
+    "lon": 100.7186155,
+    "aliases": [
+      "tunhl",
+      "tunhel",
+      "түнхл",
+      "түнхэл"
+    ]
+  },
+  "түшиг": {
+    "canonical": "Түшиг",
+    "type": "sum",
+    "lat": 50.244388,
+    "lon": 105.2456661,
+    "aliases": [
+      "tshg",
+      "tushig",
+      "тшиг",
+      "түшиг"
+    ]
+  },
+  "түшлэг": {
+    "canonical": "Түшлэг",
+    "type": "common",
+    "lat": 44.7880382,
+    "lon": 110.3985144,
+    "aliases": [
+      "tushlg",
+      "tushleg",
+      "түшлг",
+      "түшлэг"
+    ]
+  },
+  "төв номын сан": {
+    "canonical": "Төв номын сан",
+    "type": "common",
+    "lat": 47.91435,
+    "lon": 106.9156243,
+    "aliases": [
+      "nomiin san",
+      "tov nomin san",
+      "tuv nomin san",
+      "nomin san",
+      "tov nomiin san",
+      "tuv nomiin san",
+      "tuvnominsan",
+      "nominsan",
+      "төв номын сан",
+      "төвномынсан"
+    ]
+  },
+  "төв": {
+    "canonical": "Төв ",
+    "type": "aimag",
+    "lat": 47.7528825,
+    "lon": 106.5536765,
+    "aliases": [
+      "tov aimg",
+      "tuw aimg",
+      "tow aimg",
+      "tuv aimg",
+      "tov aimag",
+      "tuw aimag",
+      "tow aimag",
+      "tuv aimag",
+      "tovaimg",
+      "tuwaimg",
+      "towaimg",
+      "tuvaimg",
+      "tovaimag",
+      "tuwaimag",
+      "towaimag",
+      "tuvaimag",
+      "төв аймаг",
+      "төваймаг"
+    ]
+  },
+  "төмөрбулаг": {
+    "canonical": "Төмөрбулаг ",
+    "type": "sum",
+    "lat": 49.2448982,
+    "lon": 100.2216155,
+    "aliases": [
+      "tumrbulg",
+      "tumurbulag",
+      "төмрбулаг",
+      "төмөрбулаг"
+    ]
+  },
+  "төмөр зам": {
+    "canonical": "Төмөр зам",
+    "type": "railway_station",
+    "lat": 47.916142, 
+    "lon": 106.884592,
+    "aliases": [
+      "tomor zam",
+      "tomorzam",
+      "tomr zam",
+      "tomrzam",
+      "tumur zam",
+      "tumurzam",
+      "tumr zam",
+      "tumrzam",
+      "төмр зам",
+      "төмөр зам"
+    ]
+  },
+  "увс": {
+    "canonical": "Увс",
+    "type": "aimag",
+    "lat": 49.6542929,
+    "lon": 92.8641455,
+    "aliases": [
+      "uvs",
+      "увс"
+    ]
+  },
+  "угтаалцайдам": {
+    "canonical": "Угтаалцайдам",
+    "type": "sum",
+    "lat": 48.1525226,
+    "lon": 105.4293736,
+    "aliases": [
+      "ugtaaltsaidam",
+      "ugtaltsaidm",
+      "угтаалцайдам"
+    ]
+  },
+  "улаан дэлгүүр": {
+    "canonical": "улаан дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.9255477,
+    "lon": 106.7401834,
+    "aliases": [
+      "ulaan delguur",
+      "ulaan dlguur",
+      "ulaandelguur",
+      "ulan delguur",
+      "улаан дэлгүүр",
+      "улаандэлгүүр"
+    ]
+  },
+  "улаан худаг": {
+    "canonical": "Улаан Худаг",
+    "type": "bus_stop",
+    "lat": 47.9838463,
+    "lon": 106.82768655,
+    "aliases": [
+      "ulaan hudg",
+      "ulaan hudag",
+      "ulaanhudag",
+      "ulaanudg",
+      "улаан худаг",
+      "улаанхудаг"
+    ]
+  },
+  "улаан уул": {
+    "canonical": "Улаан-Уул ",
+    "type": "sum",
+    "lat": 50.8698904,
+    "lon": 98.8188634,
+    "aliases": [
+      "ulaan uul",
+      "ulaanuul",
+      "улаан уул",
+      "улаануул"
+    ]
+  },
+  "улаанбаатар их сургууль": {
+    "canonical": "Улаанбаатар их сургууль",
+    "type": "bus_stop",
+    "lat": 47.91082895,
+    "lon": 106.94351065,
+    "aliases": [
+      "ulaanbaatarih surguuli",
+      "ulaanbaatar ih surguuli",
+      "ulaanbaatarihsurguuli",
+      "ulaanbaatr ih surguuli",
+      "улаанбаатар их сургууль",
+      "улаанбаатарих сургууль",
+      "улаанбаатарихсургууль"
+    ]
+  },
+  "улаанбаатар": {
+    "canonical": "Улаанбаатар ",
+    "type": "railway_station",
+    "lat": 47.9081991,
+    "lon": 106.8838584,
+    "aliases": [
+      "hot",
+      "hotiin tuv",
+      "hotin tuv",
+      "hotiintuv",
+      "hotintuv",
+      "уб",
+      "ub",
+      "хот",
+      "хотын төв",
+      "ulaanbaatar",
+      "ulaanbaatr",
+      "улаанбаатар"
+    ]
+  },
+  "улаанбадрах": {
+    "canonical": "Улаанбадрах",
+    "type": "sum",
+    "lat": 43.9545949,
+    "lon": 110.2654941,
+    "aliases": [
+      "ulaanbadrah",
+      "ulaanbadrh",
+      "улаанбадрах"
+    ]
+  },
+  "улаангом": {
+    "canonical": "Улаангом ",
+    "type": "sum",
+    "lat": 50.0767558,
+    "lon": 91.8732223,
+    "aliases": [
+      "ulaangom",
+      "улаангом"
+    ]
+  },
+  "улаантолгой зөрлөг": {
+    "canonical": "Улаантолгой зөрлөг",
+    "type": "railway_station",
+    "lat": 49.0335714,
+    "lon": 104.4037761,
+    "aliases": [
+      "ulaantolgoi zurlg",
+      "ulaantolgoi zurlug",
+      "ulaantolgoizurlug",
+      "ulaantlgoi zurlug",
+      "улаантолгой зөрлөг",
+      "улаантолгойзөрлөг"
+    ]
+  },
+  "улаанхуаран": {
+    "canonical": "Улаанхуаран",
+    "type": "bus_stop",
+    "lat": 47.9184405,
+    "lon": 106.9835762,
+    "aliases": [
+      "ulaan huaran",
+      "ulaan huarn",
+      "ulan huaran",
+      "ulan huarn",
+      "ulaanhuaran",
+      "ulaanhuarn",
+      "ulanhuaran",
+      "ulanhuarn",
+      "ulaan xuaran",
+      "ulaan xuarn",
+      "ulan xuaran",
+      "ulan xuarn",
+      "ulaanxuaran",
+      "ulaanxuarn",
+      "ulanxuaran",
+      "ulanxuarn",
+      "улаанхуаран",
+      "улаанхуарн"
+    ]
+  },
+  "улаанхус": {
+    "canonical": "Улаанхус",
+    "type": "sum",
+    "lat": 48.8922814,
+    "lon": 88.8042104,
+    "aliases": [
+      "ulaanhus",
+      "ulanhus",
+      "улаанхус"
+    ]
+  },
+  "улиастай": {
+    "canonical": "Улиастай ",
+    "type": "sum",
+    "lat": 47.7337172,
+    "lon": 96.8569375,
+    "aliases": [
+      "uliastai",
+      "улиастай"
+    ]
+  },
+  "улсын их дэлгүүр": {
+    "canonical": "Улсын их дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.9158646,
+    "lon": 106.9036077,
+    "aliases": [
+      "ulsin ih delguur",
+      "ih delguur",
+      "ulsinihdelguur",
+      "ihdelguur",
+      "их дэлгүүр",
+      "ихдэлгүүр",
+      "улсын их дэлгүүр",
+      "улсынихдэлгүүр"
+    ]
+  },
+  "улхын овоо": {
+    "canonical": "Улхын-Овоо",
+    "type": "railway_station",
+    "lat": 45.3290889,
+    "lon": 109.7593306,
+    "aliases": [
+      "ulhin ovo",
+      "ulhin ovoo",
+      "ulhiin ovo",
+      "ulhiin ovoo",
+      "ulhinovoo",
+      "улхын овоо",
+      "улхыновоо"
+    ]
+  },
+  "ургамал": {
+    "canonical": "Ургамал",
+    "type": "common",
+    "lat": 48.4441236,
+    "lon": 94.197361,
+    "aliases": [
+      "urgamal",
+      "urgaml",
+      "urgml",
+      "ургамал"
+    ]
+  },
+  "уулбаян": {
+    "canonical": "Уулбаян ",
+    "type": "sum",
+    "lat": 46.4832152,
+    "lon": 112.4109134,
+    "aliases": [
+      "uulbayan",
+      "уулбаян"
+    ]
+  },
+  "уянга": {
+    "canonical": "Уянга",
+    "type": "common",
+    "lat": 46.400076,
+    "lon": 101.9508598,
+    "aliases": [
+      "uyanga",
+      "uynga",
+      "уянга"
+    ]
+  },
+  "хайрхан": {
+    "canonical": "Хайрхан",
+    "type": "sum",
+    "lat": 48.5368492,
+    "lon": 101.9992469,
+    "aliases": [
+      "hairhan",
+      "hairhn",
+      "хайрхан"
+    ]
+  },
+  "хайрхандулаан": {
+    "canonical": "Хайрхандулаан ",
+    "type": "sum",
+    "lat": 45.8417023,
+    "lon": 102.1242071,
+    "aliases": [
+      "hairhandulaan",
+      "hairhndulaan",
+      "хайрхандулаан"
+    ]
+  },
+  "халдварт": {
+    "canonical": "Халдварт",
+    "type": "bus_stop",
+    "lat": 47.9136169,
+    "lon": 106.9440531,
+    "aliases": [
+      "haldvart",
+      "haldwrt",
+      "haldwart",
+      "haldvrt",
+      "халдварт"
+    ]
+  },
+  "халзан": {
+    "canonical": "Халзан ",
+    "type": "common",
+    "lat": 46.3060933,
+    "lon": 112.9627409,
+    "aliases": [
+      "halzan",
+      "halzn",
+      "халзан"
+    ]
+  },
+  "халиун": {
+    "canonical": "Халиун",
+    "type": "common",
+    "lat": 46.0100319,
+    "lon": 96.0395225,
+    "aliases": [
+      "haliun",
+      "халиун"
+    ]
+  },
+  "халхгол": {
+    "canonical": "Халхгол",
+    "type": "sum",
+    "lat": 47.2013036,
+    "lon": 118.3857145,
+    "aliases": [
+      "halhgol",
+      "halhgl",
+      "халхгол"
+    ]
+  },
+  "хан хонгор": {
+    "canonical": "Хан хонгор",
+    "type": "sum",
+    "lat": 43.7002702,
+    "lon": 104.6874048,
+    "aliases": [
+      "han hongr",
+      "han hongor",
+      "hanhongr",
+      "hanhongor",
+      "хан хонгор",
+      "ханхонгор"
+    ]
+  },
+  "хан уул": {
+    "canonical": "Хан-Уул ",
+    "type": "district",
+    "lat": 47.8070458,
+    "lon": 106.7318959,
+    "aliases": [
+      "khan uul",
+      "khanuul",
+      "han uul",
+      "hanuul",
+      "хан уул",
+      "хануул"
+    ]
+  },
+  "ханбогд": {
+    "canonical": "Ханбогд ",
+    "type": "sum",
+    "lat": 42.9308605,
+    "lon": 107.2315193,
+    "aliases": [
+      "hanbogd",
+      "hanbgd",
+      "ханбогд"
+    ]
+  },
+  "хангай": {
+    "canonical": "Хангай",
+    "type": "common",
+    "lat": 47.7360322,
+    "lon": 99.4500184,
+    "aliases": [
+      "hangai",
+      "hngai",
+      "хангай"
+    ]
+  },
+  "хангамж": {
+    "canonical": "Хангамж",
+    "type": "common",
+    "lat": 47.9035536,
+    "lon": 107.0247505,
+    "aliases": [
+      "hangamj",
+      "hangmj",
+      "хангамж"
+    ]
+  },
+  "ханги өртөө": {
+    "canonical": "Ханги өртөө",
+    "type": "railway_station",
+    "lat": 42.6137809,
+    "lon": 109.7990546,
+    "aliases": [
+      "hangi urtu",
+      "hangi urtuu",
+      "hangiurtuu",
+      "hangiurtu",
+      "ханги өртө",
+      "ханги өртөө",
+      "хангиөртөө",
+      "хангиөртө"
+    ]
+  },
+  "ханх": {
+    "canonical": "Ханх",
+    "type": "sum",
+    "lat": 51.2960518,
+    "lon": 100.6414832,
+    "aliases": [
+      "hanh",
+      "ханх"
+    ]
+  },
+  "хар тэрмэс": {
+    "canonical": "Хар тэрмэс",
+    "type": "tourism",
+    "lat": 49.3324202,
+    "lon": 93.1553619,
+    "aliases": [
+      "har termes",
+      "har termis",
+      "har terms",
+      "hartermes",
+      "harterms",
+      "хар тэрмс",
+      "хар тэрмэс",
+      "хартэрмэс"
+    ]
+  },
+  "хархорин": {
+    "canonical": "Хархорин",
+    "type": "sum",
+    "lat": 47.1526321,
+    "lon": 103.0345493,
+    "aliases": [
+      "harhorin",
+      "хархорин"
+    ]
+  },
+  "хатанбулаг": {
+    "canonical": "Хатанбулаг",
+    "type": "sum",
+    "lat": 43.0333161,
+    "lon": 109.2058724,
+    "aliases": [
+      "hatanbulag",
+      "hatnbulg",
+      "хатанбулаг"
+    ]
+  },
+  "хашаат": {
+    "canonical": "Хашаат",
+    "type": "sum",
+    "lat": 47.454883,
+    "lon": 103.1820245,
+    "aliases": [
+      "hashaat",
+      "hshaat",
+      "хашаат"
+    ]
+  },
+  "хилчин хотхон": {
+    "canonical": "Хилчин Хотхон",
+    "type": "bus_stop",
+    "lat": 47.94222045,
+    "lon": 106.8158796,
+    "aliases": [
+      "hilchin hothon",
+      "hilchin hothn",
+      "hilchinhothon",
+      "hilchinhothon",
+      "hilchn hothon",
+      "hilchn hothon",
+      "хилчин хотхон",
+      "хилчинхотхон"
+    ]
+  },
+  "хишиг өндөр": {
+    "canonical": "Хишиг-Өндөр ",
+    "type": "sum",
+    "lat": 48.2178918,
+    "lon": 103.5902255,
+    "aliases": [
+      "hishig undr",
+      "hishig undur",
+      "hishigundur",
+      "hishg-undur",
+      "хишиг өндр",
+      "хишиг өндөр",
+      "хишигөндөр"
+    ]
+  },
+  "ховд": {
+    "canonical": "Ховд ",
+    "type": "aimag",
+    "lat": 48.13033406666667,
+    "lon": 91.59668143333333,
+    "aliases": [
+      "hovd",
+      "howd",
+      "ховд"
+    ]
+  },
+  "хойт зөрлөг": {
+    "canonical": "Хойт зөрлөг",
+    "type": "railway_station",
+    "lat": 50.3070654,
+    "lon": 106.1353899,
+    "aliases": [
+      "hoit zurlg",
+      "hoit zurlug",
+      "hoitzurlug",
+      "hoitzurlg",
+      "хойт зөрлөг",
+      "хойтзөрлөг"
+    ]
+  },
+  "хотонт": {
+    "canonical": "Хотонт",
+    "type": "sum",
+    "lat": 47.2472731,
+    "lon": 102.4531821,
+    "aliases": [
+      "hotont",
+      "hotnt",
+      "хотонт"
+    ]
+  },
+  "хужирт": {
+    "canonical": "Хужирт",
+    "type": "sum",
+    "lat": 46.9187114,
+    "lon": 102.8602163,
+    "aliases": [
+      "hujirt",
+      "хужирт"
+    ]
+  },
+  "ховд": {
+    "canonical": "ховд",
+    "type": "aimg",
+    "lat": 49.3192816,
+    "lon": 90.7033552,
+    "aliases": [
+      "hovd",
+      "ховд"
+    ]
+  },
+  "хурд хороолол": {
+    "canonical": "Хурд хороолол",
+    "type": "bus_stop",
+    "lat": 47.8995621,
+    "lon": 106.9170844,
+    "aliases": [
+      "hurd horoolol",
+      "hurdhoroolol",
+      "хурд хороолол",
+      "хурдхороолол"
+    ]
+  },
+  "хутаг өндөр": {
+    "canonical": "Хутаг-Өндөр",
+    "type": "sum",
+    "lat": 49.3089973,
+    "lon": 102.9847533,
+    "aliases": [
+      "hutag undr",
+      "hutag undur",
+      "hutagundur",
+      "хутаг өндр",
+      "хутаг өндөр",
+      "хутагөндөр"
+    ]
+  },
+  "хууль сахиулах их сургууль": {
+    "canonical": "Хууль сахиулах их сургууль",
+    "type": "bus_stop",
+    "lat": 47.9130269,
+    "lon": 106.99655295,
+    "aliases": [
+      "huuli sahiulah ih surguuli",
+      "huuli sahiulh ih surguuli",
+      "huulisahiulah ih surguuli",
+      "huulisahiulah ihsurguuli",
+      "huulisahiulahihsurguuli",
+      "хууль сахиулах их сургууль",
+      "хуульсахиулах их сургууль",
+      "хуульсахиулах ихсургууль",
+      "хуульсахиулахихсургууль"
+    ]
+  },
+  "хуучин эцэс": {
+    "canonical": "Хуучин эцэс",
+    "type": "bus_stop",
+    "lat": 47.9498540875,
+    "lon": 106.8245062125,
+    "aliases": [
+      "huuchin etses",
+      "huuchin etss",
+      "huuchinetses",
+      "huuchinetss",
+      "хуучин эцс",
+      "хуучин эцэс",
+      "хуучинэцэс",
+      "хуучинэцс"
+    ]
+  },
+  "хушаат": {
+    "canonical": "Хушаат",
+    "type": "sum",
+    "lat": 49.6979242,
+    "lon": 105.3469378,
+    "aliases": [
+      "hushaat",
+      "хушаат"
+    ]
+  },
+  "хэнтий": {
+    "canonical": "Хэнтий",
+    "type": "aimag",
+    "lat": 47.7258653,
+    "lon": 110.5398477,
+    "aliases": [
+      "khentii",
+      "khenti",
+      "hentii",
+      "henti",
+      "хэнтий"
+    ]
+  },
+  "хэрлэн": {
+    "canonical": "Хэрлэн ",
+    "type": "sum",
+    "lat": 47.8556843,
+    "lon": 112.45179585,
+    "aliases": [
+      "herlen",
+      "herln",
+      "хэрлн",
+      "хэрлэн"
+    ]
+  },
+  "хэцүү хад": {
+    "canonical": "Хэцүү хад",
+    "type": "tourism",
+    "lat": 49.033222,
+    "lon": 93.4791133,
+    "aliases": [
+      "hetsuu had",
+      "hetsuuhad",
+      "htsu had",
+      "hetsu had",
+      "hetsuhad",
+      "хэцү хад",
+      "хэцүү хад",
+      "хэцүүхад",
+      "хэцүхад"
+    ]
+  },
+  "хяргас": {
+    "canonical": "Хяргас",
+    "type": "sum",
+    "lat": 49.48926,
+    "lon": 93.8276863,
+    "aliases": [
+      "hyargas",
+      "hyrgas",
+      "hyrgs",
+      "хяргас",
+      "хяргс"
+    ]
+  },
+  "хүдэр": {
+    "canonical": "Хүдэр ",
+    "type": "sum",
+    "lat": 49.7260126,
+    "lon": 107.5614499,
+    "aliases": [
+      "hudr",
+      "huder",
+      "хүдр",
+      "хүдэр"
+    ]
+  },
+  "хүнсний 20": {
+    "canonical": "Хүнсний 20",
+    "type": "bus_stop",
+    "lat": 47.9161798,
+    "lon": 106.9081537,
+    "aliases": [
+      "hunsni 20",
+      "hunsnii 20",
+      "hunsnii20",
+      "hunsni20",
+      "хүнсний 20",
+      "хүнсний20"
+    ]
+  },
+  "хүрмэн": {
+    "canonical": "Хүрмэн",
+    "type": "sum",
+    "lat": 42.6527169,
+    "lon": 103.7276979,
+    "aliases": [
+      "hurmn",
+      "hurmen",
+      "хүрмн",
+      "хүрмэн"
+    ]
+  },
+  "хүрээмарал": {
+    "canonical": "Хүрээмарал",
+    "type": "sum",
+    "lat": 46.4645591,
+    "lon": 98.270448,
+    "aliases": [
+      "huremarl",
+      "huremaral",
+      "hureemaral",
+      "hureemarl",
+      "хүрэмарал",
+      "хүрээмарал"
+    ]
+  },
+  "хүчит шонхор": {
+    "canonical": "Хүчит шонхор",
+    "type": "bus_stop",
+    "lat": 47.9430313,
+    "lon": 106.9032466,
+    "aliases": [
+      "huchit shonhor",
+      "huchit shonhr",
+      "hucht shonhr",
+      "huchitshonhor",
+      "huchtshonhr",
+      "хүчит шонхор",
+      "хүчитшонхор"
+    ]
+  },
+  "хүүхдийн парк": {
+    "canonical": "Хүүхдийн парк",
+    "type": "bus_stop",
+    "lat": 47.9132412,
+    "lon": 106.9223869,
+    "aliases": [
+      "huuhdn park",
+      "huuhdiin park",
+      "huuhdin park",
+      "huuhdiinpark",
+      "huuhdinpark",
+      "хүүхдийн парк",
+      "хүүхдийнпарк"
+    ]
+  },
+  "хөвсгөл аймаг": {
+    "canonical": "Хөвсгөл аймаг",
+    "type": "tourism",
+    "lat": 49.6370265,
+    "lon": 100.1606361,
+    "aliases": [
+      "huvsgl aimag",
+      "huvsgl",
+      "huvsgul aimag",
+      "huvsgul",
+      "huvsgulaimag",
+      "hvsglaimg",
+      "huvsglaimg",
+      "хөвсгөл",
+      "howsgol",
+      "howsgl",
+      "huwsgl",
+      "хөвсгөл аймаг",
+      "хөвсгөлаймаг"
+    ]
+  },
+  "хөгжим бүжгийн коллеж": {
+    "canonical": "Хөгжим бүжгийн коллеж",
+    "type": "bus_stop",
+    "lat": 47.9230902,
+    "lon": 106.9264732,
+    "aliases": [
+      "hugjim bujgiin college",
+      "hugjim bujgiin colleg",
+      "hugjim bujgin college",
+      "hugjim bujgin colleg",
+      "hugjm bujgiin kollej",
+      "hugjim bujg",
+      "hugjim bujig",
+      "hugjimbujgiin kollej",
+      "hugjimbujgiinkollej",
+      "хөгжим бүжгийн коллеж",
+      "хөгжимбүжгийн коллеж",
+      "хөгжимбүжгийнколлеж"
+    ]
+  },
+  "хөдөлмөрийн яам": {
+    "canonical": "Хөдөлмөрийн яам",
+    "type": "common",
+    "lat": 47.9185232,
+    "lon": 106.9323441,
+    "aliases": [
+      "hudlmrn yam",
+      "hudulmuriin yam",
+      "hudulmurin yam",
+      "hudulmuriinyam",
+      "hudulmurinyam",
+      "хөдлмөрийн яам",
+      "хөдөлмөрийн яам",
+      "хөдөлмөрийняам"
+    ]
+  },
+  "хөдөө аж ахуйн их сургууль": {
+    "canonical": "Хөдөө аж ахуйн их сургууль",
+    "type": "bus_stop",
+    "lat": 47.88621165,
+    "lon": 106.91088135,
+    "aliases": [
+      "hdu aj ahuin ih surguuli",
+      "huduu aj ahuin ih surguuli",
+      "huduu aj ahuin ih srguuli",
+      "huduu aj ahuin ih surguuli",
+      "huduuajahuinihsurguuli",
+      "хөдөө аж ахуйн их сургууль",
+      "хөдөө аж ахуйн их сургууль",
+      "хөдөөаж ахуйнихсургууль",
+      "хөдөөажахуйнихсургууль"
+    ]
+  },
+  "хөлөнбуйр": {
+    "canonical": "Хөлөнбуйр",
+    "type": "sum",
+    "lat": 47.9190787,
+    "lon": 113.0958244,
+    "aliases": [
+      "hulnbuir",
+      "hulunbuir",
+      "хөлнбуйр",
+      "хөлөнбуйр"
+    ]
+  },
+  "хөтөл": {
+    "canonical": "Хөтөл",
+    "type": "railway_station",
+    "lat": 49.0980586,
+    "lon": 105.5788553,
+    "aliases": [
+      "hutl urtuu",
+      "hutl urtu",
+      "hutul",
+      "hutul urtuu",
+      "hutulurtuu",
+      "хөтөл",
+      "хөтөл өртө",
+      "хөтөл өртөө",
+      "хөтөлөртөө"
+    ]
+  },
+  "хөх нуур": {
+    "canonical": "Хөх нуур",
+    "type": "railway_station",
+    "lat": 49.6044786,
+    "lon": 115.5536468,
+    "aliases": [
+      "huh nuur",
+      "huhnuur",
+      "хөх нуур",
+      "хөхнуур"
+    ]
+  },
+  "хөхморьт": {
+    "canonical": "Хөхморьт ",
+    "type": "sum",
+    "lat": 47.3923694,
+    "lon": 94.3500443,
+    "aliases": [
+      "huhmorit",
+      "хөхморьт"
+    ]
+  },
+  "цагаан байр": {
+    "canonical": "Цагаан байр",
+    "type": "bus_stop",
+    "lat": 47.9333118,
+    "lon": 106.9064142,
+    "aliases": [
+      "tsagaan bair",
+      "tsagan bair",
+      "tsagaanbair",
+      "tsgn bair",
+      "цагаан байр",
+      "цагаанбайр"
+    ]
+  },
+  "цагаан даваа": {
+    "canonical": "Цагаан даваа",
+    "type": "bus_stop",
+    "lat": 47.946661,
+    "lon": 106.9749602,
+    "aliases": [
+      "tsagaan davaa",
+      "tsagaan dava",
+      "tsgaan davaa",
+      "tsgaan dava",
+      "tsagaandavaa",
+      "tsagan davaa",
+      "tsagan dava",
+      "цагаан даваа",
+      "цагаандаваа"
+    ]
+  },
+  "цагаан хяр": {
+    "canonical": "Цагаан хяр",
+    "type": "railway_station",
+    "lat": 47.5636573,
+    "lon": 107.2898586,
+    "aliases": [
+      "tsagaan hyar",
+      "tsagan hyar",
+      "tsagaanhyar",
+      "tsgaan hyar",
+      "цагаан хяр",
+      "цагаанхяр"
+    ]
+  },
+  "цагаан овоо": {
+    "canonical": "Цагаан-Овоо",
+    "type": "sum",
+    "lat": 48.4538426,
+    "lon": 113.0966987,
+    "aliases": [
+      "tsagaan ovo",
+      "tsagaan ovoo",
+      "tsagaanovoo",
+      "tsagan ovoo",
+      "tsaganovoo",
+      "tsagaanovo",
+      "цагаан овоо",
+      "цагаановоо"
+    ]
+  },
+  "цагаан уул": {
+    "canonical": "Цагаан-Уул",
+    "type": "sum",
+    "lat": 49.5290931,
+    "lon": 98.6026225,
+    "aliases": [
+      "tsagaan uul",
+      "tsagaanuul",
+      "tsgaan uul",
+      "tsagan uul",
+      "tsaganuul",
+      "tsgaanuul",
+      "цагаан уул",
+      "цагаануул"
+    ]
+  },
+  "цагаан үүр": {
+    "canonical": "Цагаан-Үүр",
+    "type": "sum",
+    "lat": 50.9014248,
+    "lon": 101.6519784,
+    "aliases": [
+      "tsagaan uur",
+      "tsagaanuur",
+      "tsgaan uur",
+      "tsagan uur",
+      "tsaganuur",
+      "tsgaanuur",
+      "цагаан үүр",
+      "цагаанүүр"
+    ]
+  },
+  "цагаандэлгэр": {
+    "canonical": "Цагаандэлгэр",
+    "type": "sum",
+    "lat": 46.4203432,
+    "lon": 107.6928889,
+    "aliases": [
+      "tsagaandelger",
+      "tsagandelger",
+      "tsagaandelgr",
+      "tsagandelgr",
+      "tsgaandelger",
+      "tsgaandelgr",
+      "цагаандэлгэр"
+    ]
+  },
+  "цагааннуур": {
+    "canonical": "Цагааннуур ",
+    "type": "sum",
+    "lat": 50.36671630000001,
+    "lon": 97.97725500000001,
+    "aliases": [
+      "tsagaannuur",
+      "tsgaannuur",
+      "цагааннуур"
+    ]
+  },
+  "цагаанхад": {
+    "canonical": "Цагаанхад",
+    "type": "railway_station",
+    "lat": 44.2532496,
+    "lon": 111.17461,
+    "aliases": [
+      "tsagaanhad",
+      "tsgaanhad",
+      "цагаанхад"
+    ]
+  },
+  "цагаанхайрхан": {
+    "canonical": "Цагаанхайрхан ",
+    "type": "sum",
+    "lat": 48.2797315,
+    "lon": 95.52132885,
+    "aliases": [
+      "tsagaanhairhan",
+      "tsgaanhairhn",
+      "цагаанхайрхан"
+    ]
+  },
+  "цагаанчулуут": {
+    "canonical": "Цагаанчулуут",
+    "type": "sum",
+    "lat": 47.1199764,
+    "lon": 96.7104121,
+    "aliases": [
+      "tsagaanchuluut",
+      "tsgaanchuluut",
+      "цагаанчулуут"
+    ]
+  },
+  "цайдам": {
+    "canonical": "Цайдам",
+    "type": "railway_station",
+    "lat": 49.2987597,
+    "lon": 105.9158761,
+    "aliases": [
+      "tsaidam",
+      "tsaidm",
+      "цайдам"
+    ]
+  },
+  "цайз": {
+    "canonical": "Цайз",
+    "type": "bus_stop",
+    "lat": 47.9241252,
+    "lon": 106.9740504,
+    "aliases": [
+      "tsaiz",
+      "цайз"
+    ]
+  },
+  "цамбагарав": {
+    "canonical": "Цамбагарав",
+    "type": "bus_stop",
+    "lat": 47.91226695,
+    "lon": 106.8463344,
+    "aliases": [
+      "tsamba",
+      "tsambagarav",
+      "tsambagarv",
+      "tsambgarav",
+      "tsambgarv",
+      "tsambgrv",
+      "цамбагарав",
+      "цамба"
+    ]
+  },
+  "цахир": {
+    "canonical": "Цахир",
+    "type": "sum",
+    "lat": 47.955485,
+    "lon": 98.6888261,
+    "aliases": [
+      "tsahir",
+      "цахир"
+    ]
+  },
+  "цогтцэций": {
+    "canonical": "Цогтцэций",
+    "type": "sum",
+    "lat": 43.8435971,
+    "lon": 105.9232857,
+    "aliases": [
+      "tsogttsetsii",
+      "tsogt tsetsii",
+      "tsogttsetsi",
+      "tsogt tsetsi",
+      "цогтцэций"
+    ]
+  },
+  "цэнгэл": {
+    "canonical": "Цэнгэл",
+    "type": "common",
+    "lat": 48.7654069,
+    "lon": 88.5306315,
+    "aliases": [
+      "tsengel",
+      "tsengl",
+      "цэнгл",
+      "цэнгэл"
+    ]
+  },
+  "цэнхэрмандал": {
+    "canonical": "Цэнхэрмандал",
+    "type": "sum",
+    "lat": 47.7967065,
+    "lon": 108.83697,
+    "aliases": [
+      "tsenhermandal",
+      "tsenhrmandl",
+      "tsenhrmandal",
+      "tsenhermandl",
+      "цэнхэрмандал"
+    ]
+  },
+  "цэргийн анги": {
+    "canonical": "Цэргийн анги",
+    "type": "bus_stop",
+    "lat": 47.9450944,
+    "lon": 106.82181925,
+    "aliases": [
+      "tsergiin angi",
+      "tsergiinangi",
+      "tsergin angi",
+      "tserginangi",
+      "tsergn angi",
+      "цэргийн анги",
+      "цэргийнанги"
+    ]
+  },
+  "цэргийн хотхон": {
+    "canonical": "Цэргийн хотхон",
+    "type": "bus_stop",
+    "lat": 47.91235965,
+    "lon": 106.77997645,
+    "aliases": [
+      "tsergiin hothon",
+      "tsergiin hothn",
+      "tsergiinhothon",
+      "tsergin hothon",
+      "tsergin hothn",
+      "tserginhothon",
+      "цэргийн хотхн",
+      "цэргийн хотхон",
+      "цэргийнхотхон"
+    ]
+  },
+  "цэцэн уул": {
+    "canonical": "Цэцэн-уул",
+    "type": "sum",
+    "lat": 48.5627543,
+    "lon": 95.8590338,
+    "aliases": [
+      "tsetsen uul",
+      "tsetsenuul",
+      "tsetsn uul",
+      "tsetsnuul",
+      "цэцэн уул",
+      "цэцэнуул"
+    ]
+  },
+  "цээл": {
+    "canonical": "Цээл",
+    "type": "sum",
+    "lat": 46.90002885,
+    "lon": 100.48529665,
+    "aliases": [
+      "tseel",
+      "цээл"
+    ]
+  },
+  "чандмань": {
+    "canonical": "Чандмань",
+    "type": "sum",
+    "lat": 46.56423465,
+    "lon": 95.43500885,
+    "aliases": [
+      "chandmani",
+      "chandmni",
+      "чандмань"
+    ]
+  },
+  "чандмань өндөр": {
+    "canonical": "Чандмань-Өндөр",
+    "type": "sum",
+    "lat": 50.5104632,
+    "lon": 100.8460514,
+    "aliases": [
+      "chandmani undr",
+      "chandmani undur",
+      "chandmaniundur",
+      "chandmni undur",
+      "чандмань өндөр",
+      "чандманьөндөр"
+    ]
+  },
+  "чингис зочид буудал": {
+    "canonical": "Чингис зочид буудал",
+    "type": "tourism",
+    "lat": 49.981858,
+    "lon": 92.0661187,
+    "aliases": [
+      "chingis buudal",
+      "chingis zochid buudl",
+      "chingis zochid buudal",
+      "chingiszochid buudal",
+      "chings zochid buudal",
+      "чингис зочид буудал",
+      "чингисзочид буудал"
+    ]
+  },
+  "чингисийн далан": {
+    "canonical": "Чингисийн далан",
+    "type": "railway_station",
+    "lat": 49.2974738,
+    "lon": 115.4691976,
+    "aliases": [
+      "chingisiin dalan",
+      "chingisiin daln",
+      "chingisiindalan",
+      "chingsn dalan",
+      "чингисийн далан",
+      "чингисийндалан"
+    ]
+  },
+  "чингэлтэй дүүрэг": {
+    "canonical": "Чингэлтэй дүүрэг",
+    "type": "bus_stop",
+    "lat": 47.9218617,
+    "lon": 106.9071138,
+    "aliases": [
+      "chingeltei",
+      "chingltei",
+      "чингэлтэй"
+    ]
+  },
+  "чойбалсан": {
+    "canonical": "Чойбалсан",
+    "type": "sum",
+    "lat": 48.8903828,
+    "lon": 115.4629445,
+    "aliases": [
+      "chiobalsn",
+      "choibalsan",
+      "чойбалсан"
+    ]
+  },
+  "чойр": {
+    "canonical": "Чойр",
+    "type": "railway_station",
+    "lat": 46.3577971,
+    "lon": 108.3570695,
+    "aliases": [
+      "choir",
+      "чойр"
+    ]
+  },
+  "чулуун овоо": {
+    "canonical": "Чулуун овоо",
+    "type": "bus_stop",
+    "lat": 47.912292675,
+    "lon": 106.982127875,
+    "aliases": [
+      "chluun ovoo",
+      "chluunovoo",
+      "chluun ovo",
+      "chluunovo",
+      "chuluun ovo",
+      "chuluun ovoo",
+      "chuluunovoo",
+      "chuluunovo",
+      "чулуун овоо",
+      "чулууновоо"
+    ]
+  },
+  "чулуунхороот": {
+    "canonical": "Чулуунхороот",
+    "type": "sum",
+    "lat": 49.8670062,
+    "lon": 115.5736631,
+    "aliases": [
+      "chluunhroot",
+      "chuluunhoroot",
+      "чулуунхороот"
+    ]
+  },
+  "чулуут": {
+    "canonical": "Чулуут",
+    "type": "sum",
+    "lat": 47.4833821,
+    "lon": 100.2106487,
+    "aliases": [
+      "chluut",
+      "chuluut",
+      "чулуут"
+    ]
+  },
+  "шаамар": {
+    "canonical": "Шаамар ",
+    "type": "sum",
+    "lat": 50.0433019,
+    "lon": 106.2284845,
+    "aliases": [
+      "shaamar",
+      "shaamr",
+      "шаамар"
+    ]
+  },
+  "шадивлан": {
+    "canonical": "Шадивлан",
+    "type": "bus_stop",
+    "lat": 48.0160156,
+    "lon": 106.9175772,
+    "aliases": [
+      "shadivlan",
+      "shadivln",
+      "шадивлан"
+    ]
+  },
+  "шангри ла": {
+    "canonical": "Шангри-Ла",
+    "type": "tourism",
+    "lat": 47.9130091,
+    "lon": 106.9201443,
+    "aliases": [
+      "shangri la",
+      "shangrila",
+      "шангри ла",
+      "шангрила"
+    ]
+  },
+  "шар хад": {
+    "canonical": "Шар хад",
+    "type": "bus_stop",
+    "lat": 47.93478755,
+    "lon": 107.0056095,
+    "aliases": [
+      "shar had",
+      "sharhad",
+      "shar hd",
+      "sharhd",
+      "шар хад",
+      "шархад"
+    ]
+  },
+  "шарга": {
+    "canonical": "Шарга",
+    "type": "common",
+    "lat": 46.4859852,
+    "lon": 95.2905693,
+    "aliases": [
+      "sharga",
+      "shrga",
+      "шарга"
+    ]
+  },
+  "шаргын овоо": {
+    "canonical": "Шаргын-Овоо",
+    "type": "railway_station",
+    "lat": 43.8415362,
+    "lon": 111.7425978,
+    "aliases": [
+      "shargiin ovo",
+      "shargiin ovoo",
+      "shargin ovo",
+      "shargin ovoo",
+      "sharginovoo",
+      "shargn ovoo",
+      "шаргын овоо",
+      "шаргыновоо"
+    ]
+  },
+  "шарынгол": {
+    "canonical": "Шарынгол",
+    "type": "sum",
+    "lat": 49.2343333,
+    "lon": 106.4551357,
+    "aliases": [
+      "sharingol",
+      "sharngol",
+      "shariingol",
+      "шарынгол"
+    ]
+  },
+  "шатанга": {
+    "canonical": "Шатанга",
+    "type": "railway_station",
+    "lat": 48.5212484,
+    "lon": 106.8077999,
+    "aliases": [
+      "shatanga",
+      "shatnga",
+      "shatang",
+      "shtnga",
+      "шатанга"
+    ]
+  },
+  "шивээ хүрэн": {
+    "canonical": "Шивээ Хүрэн",
+    "type": "railway_station",
+    "lat": 42.6145898,
+    "lon": 101.3015789,
+    "aliases": [
+      "shivee hurn",
+      "shivee huren",
+      "shiveehuren",
+      "shve huren",
+      "шивээ хүрэн",
+      "шивээхүрэн"
+    ]
+  },
+  "шивээговь": {
+    "canonical": "Шивээговь ",
+    "type": "sum",
+    "lat": 46.0818761,
+    "lon": 108.4814119,
+    "aliases": [
+      "shiveegovi",
+      "shveegovi",
+      "шивээговь"
+    ]
+  },
+  "шилүүстэй": {
+    "canonical": "Шилүүстэй",
+    "type": "sum",
+    "lat": 46.9620364,
+    "lon": 97.1632229,
+    "aliases": [
+      "shiluustei",
+      "shiluuste",
+      "shiluste",
+      "shluuste",
+      "shluustei",
+      "shilustei",
+      "шилүүстэй"
+    ]
+  },
+  "шинэ буудал": {
+    "canonical": "Шинэ буудал",
+    "type": "bus_stop",
+    "lat": 47.94789626666667,
+    "lon": 106.9131608666667,
+    "aliases": [
+      "shine buudl",
+      "shine buudal",
+      "shinebuudal",
+      "shne buudal",
+      "шинэ буудал",
+      "шинэбуудал"
+    ]
+  },
+  "шинэ идэр": {
+    "canonical": "Шинэ-Идэр",
+    "type": "sum",
+    "lat": 48.9967761,
+    "lon": 99.5829077,
+    "aliases": [
+      "shine ider",
+      "shin ider",
+      "shinider",
+      "shineider",
+      "шинэ идэр",
+      "шинэидэр"
+    ]
+  },
+  "шинэжинст": {
+    "canonical": "Шинэжинст",
+    "type": "sum",
+    "lat": 43.7252309,
+    "lon": 99.3262665,
+    "aliases": [
+      "shinejinst",
+      "shinjnst",
+      "шинэжинст"
+    ]
+  },
+  "шөнийн дэлгүүр": {
+    "canonical": "Шөнийн дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.91396461666667,
+    "lon": 106.9555560333333,
+    "aliases": [
+      "shunin delguur",
+      "shuniin delguur",
+      "shuniin dlguur",
+      "shunin delgur",
+      "shuniin delgur",
+      "shuniin dlgur",
+      "shuniindelguur",
+      "shuniindelgur",
+      "shunindelguur",
+      "шөнийн дэлгүүр",
+      "шөнийндэлгүүр"
+    ]
+  },
+  "шөнийн зах": {
+    "canonical": "Шөнийн зах",
+    "type": "bus_stop",
+    "lat": 47.9126599,
+    "lon": 106.9276437,
+    "aliases": [
+      "shunin zah",
+      "shuniin zah",
+      "shuniin zah",
+      "shuniinzah",
+      "shuninzah",
+      "шөнийн зах",
+      "шөнийнзах"
+    ]
+  },
+  "элба дэлгүүр": {
+    "canonical": "Элба дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.9163616,
+    "lon": 106.8956809,
+    "aliases": [
+      "elba delguur",
+      "elba dlguur",
+      "elbadelguur",
+      "elba delgur",
+      "elba dlgur",
+      "elbadelgur",
+      "элба дэлгүүр",
+      "элбадэлгүүр"
+    ]
+  },
+  "эм ай ю дээд сургууль": {
+    "canonical": "Эм Ай Ю дээд сургууль",
+    "type": "bus_stop",
+    "lat": 47.9139525,
+    "lon": 106.9752466,
+    "aliases": [
+      "miu deed surguuli",
+      "emaiyu deed surguuli",
+      "em ai yu deed surguuli",
+      "emaiyudeedsurguuli",
+      "эмайю дээд сургууль",
+      "эм ай ю дээд сургууль",
+      "эмайю дээдсургууль",
+      "эмайюдээдсургууль"
+    ]
+  },
+  "эмээлт": {
+    "canonical": "Эмээлт",
+    "type": "railway_station",
+    "lat": 47.8869565,
+    "lon": 106.5996437,
+    "aliases": [
+      "emeelt",
+      "emelt",
+      "эмээлт"
+    ]
+  },
+  "энхжин худалдааны төв": {
+    "canonical": "Энхжин Худалдааны төв",
+    "type": "bus_stop",
+    "lat": 47.90825,
+    "lon": 106.7953369,
+    "aliases": [
+      "enhjin hudldaani tuv",
+      "enhjin hudaldaani tuv",
+      "enhjinhudaldaanituv",
+      "enhjn hudaldaani tuv",
+      "enhjin hudldani tuv",
+      "enhjin hudaldani tuv",
+      "enhjinhudaldanituv",
+      "enhjn hudaldani tuv",
+      "энхжин худалдааны төв",
+      "энхжинхудалдаанытөв"
+    ]
+  },
+  "энхтайван найрамдлын ордон": {
+    "canonical": "Энхтайван найрамдлын ордон",
+    "type": "bus_stop",
+    "lat": 47.9159362,
+    "lon": 106.9023291,
+    "aliases": [
+      "enhtaivan nairamdlin ordn",
+      "enhtaivan nairamdlin ordon",
+      "enhtaivan nairmdliin ordon",
+      "enhtaivannairamdlinordon",
+      "enhtvn nairamdlin ordon",
+      "энхтайван найрамдлын ордон",
+      "энхтайваннайрамдлынордон"
+    ]
+  },
+  "энхтал": {
+    "canonical": "Энхтал",
+    "type": "railway_station",
+    "lat": 49.6870671,
+    "lon": 105.9300869,
+    "aliases": [
+      "enhtal",
+      "enhtl",
+      "энхтал"
+    ]
+  },
+  "эрдэнэбулган": {
+    "canonical": "Эрдэнэбулган",
+    "type": "sum",
+    "lat": 48.80887015,
+    "lon": 101.66743345,
+    "aliases": [
+      "erdenebulgan",
+      "erdnbulgn",
+      "erdenebulgn",
+      "erdenbulgn",
+      "erdnbulgn",
+      "эрдэнэбулган"
+    ]
+  },
+  "эрдэнэбүрэн": {
+    "canonical": "Эрдэнэбүрэн",
+    "type": "sum",
+    "lat": 48.4518107,
+    "lon": 91.1831646,
+    "aliases": [
+      "erdeneburen",
+      "erdnburn",
+      "erdenburen",
+      "erdenburn",
+      "эрдэнэбүрэн"
+    ]
+  },
+  "эрдэнэдалай": {
+    "canonical": "Эрдэнэдалай",
+    "type": "sum",
+    "lat": 46.0274644,
+    "lon": 104.8895433,
+    "aliases": [
+      "erdenedalai",
+      "erdndlai",
+      "erdendalai",
+      "erdenedlai",
+      "эрдэнэдалай"
+    ]
+  },
+  "эрдэнэмандал": {
+    "canonical": "Эрдэнэмандал",
+    "type": "sum",
+    "lat": 48.3559987,
+    "lon": 101.4767559,
+    "aliases": [
+      "erdenemandal",
+      "erdenemandl",
+      "erdenmandal",
+      "erdenmandl",
+      "эрднмандал",
+      "эрдэнэмандал"
+    ]
+  },
+    "эрдэнэсант": {
+    "canonical": "Эрдэнэсант",
+    "type": "sum",
+    "lat": 47.2427238,
+    "lon": 104.5362861,
+    "aliases": [
+      "erdenesant",
+      "erdensant",
+      "erdnesant",
+      "erdnsant",
+      "эрдэнэсант"
+    ]
+  },
+  "эрдэнэт": {
+    "canonical": "Эрдэнэт",
+    "type": "railway_station",
+    "lat": 49.0590389,
+    "lon": 104.1626796,
+    "aliases": [
+      "erdenet",
+      "erdnet",
+      "erdnt",
+      "erdent",
+      "эрдэнэт"
+    ]
+  },
+  "эрдэнэхайрхан": {
+    "canonical": "Эрдэнэхайрхан",
+    "type": "sum",
+    "lat": 48.1512782,
+    "lon": 95.7056989,
+    "aliases": [
+      "erdenehairhan",
+      "erdenehairhn",
+      "erdenhairhan",
+      "erdenhairhn",
+      "erdnhairhan",
+      "erdnhairhn",
+      "erdnhrhn",
+      "erdnhrhn",
+      "эрдэнэхайрхан"
+    ]
+  },
+  "эрдэнэцагаан": {
+    "canonical": "Эрдэнэцагаан",
+    "type": "sum",
+    "lat": 45.983861,
+    "lon": 115.5202593,
+    "aliases": [
+      "erdenetsagaan",
+      "erdentsagn",
+      "erdentsagan",
+      "erdenetsgaan",
+      "erdentsagn",
+      "erdenetsagan",
+      "erdntsgn",
+      "эрднцагаан",
+      "эрдэнэцагаан"
+    ]
+  },
+  "эрдэнэцогт": {
+    "canonical": "Эрдэнэцогт",
+    "type": "sum",
+    "lat": 46.5309888,
+    "lon": 101.0015656,
+    "aliases": [
+      "erdenetsogt",
+      "erdentsogt",
+      "erdntsogt",
+      "эрдэнэцогт"
+    ]
+  },
+  "эрдэнэ": {
+    "canonical": "Эрдэнэ",
+    "type": "common",
+    "lat": 45.49474126666667,
+    "lon": 105.4009229333333,
+    "aliases": [
+      "erdene",
+      "erdne",
+      "erden",
+      "эрдэнэ"
+    ]
+  },
+  "эрэнцав": {
+    "canonical": "Эрэнцав",
+    "type": "railway_station",
+    "lat": 49.873269,
+    "lon": 115.735357,
+    "aliases": [
+      "erentsav",
+      "erntsav",
+      "эрэнцав"
+    ]
+  },
+  "эрүүл мэндийн яам": {
+    "canonical": "Эрүүл мэндийн яам",
+    "type": "bus_stop",
+    "lat": 47.9152328,
+    "lon": 106.9211293,
+    "aliases": [
+      "eruul mendiin yaam",
+      "eruul mendiin yam",
+      "eruul mendin yam",
+      "eruul mendn yam",
+      "eruulmendiinyam",
+      "eruulmendinyam",
+      "эрүүл мэндийн яам",
+      "эрүүлмэндийн яам",
+      "эрүүлмэндийняам"
+    ]
+  },
+  "эх нялхас": {
+    "canonical": "Эх нялхас",
+    "type": "bus_stop",
+    "lat": 47.9266957,
+    "lon": 106.8937112,
+    "aliases": [
+      "eh nyalhas",
+      "eh nyalhs",
+      "eh nylhs",
+      "eh nylhas",
+      "ehnyalhs",
+      "ehnylhas",
+      "эх нялхс",
+      "эхнялхс"
+    ]
+  },
+  "яармаг": {
+    "canonical": "Яармаг",
+    "type": "bus_stop",
+    "lat": 47.861812,
+    "lon": 106.78799845,
+    "aliases": [
+      "yaarmag",
+      "yaarmg",
+      "yarmag",
+      "yarmg",
+      "yrmag",
+      "yrmg",
+      "яармаг",
+      "яармг"
+    ]
+  },
+  "янгирт": {
+    "canonical": "янгирт",
+    "type": "tourism",
+    "lat": 47.9208741,
+    "lon": 107.428336,
+    "aliases": [
+      "yangirt",
+      "yngirt",
+      "янгирт"
+    ]
+  },
+  "яргайт": {
+    "canonical": "Яргайт",
+    "type": "bus_stop",
+    "lat": 48.0397959,
+    "lon": 106.9048966,
+    "aliases": [
+      "yargait",
+      "yrgait",
+      "яргайт"
+    ]
+  },
+  "яруу": {
+    "canonical": "Яруу",
+    "type": "common",
+    "lat": 48.1269979,
+    "lon": 96.2447298,
+    "aliases": [
+      "yaruu",
+      "yaru",
+      "yruu",
+      "yru",
+      "яруу"
+    ]
+  },
+  "үенч": {
+    "canonical": "Үенч",
+    "type": "sum",
+    "lat": 45.8901588,
+    "lon": 91.8216099,
+    "aliases": [
+      "uench",
+      "uynch",
+      "үенч"
+    ]
+  },
+  "өвөр согоот": {
+    "canonical": "Өвөр согоот",
+    "type": "bus_stop",
+    "lat": 48.0010996,
+    "lon": 106.9246117,
+    "aliases": [
+      "uvr sogoot",
+      "uvur sogoot",
+      "uvursogoot",
+      "uvr sogot",
+      "uvur sogot",
+      "uvursogot",
+      "өвөр согоот",
+      "өвөрсогоот"
+    ]
+  },
+  "өвөрхангай": {
+    "canonical": "Өвөрхангай",
+    "type": "aimag",
+    "lat": 45.7397694,
+    "lon": 102.8948025,
+    "aliases": [
+      "uvrhangai",
+      "uvurhangai",
+      "uvurhngai", 
+      " Uwrhngai",
+      "uwrhangai",
+      "uwurhangai",
+      "uwurhngai", 
+      " Uwrhng",
+      "өвөрхангай"
+    ]
+  },
+  "өгийнуур": {
+    "canonical": "Өгийнуур",
+    "type": "sum",
+    "lat": 47.723715,
+    "lon": 102.6905427,
+    "aliases": [
+      "ugiinuur",
+      "uginuur",
+      "өгийнуур"
+    ]
+  },
+  "өлгий": {
+    "canonical": "Өлгий",
+    "type": "sum",
+    "lat": 48.9873032,
+    "lon": 91.10665755,
+    "aliases": [
+      "ulgi",
+      "ulgii",
+      "өлгий"
+    ]
+  },
+  "өлзийт": {
+    "canonical": "Өлзийт",
+    "type": "sum",
+    "lat": 46.34844725,
+    "lon": 103.39164155,
+    "aliases": [
+      "ulziit",
+      "ulzit",
+      "өлзийт"
+    ]
+  },
+  "өмнөговь": {
+    "canonical": "Өмнөговь",
+    "type": "aimag",
+    "lat": 46.24334125,
+    "lon": 97.6315461,
+    "aliases": [
+      "omngovi",
+      "omnogovi",
+      "umngovi",
+      "umnugovi",
+      "өмнговь",
+      "өмнөговь"
+    ]
+  },
+  "өмнөдэлгэр": {
+    "canonical": "Өмнөдэлгэр",
+    "type": "sum",
+    "lat": 48.5012099,
+    "lon": 109.5211539,
+    "aliases": [
+      "umndelgr",
+      "umnudelger",
+      "umnudelgr",
+      "өмнөдэлгэр"
+    ]
+  },
+  "өндөр улаан": {
+    "canonical": "Өндөр-Улаан",
+    "type": "sum",
+    "lat": 48.0106084,
+    "lon": 100.7849882,
+    "aliases": [
+      "undr ulaan",
+      "undur ulaan",
+      "undur ulan",
+      "undr ulan",
+      "undurulan",
+      "undurulaan",
+      "undrulan",
+      "undrulaan",
+      "өндөр улаан",
+      "өндөрулаан"
+    ]
+  },
+  "өндөрхангай": {
+    "canonical": "Өндөрхангай",
+    "type": "sum",
+    "lat": 49.1454347,
+    "lon": 94.9200579,
+    "aliases": [
+      "undrhangai",
+      "undurhangai",
+      "undrhngai",
+      "undurhngai",
+      "өндөрхангай"
+    ]
+  },
+  "өндөршил": {
+    "canonical": "Өндөршил",
+    "type": "sum",
+    "lat": 45.276002,
+    "lon": 108.1249273,
+    "aliases": [
+      "undrshl",
+      "undrshil",
+      "undurshil",
+      "өндршил",
+      "өндөршил"
+    ]
+  },
+  "өндөрширээт": {
+    "canonical": "Өндөрширээт",
+    "type": "sum",
+    "lat": 47.4004232,
+    "lon": 105.0220231,
+    "aliases": [
+      "undrshret",
+      "undurshiret",
+      "undrshreet",
+      "undurshireet",
+      "өндөрширээт"
+    ]
+  },
+  "өргөн": {
+    "canonical": "Өргөн ",
+    "type": "common",
+    "lat": 45.0747428,
+    "lon": 111.0415773,
+    "aliases": [
+      "urgn",
+      "urgun",
+      "өргөн"
+    ]
+  },
+  "өргөө амаржих газар": {
+    "canonical": "Өргөө амаржих газар",
+    "type": "bus_stop",
+    "lat": 47.9179274,
+    "lon": 106.9262735,
+    "aliases": [
+      "urgu amarjih",
+      "urguu amarjih",
+      "urguu amarjh",
+      "urgu amrjh",
+      "urguuamarjih",
+      "urguamarjih",
+      "urguuamarjh",
+      "urguamarjh",
+      "өргө амаржих",
+      "өргөө амаржих",
+      "өргөөамаржих"
+    ]
+  },
+  "өргөө кино театр": {
+    "canonical": "Өргөө кино театр",
+    "type": "bus_stop",
+    "lat": 47.9228354,
+    "lon": 106.87483385,
+    "aliases": [
+      "urgu kino teatr",
+      "urguu kino teatr",
+      "urguu kino ttr",
+      "urguukinoteatr",
+      "өргө кино театр",
+      "өргөө кино театр",
+      "өргөөкинотеатр"
+    ]
+  }, 
+  "кинг тауэр": {
+    "canonical": "кинг тауэр",
+    "type": "bus_stop",
+    "lat": 47.893946, 
+    "lon": 106.929502,
+    "aliases": [
+      "king tower",
+      "kingtower",
+      "кинг тауэр",
+      "кингтауэр"
+    ] 
+},
+"эрээн": {
+    "canonical": "Эрээн",
+    "type": "city",
+    "lat": 43.828003,
+    "lon": 87.621635,
+    "aliases": [
+      "ereen",
+      "эрээн"
+    ]
+},
+"seoul": {
+    "canonical": "Сөүл",
+    "type": "city",
+    "lat": 37.566535,
+    "lon": 126.9779692,
+    "aliases": [
+      "seoul",
+      "seul",
+      "сөүл"
+    ]
+}}

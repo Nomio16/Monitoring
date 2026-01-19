@@ -1,0 +1,31 @@
+{
+  "location_context": {
+    "prepositions": [
+      "д", "т", "руу", "рүү", "орчим", "хавь", "ойролцоо", "дэргэд", "ар", "арын", "урд", "хойно", "захад", "дээр", "дотор", "гадна",
+      "d", "t", "ruu", "ruu", "orchim", "khavi", "havit","havid", "haviar", "oiroltsoo", "derged", "ar", "arin", "urd", "hoino", "khoyno", "zahad", "zaxad", "deer", "dotor", "gadna"
+    ],
+
+    "movement_verbs": [
+      "явна", "явж", "очих", "очино", "очоод", "ирэх", "ирнэ", "очиж", "очоорой",
+      "yavna", "yavj", "iawna", "iawj", "ochih", "ochino", "ochoir", "ochoод", "ireh", "irine", "ochij", "ochoorei", "ochooroi"
+    ],
+
+    "existence_verbs": [
+      "байна", "байгаа", "байрлах", "орших", "олддог", "байдаг",
+      "baina", "bnu", "baigaa", "bairlah", "orshih", "olddog", "baidag"
+    ],
+
+    "address_keywords": [
+      "хаяг", "байршил", "газар", "энд", "тэнд", "хаана", "хаанах",
+      "hayag", "khayag", "bairshil", "gazar", "end", "tend", "haana", "haanah"
+    ]
+  },
+
+  "window": 3,
+
+  "notes": {
+    "description": "Кирил болон түгээмэл галиг хувилбаруудыг нэмсэн контекст үгс",
+    "language": "mongolian (cyrillic & latin galig)",
+    "usage": "Applied only when dictionary type is 'common'"
+  }
+}
