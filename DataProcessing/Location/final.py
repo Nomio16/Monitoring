@@ -81,7 +81,7 @@ def match_locations(text):
         # Хэрэв шууд таарахгүй бол startswith-ээр эхний үгийг шалгана
         possible_matches = []
         
-        # Эхний үг нь яг таарах эсвэл залгавартай байх (+4 логик)
+        # Эхний үг нь яг таарах эсвэл залгавартай байх (+3 логик)
         for first_word_key in optimized_index:
             if current_token == first_word_key or \
                (current_token.startswith(first_word_key) and len(current_token) <= len(first_word_key) + 3):
@@ -107,7 +107,7 @@ def match_locations(text):
             
             if not sub_match: continue
             
-            # Сүүлчийн үг дээр залгавар шалгах (+4 логик)
+            # Сүүлчийн үг дээр залгавар шалгах (+3 логик)
             last_text_token = tokens[i + m - 1]
             last_alias_token = alias_tokens[-1]
             
@@ -115,7 +115,7 @@ def match_locations(text):
             if last_text_token == last_alias_token:
                 is_final_match = True
             elif last_text_token.startswith(last_alias_token) and \
-                 len(last_text_token) <= len(last_alias_token) + 4:
+                 len(last_text_token) <= len(last_alias_token) + 3:
                 is_final_match = True
                 
             if is_final_match:
@@ -130,7 +130,7 @@ def match_locations(text):
                 
                 if matched_this_pos:
                     # Олон үгтэй байршил олдсон бол тэр хэмжээгээр алгасаж дараагийн үг рүү шилжинэ
-                    i += m - 1  # (Заавал алгасах шаардлагагүй бол коммент болгож болно)
+                    i += m - 1 
                     break
         
         i += 1
@@ -146,12 +146,12 @@ posts_df.to_excel("posts_with_locations_final.xlsx", index=False)
 
 # Тайлан гаргах (Coverage)
 coverage = (posts_df["matched_locations"].str.len() > 0).mean() * 100
-print(f"✅ Амжилттай дууслаа. Нийт {len(posts_df)} постноос {coverage:.2f}%-д байршил тогтоов.")
+print(f"Амжилттай дууслаа. Нийт {len(posts_df)} постноос {coverage:.2f}%-д байршил тогтоов.")
 
-# Байршлын тооллого хийх (Explode)
+# Байршлын тооцоолол хийх (Explode)
 post_loc_df = posts_df.explode("matched_locations").dropna(subset=["matched_locations"])
 if not post_loc_df.empty:
     account_loc_counts = post_loc_df.groupby(["ID", "matched_locations"]).size().reset_index(name="count")
     primary_location = account_loc_counts.sort_values("count", ascending=False).groupby("ID").first().reset_index()
     primary_location.to_excel("account_primary_location_final.xlsx", index=False)
-    print("✅ Нэгдсэн тайлан хадгалагдлаа.")
+    print("Нэгдсэн тайлан хадгалагдлаа.")

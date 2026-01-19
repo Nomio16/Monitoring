@@ -122,11 +122,18 @@
   "lat": 47.9137568,
   "lon": 106.8674539,
   "aliases": [
+    "10t",
+    "10d",
+    "10 xoroolol",
     "10 horoolol",
     "10 hrll",
     "10 хороолол",
     "10хороолол",
     "10horoolol",
+    "10horooll",
+    "10xoroolol",
+    "10 r xoroolol",
+    "10r xoroolol",
     "10 r horoolol",
     "10 r hrll",
     "10-р хороолол",
@@ -302,6 +309,8 @@
       "13 haviar",
       "13 havid",
       "13 horoolol",
+      "13horoolol",
+      "13horooll",
       "13 r horoolol",
       "13 r hrll",
       "13 р хороолол",
@@ -493,16 +502,23 @@
     "aliases": [
       "21-t",
       "21t",
+      "21 t",
       "21d",
-      "21 havid",
+      "21havid",
+      "21haviar",
+      "21havid",
+      "21hawid",
+      "21 hawid",
       "21 haviar",
+      "21 hawiar",
+      "21hawiar",
       "21 habiar",
       "21 horoolol",
       "horin neg",
       "horinneg",
       "хорин нэг",
-      "21 r horoolol",
-      "21 r horoolol",
+      "21r horoolol",
+      "21r horooll",
       "21 r horoolol",
       "21 r hrll",
       "21 р хороолол",
@@ -572,14 +588,18 @@
     "lon": 106.8672345,
     "aliases": [
       "3,4t",
+      "3 4t",
       "xorolol",
       "horolol",
       "xoroolol",
       "xorooll",
       "horoolol",
       "horooll",
+      "хороолол",
       "horoolliin etses",
       "horoolliin etss",
+      "3, 4horoolol",
+      "3 4horooll",
       "3, 4 r horoolol",
       "3 4 r horooll",
       "3 4r horooll",
@@ -681,6 +701,8 @@
     "lat": 47.94462313333333,
     "lon": 106.9144984,
     "aliases": [
+      "32 toirog",
+      "32 toirg",
       "32 in toirog",
       "32 in toirg",
       "32n toirog",
@@ -819,6 +841,8 @@
       "5шар",
       "5n shar",
       "5н шар",
+      "5n shar",
+      "5 n shar",
       "5nshar",
       "5ншар",
       "tavan shar",
@@ -1608,6 +1632,9 @@
       "bayan burd",
       "bayn burd",
       "baynburd",
+      "bayan bvrd",
+      "bayn bvrd",
+      "baynbvrd",
       "баян бүрд",
       "баянбүрд"
     ]
@@ -1822,9 +1849,14 @@
       "бзд",
       "bayanzurh",
       "baynzurh",
+      "bayanzvrh",
+      "baynzvrh",
       "bayan zurh",
       "bayn zurh",
+      "bayan zvrh",
+      "bayn zvrh",
       "baynzurh duureg",
+      "baynzvrh duureg",
       "baynzurhduureg",
       "баянзүрх дүүрэг",
       "баянзүрх",
@@ -2016,8 +2048,7 @@
     "aliases": [
       "bichil",
       "bichl",
-      "бичил", 
-      "бичл" 
+      "бичил"
     ]
 },
   "блю скай товер": {
@@ -2854,6 +2885,18 @@
       "дүүхээ",
       "дүүхээ дэлгүүр",
       "дүүхээдэлгүүр"
+    ]
+  },
+  "дөлгөөн нуур": {
+    "canonical": "Дөлгөөн нуур",
+    "type": "sum",
+    "lat": 47.929045,
+    "lon": 106.913562,
+    "aliases": [
+      "dulguun nuur",
+      "dulguunnuur",
+      "дөлгөөн нуур",
+      "дөлгөөннуур"
     ]
   },
   "дөрвөлжин": {
@@ -3819,6 +3862,7 @@
     "lon": 105.19068195,
     "aliases": [
       "murun",
+      "moron",
       "мөрөн"
     ]
   },
@@ -4006,6 +4050,7 @@
     "lon": 106.7632835,
     "aliases": [
       "niseh",
+      "nisekh",
       "nisex",
       "nish",
       "нисх",
@@ -4204,6 +4249,8 @@
       "oppitser",
       "opitsor",
       "ofitser",
+      "opiser",
+      "ofiser",
       "opisor",
       "ofiser",
        "ofitsor",
@@ -4303,17 +4350,6 @@
     "aliases": [
       "sainshand",
       "сайншанд"
-    ]
-  },
-  "сайхан": {
-    "canonical": "Сайхан",
-    "type": "common",
-    "lat": 48.9650297,
-    "lon": 104.1197989,
-    "aliases": [
-      "saihan",
-      "saihn",
-      "сайхан"
     ]
   },
   "сайхан овоо": {
@@ -4432,7 +4468,6 @@
     "lat": 47.9243344,
     "lon": 106.8162215,
     "aliases": [
-      "shd",
       "songino hairhan duurg",
       "songino hairhan duureg",
       "songin hairhan duurg",
@@ -4954,6 +4989,7 @@
     "lon": 92.8641455,
     "aliases": [
       "uvs",
+      "uws",
       "увс"
     ]
   },
@@ -5306,17 +5342,6 @@
       "хангай"
     ]
   },
-  "хангамж": {
-    "canonical": "Хангамж",
-    "type": "common",
-    "lat": 47.9035536,
-    "lon": 107.0247505,
-    "aliases": [
-      "hangamj",
-      "hangmj",
-      "хангамж"
-    ]
-  },
   "ханги өртөө": {
     "canonical": "Ханги өртөө",
     "type": "railway_station",
@@ -5557,6 +5582,8 @@
       "khenti",
       "hentii",
       "henti",
+      "xentii",
+      "xenti",
       "хэнтий"
     ]
   },
@@ -5989,6 +6016,7 @@
     "lon": 106.8463344,
     "aliases": [
       "tsamba",
+      "tsamb",
       "tsambagarav",
       "tsambagarv",
       "tsambgarav",
@@ -6015,8 +6043,10 @@
     "lon": 105.9232857,
     "aliases": [
       "tsogttsetsii",
+      "tsogtsetsii",
       "tsogt tsetsii",
       "tsogttsetsi",
+      "tsogtsetsi",
       "tsogt tsetsi",
       "цогтцэций"
     ]
@@ -6194,6 +6224,15 @@
     "lat": 47.912292675,
     "lon": 106.982127875,
     "aliases": [
+      "chuluu owoo",
+      "chluun owoo",
+      "chluunowoo",
+      "chluun owo",
+      "chluunowo",
+      "chuluun owo",
+      "chuluun owoo",
+      "chuluunowoo",
+      "chuluunowo",
       "chluun ovoo",
       "chluunovoo",
       "chluun ovo",
@@ -6848,6 +6887,10 @@
       "omnogovi",
       "umngovi",
       "umnugovi",
+      "omngowi",
+      "omnogowi",
+      "umngowi",
+      "umnugowi",
       "өмнговь",
       "өмнөговь"
     ]
