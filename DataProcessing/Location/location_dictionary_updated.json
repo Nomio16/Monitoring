@@ -1,0 +1,3340 @@
+{
+  "1 р хороолол": {
+    "canonical": "1-р хороолол",
+    "type": "bus_stop",
+    "lat": 47.917308,
+    "lon": 106.842942,
+    "aliases": [
+      "1 dugeer horoolol",
+      "1 dvgeer horoolol",
+      "1 dvvger horolol",
+      "1 horooll",
+      "1 horoolol",
+      "1 r horooll",
+      "1 r horoolol",
+      "1 r xorooll",
+      "1 r xoroolol",
+      "1 дүгээр хороолол",
+      "1 р хороолол",
+      "1 хороолол",
+      "1-р хороолол",
+      "1dugeer horoolol",
+      "1horooll",
+      "1horoolol",
+      "1r horooll",
+      "1r horoolol",
+      "1r xorooll",
+      "1r xoroolol",
+      "1rhoroolol",
+      "1рхороолол",
+      "1хороолол",
+      "negdugeer horoolol",
+      "negdvgeer horoolol",
+      "нэгдгр хороолол",
+      "нэгдүгээр хороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"12-р хороо"
+
+  },
+  "10 р хороолол": {
+    "canonical": "10-р хороолол",
+    "type": "bus_stop",
+    "lat": 47.913757,
+    "lon": 106.867454,
+    "aliases": [
+      "10 dugeer horoolol",
+      "10 horoolol",
+      "10 hrll",
+      "10 r horoolol",
+      "10 r hrll",
+      "10 r xoroolol",
+      "10 xoroolol",
+      "10 р horoolol",
+      "10 р хороолол",
+      "10 хороолол",
+      "10-р хороолол",
+      "10d",
+      "10horooll",
+      "10horoolol",
+      "10r horool",
+      "10r horooll",
+      "10r horoolol",
+      "10r xoroolol",
+      "10rhoroolol",
+      "10t",
+      "10xoroolol",
+      "10д",
+      "10р хороолол",
+      "10хороолол",
+      "arav dugaar horoolol",
+      "арав дугаар хороолол",
+      "аравдугаар хороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"28-р хороо"
+  },
+  "100 айл": {
+    "canonical": "100 айл",
+    "type": "bus_stop",
+    "lat": 47.931294,
+    "lon": 106.927964,
+    "aliases": [
+      "100 ail",
+      "100 айл",
+      "100ail",
+      "100айл",
+      "zun ail",
+      "zuun ail",
+      "зуун айл",
+      "зуунайл"
+    ],
+    "1": "Улаанбаатар",
+    "2": "Сүхбаатар дүүрэг",
+    "3":"10-р хороо"
+  },
+  "1000 оюутны байр": {
+    "canonical": "1000 Оюутны байр",
+    "type": "bus_stop",
+    "lat": 47.923812,
+    "lon": 106.963585,
+    "aliases": [
+      "1000 oytni bair",
+      "1000 oyuutni bair",
+      "1000 oyuutni br",
+      "1000 оюутны байр",
+      "1000oyutni bair",
+      "1000oyutnibair",
+      "1000оюутныбайр",
+      "myangan oyutni bair",
+      "myngan oytni bair",
+      "myngn oytni bair",
+      "мянган оюутны байр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"31-р хороо"
+  },
+  "11-р хороолол": {
+    "canonical": "11-р хороолол",
+    "type": "area",
+    "lat": 47.925828,
+    "lon": 106.929117,
+    "aliases": [
+      "11 horoolol",
+      "11 р хороолол",
+      "11-p horoolol",
+      "11-p khoroolol",
+      "11-r horoolol",
+      "11-r khoroolol",
+      "11-р хороолол",
+      "11r horoolol",
+      "11r khoroolol",
+      "11р хороолол",
+      "арван нэгдүгээр хороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4": "7-р хороо"
+  },
+  "120 мянгат": {
+    "canonical": "120 мянгат",
+    "type": "common",
+    "lat": 47.901368,
+    "lon": 106.909944,
+    "aliases": [
+      "120",
+      "120 myangat",
+      "120 myngat",
+      "120 myngt",
+      "120 мянгат",
+      "120myangat",
+      "120myngat",
+      "120мянгат"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хануул дүүрэг",
+    "4":"1-р хороо"
+  },
+  "13-р хороолол": {
+    "canonical": "13-р хороолол",
+    "type": "common",
+    "lat": 47.914097,
+    "lon": 106.944424,
+    "aliases": [
+      "13",
+      "13 haviar",
+      "13 havid",
+      "13 horoolol",
+      "13 r horoolol",
+      "13 r hrll",
+      "13 р хороолол",
+      "13-р хороолол",
+      "13d",
+      "13horooll",
+      "13horoolol",
+      "13r horoolol",
+      "13rhoroolol",
+      "13t"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"18-р хороо"
+  },
+  "16 р хороолол": {
+    "canonical": "16-р хороолол",
+    "type": "bus_stop",
+    "lat": 47.923596,
+    "lon": 106.981385,
+    "aliases": [
+      "16 horoolol",
+      "16 r horooll",
+      "16 r horoolol",
+      "16 р хороолол",
+      "16 хороолол",
+      "16-р хороолол",
+      "16horooll",
+      "16horoolol",
+      "16r horooll",
+      "16р хороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"16-р хороо"
+  },
+  "19-н үйлчилгээний төв": {
+    "canonical": "19-н үйлчилгээний төв",
+    "type": "common",
+    "lat": 47.911487,
+    "lon": 106.838208,
+    "aliases": [
+      "19",
+      "19 haviar",
+      "19 havid",
+      "19 n uilchilgeeni tuv",
+      "19 n uilchlgn tuv",
+      "19 vilchilgeenii tow",
+      "19 н үйлчилгээний төв",
+      "19 хороолол",
+      "19-н үйлчилгээний төв",
+      "19-р хорооллын үйлчилгээний төв",
+      "19d",
+      "19nuilchilgeenituv",
+      "19t",
+      "19нүйлчилгээнийтөв"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хануул дүүрэг",
+    "4":"2-р хороо"
+  },
+  "21 р хороолол": {
+    "canonical": "21-р хороолол",
+    "type": "common",
+    "lat": 47.920834,
+    "lon": 106.817043,
+    "aliases": [
+      "21",
+      "21 habiar",
+      "21 haviar",
+      "21 hawiar",
+      "21 hawid",
+      "21 horoolol",
+      "21 r horoolol",
+      "21 r hrll",
+      "21 t",
+      "21 дүгээр хороолол",
+      "21 р хороолол",
+      "21 хороолол",
+      "21-t",
+      "21-р хороолол",
+      "21d",
+      "21haviar",
+      "21havid",
+      "21hawiar",
+      "21hawid",
+      "21r horooll",
+      "21r horoolol",
+      "21t",
+      "21рхороолол",
+      "horin neg",
+      "horinneg",
+      "хорин нэг"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"19-р хороо"
+  },
+  "25 р эмийн сан": {
+    "canonical": "25-р эмийн сан",
+    "type": "bus_stop",
+    "lat": 47.91462,
+    "lon": 106.879134,
+    "aliases": [
+      "25 dgr emiin san",
+      "25 dugaar emiin san",
+      "25-r emiin san",
+      "25-р эмийн сан",
+      "25р эмийн сан"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4": "4-р хороо"
+  },
+  "3 4 р хороолол": {
+    "canonical": "3 4-р Хороолол",
+    "type": "bus_stop",
+    "lat": 47.922608,
+    "lon": 106.867234,
+    "aliases": [
+      "3 4 r horooll",
+      "3 4 r hroolln",
+      "3 4 r hroolln etses",
+      "3 4 р хороолл",
+      "3 4 р хороолол",
+      "3 4-р r horoolol",
+      "3 4-р r hrooll",
+      "3 4-р r hroolol",
+      "3 4-р р хорооллын",
+      "3 4horooll",
+      "3 4r horooll",
+      "3 4t",
+      "3 4р хороолол",
+      "3, 4 r horoolol",
+      "3, 4horoolol",
+      "3,4-р хороолол",
+      "3,4t",
+      "34rhorooll",
+      "34рхороолол",
+      "horolol",
+      "horooll",
+      "horoolliin etses",
+      "horoolliin etss",
+      "horoolol",
+      "horooolol",
+      "xorolol",
+      "xorooll",
+      "xoroolol",
+      "хороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4": "13-р хороо"
+
+  },
+  "3 р эмнэлэг": {
+    "canonical": "3-р Эмнэлэг",
+    "type": "bus_stop",
+    "lat": 47.913186,
+    "lon": 106.859849,
+    "aliases": [
+      "3 р эмнэлэг",
+      "3-r emneleg",
+      "3-r emnlg",
+      "3-р эмнэлг",
+      "3-р эмнэлэг",
+      "3r emneleg",
+      "3r emnlg",
+      "3remneleg",
+      "3р эмнэлг",
+      "3рэмнэлэг",
+      "gurav dgr emnlg",
+      "gurav dugaar emneleg",
+      "гурав дгаар эмнэлг",
+      "гурав дгаар эмнэлэг",
+      "гурав дугаар эмнэлг",
+      "гурав дугаар эмнэлэг"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"28-р хороо"
+  },
+  "32 ын тойрог": {
+    "canonical": "32-ын тойрог",
+    "type": "bus_stop",
+    "lat": 47.944623,
+    "lon": 106.914498,
+    "aliases": [
+      "32 in toirg",
+      "32 in toirog",
+      "32 toirg",
+      "32 toirog",
+      "32 ын тойрог",
+      "32-ын тойрог",
+      "32intoirg",
+      "32intoirog",
+      "32n toirg",
+      "32n toirog",
+      "32ынтоирог"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг", 
+    "4":"12-р хороо"
+  },
+  "5 буудал": {
+    "canonical": "5 буудал",
+    "type": "bus_stop",
+    "lat": 47.954904,
+    "lon": 106.915287,
+    "aliases": [
+      "5 buudal",
+      "5 buudl",
+      "5 буудал",
+      "5-р buudal",
+      "5-р buudl",
+      "5-р буудал",
+      "5buudal",
+      "5буудал",
+      "tavan buudal",
+      "tavan buudl",
+      "tavn buudal",
+      "tavn buudl",
+      "таван буудал",
+      "тавн буудал"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг", 
+    "4":"13-р хороо"
+  },
+  "5 шар": {
+    "canonical": "5 Шар",
+    "type": "bus_stop",
+    "lat": 47.909852,
+    "lon": 106.815062,
+    "aliases": [
+      "5 n shar",
+      "5 shar",
+      "5 н шар",
+      "5 шар",
+      "5n shar",
+      "5nshar",
+      "5shar",
+      "5н шар",
+      "5ншар",
+      "5шар",
+      "tavan shar",
+      "tavn shar",
+      "tavnshar",
+      "tvn shar",
+      "tvnshar",
+      "таван шар",
+      "таваншар",
+      "тавншар",
+      "tavan шар",
+      "tavn shar"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"38-р хороо"
+  },
+  "6 буудал": {
+    "canonical": "6 буудал",
+    "type": "bus_stop",
+    "lat": 47.965763,
+    "lon": 106.917555,
+    "aliases": [
+      "6 buudal",
+      "6 buudl",
+      "6 буудал",
+      "6buudal",
+      "6buudl",
+      "6буудал",
+      "zurgaan buudal",
+      "zurgan buudal",
+      "зургаан буудал",
+      "зурган буудал"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"14-р хороо"
+  },
+  "6 р хороолол": {
+    "canonical": "6-Р ХОРООЛОЛ",
+    "type": "bus_stop",
+    "lat": 47.927287,
+    "lon": 106.904278,
+    "aliases": [
+      "6 r horoolol",
+      "6 r hrooll",
+      "6 р хороолол",
+      "6-р хороолол",
+      "6rhoroolol",
+      "6рхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4" :"5-р хороо"
+  },
+  "64 р дэлгүүр": {
+    "canonical": "64-р дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.922706,
+    "lon": 106.927056,
+    "aliases": [
+      "64 r delguur",
+      "64 r dlgr",
+      "64 р длгр",
+      "64 р дэлгүүр",
+      "64-р дэлгүүр",
+      "64rdelguur",
+      "64р дэлгүүр",
+      "64рдэлгүүр",
+      "jarn durv"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"8-р хороо"
+  },
+  "7 буудал": {
+    "canonical": "7 буудал",
+    "type": "bus_stop",
+    "lat": 47.968951,
+    "lon": 106.917417,
+    "aliases": [
+      "7 buudal",
+      "7 buudl",
+      "7 буудал",
+      "7buudal",
+      "7buudl",
+      "7буудал",
+      "doloon buudal",
+      "doloon buudl",
+      "долоон буудал"
+    ],
+    "region": "Улаанбаатар",
+    "district": "Сүхбаатар дүүрэг"
+  },
+  "9 р дэлгүүр": {
+    "canonical": "9 р дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.937721,
+    "lon": 106.921113,
+    "aliases": [
+      "9 r delguur",
+      "9 r dlguur",
+      "9 р дэлгүүр",
+      "9-р дэлгүүр",
+      "9rdelguur",
+      "9рдэлгүүр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4": "14-р хороо"
+  },
+  "тэрэлж": {
+    "canonical": "тэрэлж ",
+    "type": "tourism",
+    "lat": 47.994412,
+    "lon": 107.548432,
+    "aliases": [
+      "terelj",
+      "terlj",
+      "тэрлж",
+      "тэрэлж"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Налайх дүүрэг",
+    "4":"6-р хороо"
+  },
+
+  "түнхэл": {
+    "canonical": "Түнхэл ",
+    "type": "sum",
+    "lat": 49.774245,
+    "lon": 100.718615,
+    "aliases": [
+      "tunhel",
+      "tunhl",
+      "түнхл",
+      "түнхэл"
+    ],
+    "2": "Сэлэнгэ аймаг",
+    "3": "Мандал сум"
+  },
+  "алтай хотхон": {
+    "canonical": "Алтай хотхон",
+    "type": "bus_stop",
+    "lat": 47.903832,
+    "lon": 106.892875,
+    "aliases": [
+      "altai hothn",
+      "altai hothon",
+      "altaihothon",
+      "алтай хотхн",
+      "алтай хотхон",
+      "алтайхотхон"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4": "24-р хороо"
+  },
+  "алтанбулаг": {
+    "canonical": "Алтанбулаг ",
+    "type": "sum",
+    "lat": 48.761096,
+    "lon": 106.408597,
+    "aliases": [
+      "altanbulag",
+      "altanbulg",
+      "altnbulg",
+      "алтанбулаг"
+    ],
+    "2": "Сэлэнгэ аймаг"
+  },
+  "амгалан": {
+    "canonical": "Амгалан",
+    "type": "common",
+    "lat": 47.905473,
+    "lon": 107.014467,
+    "aliases": [
+      "amgalan",
+      "амгалан"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"10-р хороо"
+  },
+  "арвайхээр": {
+    "canonical": "Арвайхээр ",
+    "type": "sum",
+    "lat": 46.276211,
+    "lon": 102.772429,
+    "aliases": [
+      "arvaiheer",
+      "арвайхээр"
+    ],
+    "2": "Өвөрхангай аймаг"
+  },
+  "архангай": {
+    "canonical": "Архангай",
+    "type": "aimag",
+    "lat": 48.014237,
+    "lon": 100.925552,
+    "aliases": [
+      "arhangai",
+      "arhngai",
+      "архангай"
+    ]
+  },
+  "бага тойруу": {
+    "canonical": "Бага тойруу ",
+    "type": "tourism",
+    "lat": 47.925803,
+    "lon": 106.919593,
+    "aliases": [
+      "baga toiru",
+      "baga toiruu",
+      "bagatoiruu",
+      "bga toiru",
+      "bga toiruu",
+      "бага тойруу",
+      "багатойруу"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"8-р хороо"
+  },
+  "багануур": {
+    "canonical": "Багануур ",
+    "type": "sum",
+    "lat": 47.826954,
+    "lon": 108.353456,
+    "aliases": [
+      "baganuur",
+      "bganuur",
+      "багануур"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "багахангай": {
+    "canonical": "Багахангай",
+    "type": "sum",
+    "lat": 47.371693,
+    "lon": 107.450512,
+    "aliases": [
+      "bagahangai",
+      "bgahangai",
+      "багахангай"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "баруун 4 зам": {
+    "canonical": "Баруун 4 зам",
+    "type": "bus_stop",
+    "lat": 47.915253,
+    "lon": 106.895225,
+    "aliases": [
+      "baruun 4",
+      "baruun 4 zam",
+      "baruun dorov",
+      "baruun durv",
+      "baruun4zam",
+      "brn dorov zam",
+      "brn дөрөв zam",
+      "bruun 4",
+      "bruun duruv",
+      "баруун 4",
+      "баруун 4 зам",
+      "баруун dorov",
+      "баруун дөрөв",
+      "баруун4зам"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4" : "16-р хороо"
+  },
+  "баруун салаа": {
+    "canonical": "Баруун Салаа",
+    "type": "bus_stop",
+    "lat": 47.959474,
+    "lon": 106.821403,
+    "aliases": [
+      "barun salaa",
+      "barunsalaa",
+      "baruun salaa",
+      "baruunsalaa",
+      "баруун салаа",
+      "баруунсалаа"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"41-р хороо"
+  },
+  "баруун урт": {
+    "canonical": "Баруун-Урт ",
+    "type": "sum",
+    "lat": 46.682183,
+    "lon": 113.279737,
+    "aliases": [
+      "barun urt",
+      "baruun urt",
+      "baruunurt",
+      "баруун урт",
+      "баруун-урт",
+      "баруунурт"
+    ],
+    "2": "Сүхбаатар аймаг"
+  },
+  "баянмонгол хороолол": {
+    "canonical": "Баянмонгол хороолол",
+    "type": "bus_stop",
+    "lat": 47.904489,
+    "lon": 106.931171,
+    "aliases": [
+      "bayan mongol",
+      "bayanmongol",
+      "bayanmongol horoolol",
+      "bayanmongolhoroolol",
+      "baynmngl",
+      "baynmongol",
+      "bynmongol",
+      "баянмонгол",
+      "баянмонгол хороолол",
+      "баянмонголхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"36-р хороо"
+  },
+  "баян бүрд": {
+    "canonical": "Баян Бүрд",
+    "type": "bus_stop",
+    "lat": 47.928282,
+    "lon": 106.907951,
+    "aliases": [
+      "bayan burd",
+      "bayan bvrd",
+      "bayn burd",
+      "bayn bvrd",
+      "baynburd",
+      "baynbvrd",
+      "баян бүрд",
+      "баянбүрд"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4" :"6-р хороо"
+  },
+  "баян өлгий": {
+    "canonical": "Баян-Өлгий ",
+    "type": "aimag",
+    "lat": 48.271454,
+    "lon": 89.830854,
+    "aliases": [
+      "bayn ulgi",
+      "bayn ulgii",
+      "baynulgii",
+      "баян өлгий",
+      "баян-өлгий",
+      "баянөлгий"
+    ]
+  },
+  "баянгол зочид буудал": {
+    "canonical": "Баянгол зочид буудал",
+    "type": "bus_stop",
+    "lat": 47.913382,
+    "lon": 106.915015,
+    "aliases": [
+      "bayagol zochid buudl",
+      "bayangol",
+      "bayngol",
+      "bayngol zochid buudal",
+      "bayngolzochidbuudal",
+      "баянгол зочид буудал",
+      "баянголзочидбуудал"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4": "1-р хороо"
+  },
+  "баянзүрх дүүрэг": {
+    "canonical": "Баянзүрх дүүрэг",
+    "type": "bus_stop",
+    "lat": 47.916424,
+    "lon": 106.964918,
+    "aliases": [
+      "bayan zurh",
+      "bayan zvrh",
+      "bayanzurh",
+      "bayanzvrh",
+      "bayn zurh",
+      "bayn zvrh",
+      "baynzurh",
+      "baynzurh duureg",
+      "baynzurhduureg",
+      "baynzvrh",
+      "baynzvrh duureg",
+      "bzd",
+      "баянзүрх",
+      "баянзүрх дүүрэг",
+      "баянзүрхдүүрэг",
+      "бзд"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "баянхонгор": {
+    "canonical": "Баянхонгор ",
+    "type": "aimag",
+    "lat": 45.663276,
+    "lon": 100.194168,
+    "aliases": [
+      "bayan hongor",
+      "bayanhongor",
+      "bayn hongor",
+      "bayn hongr",
+      "baynhongor",
+      "baynhongr",
+      "баян хонгор",
+      "баянхонгор"
+    ]
+  },
+  "баянхошуу": {
+    "canonical": "Баянхошуу",
+    "type": "bus_stop",
+    "lat": 47.987865,
+    "lon": 106.801948,
+    "aliases": [
+      "bayan hoshuu",
+      "bayanhoshuu",
+      "bayn hoshu",
+      "bayn hoshuu",
+      "baynhoshu",
+      "baynhoshuu",
+      "bynhoshu",
+      "баян хошуу",
+      "баянхошуу"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"9-р хороо"
+  },
+  "бичил": {
+    "canonical": "Бичил хороолол",
+    "type": "common",
+    "lat": 47.925786,
+    "lon": 106.880026,
+    "aliases": [
+      "bichil",
+      "bicil",
+      "бичил"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"34-р хороо"  
+  },
+  "блю скай товер": {
+    "canonical": "Блю скай товер",
+    "type": "tourism",
+    "lat": 47.916349,
+    "lon": 106.918597,
+    "aliases": [
+      "blue sky",
+      "blue sky hotel",
+      "blue sky tower",
+      "bluesky",
+      "блю скай",
+      "блю скай товер",
+      "блү скай"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"8-р хороо"
+  },
+  "богд ар хороолол": {
+    "canonical": "Богд ар хороолол",
+    "type": "bus_stop",
+    "lat": 47.911629,
+    "lon": 106.884009,
+    "aliases": [
+      "bogd ar",
+      "bogd ar horoolol",
+      "bogd ar khoroolol",
+      "bogdar",
+      "bogdar horoolol",
+      "богд ар",
+      "богд ар хороолол",
+      "богдар"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг", 
+    "4":"1-р хороо"
+  },
+  "ботаник": {
+    "canonical": "Ботаник",
+    "type": "bus_stop",
+    "lat": 47.912464,
+    "lon": 107.001207,
+    "aliases": [
+      "batonik",
+      "botanik",
+      "батоник",
+      "ботаник"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"12-р хороо"
+  },
+  "булган": {
+    "canonical": "Булган ",
+    "type": "aimag",
+    "lat": 47.091717,
+    "lon": 101.140016,
+    "aliases": [
+      "bulgan",
+      "bulgn",
+      "булган"
+    ]
+  },
+  "буянт ухаа": {
+    "canonical": "Буянт ухаа",
+    "type": "bus_stop",
+    "lat": 47.856076,
+    "lon": 106.764815,
+    "aliases": [
+      "buyant uha",
+      "buyant uhaa",
+      "buyantuha",
+      "buyantuhaa",
+      "buynt uha",
+      "buynt uhaa",
+      "buyntuha",
+      "buyntuhaa",
+      "буянт ухаа",
+      "буянтуха",
+      "буянтухаа"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"21-р хороо"
+  },
+  "бөмбөгөр": {
+    "canonical": "Бөмбөгөр худалдааны төв",
+    "type": "market",
+    "lat": 47.923485,
+    "lon": 106.905646,
+    "aliases": [
+      "bombgr",
+      "bombogor",
+      "bumbgr",
+      "bumbugur",
+      "бөмбөгөр",
+      "бөмбөгөр худалдааны төв"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"2-р хороо"
+  },
+  "бөхийн өргөө": {
+    "canonical": "Бөхийн өргөө",
+    "type": "bus_stop",
+    "lat": 47.918374,
+    "lon": 106.933624,
+    "aliases": [
+      "buhiin urgu",
+      "buhiin urguu",
+      "buhiinurguu",
+      "buhin urguu",
+      "buhinurgu",
+      "бөхийн өргө",
+      "бөхийн өргөө",
+      "бөхийнөргө",
+      "бөхийнөргөө"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4": "6-р хороо"
+  },
+  "вива сити": {
+    "canonical": "Вива сити",
+    "type": "bus_stop",
+    "lat": 47.880666,
+    "lon": 106.857332,
+    "aliases": [
+      "viva city",
+      "vivacity",
+      "вива сити",
+      "вивасити"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"24-р хороо"
+  },
+  "вокзал": {
+    "canonical": "Вокзал",
+    "type": "bus_stop",
+    "lat": 47.909614,
+    "lon": 106.884713,
+    "aliases": [
+      "vogzal",
+      "vokzal",
+      "вокзал"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"1-р хороо"
+  },
+  "гандан": {
+    "canonical": "Гандан",
+    "type": "bus_stop",
+    "lat": 47.924747,
+    "lon": 106.894139,
+    "aliases": [
+      "gandan",
+      "gandn",
+      "гандан"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"16-р хороо"
+  },
+  "говь алтай": {
+    "canonical": "Говь-Алтай ",
+    "type": "aimag",
+    "lat": 45.247251,
+    "lon": 95.792071,
+    "aliases": [
+      "altai",
+      "govi altai",
+      "govialtai",
+      "gowi altai",
+      "gowialtai",
+      "говь алтай",
+      "говь-алтай",
+      "говьалтай"
+    ]
+  },
+  "гэмтэлийн эмнэлэг": {
+    "canonical": "Гэмтэлийн эмнэлэг",
+    "type": "bus_stop",
+    "lat": 47.921435,
+    "lon": 106.859135,
+    "aliases": [
+      "gemtel",
+      "gemtl",
+      "gemtliin",
+      "gemtliin emneleg",
+      "gemtliinemneleg",
+      "гэмтлийн эмнэлг",
+      "гэмтэл",
+      "гэмтэлийн эмнэлэг",
+      "гэмтэлийнэмнэлэг"
+    ],
+    "region": "Улаанбаатар",
+    "district": "Баянгол дүүрэг"
+  },
+  "гранд плаза": {
+    "canonical": "Гранд плаза",
+    "type": "bus_stop",
+    "lat": 47.914436,
+    "lon": 106.890576,
+    "aliases": [
+      "grand plaza",
+      "grandplaza",
+      "гранд плаза",
+      "грандплаза"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"16-р хороо"
+  },
+  "да хүрээ": {
+    "canonical": "Да хүрээ",
+    "type": "market",
+    "lat": 47.925643,
+    "lon": 106.985633,
+    "aliases": [
+      "da hure",
+      "da huree",
+      "da khure",
+      "da khuree",
+      "dahuree",
+      "dakhuree",
+      "да хүрээ",
+      "да хүрээ зах",
+      "дахүрээ"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"9-р хороо"
+  },
+  "даланзадгад": {
+    "canonical": "Даланзадгад",
+    "type": "sum",
+    "lat": 43.554689,
+    "lon": 104.488744,
+    "aliases": [
+      "dalanzadgad",
+      "dalnzadgad",
+      "dalnzadgd",
+      "даланзадгад"
+    ],
+    "2": "Өмнөговь аймаг"
+  },
+  "дархан": {
+    "canonical": "Дархан ",
+    "type": "sum",
+    "lat": 48.050593,
+    "lon": 107.628867,
+    "aliases": [
+      "darhan",
+      "darhn",
+      "darkhan",
+      "darkhn",
+      "darxan",
+      "darxn",
+      "drakhan",
+      "drhn",
+      "дархан"
+    ]
+  },
+  "дарь эх": {
+    "canonical": "Дарь эх",
+    "type": "bus_stop",
+    "lat": 47.943035,
+    "lon": 106.939728,
+    "aliases": [
+      "dari eh",
+      "dari ekh",
+      "dari ex",
+      "darieh",
+      "dariekh",
+      "dariex",
+      "дарь эх",
+      "дарьэх"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"27-р хороо"
+  },
+  "драгон төв": {
+    "canonical": "Драгон төв",
+    "type": "bus_stop",
+    "lat": 47.911325,
+    "lon": 106.821729,
+    "aliases": [
+      "daragon",
+      "dragon",
+      "dragon tov",
+      "dragontov",
+      "драгон",
+      "драгон төв"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"29-р хороо"
+  },
+  "дорноговь": {
+    "canonical": "Дорноговь ",
+    "type": "aimag",
+    "lat": 44.509793,
+    "lon": 109.807522,
+    "aliases": [
+      "dorngovi",
+      "dornogovi",
+      "дорноговь"
+    ]
+  },
+  "дорнод": {
+    "canonical": "Дорнод ",
+    "type": "aimag",
+    "lat": 48.285703,
+    "lon": 115.964132,
+    "aliases": [
+      "dornd",
+      "dornod",
+      "дорнод"
+    ]
+  },
+  "дундговь": {
+    "canonical": "Дундговь ",
+    "type": "aimag",
+    "lat": 45.479358,
+    "lon": 106.134106,
+    "aliases": [
+      "dundgovi",
+      "дундговь"
+    ]
+  },
+  "дүүхээ дэлгүүр": {
+    "canonical": "Дүүхээ дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.922282,
+    "lon": 106.868369,
+    "aliases": [
+      "duuhee",
+      "duuhee delguur",
+      "duuheedelguur",
+      "дүүхээ",
+      "дүүхээ дэлгүүр",
+      "дүүхээдэлгүүр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"32-р хороо"
+  },
+  "дөлгөөн нуур": {
+    "canonical": "Дөлгөөн нуур",
+    "type": "sum",
+    "lat": 47.929045,
+    "lon": 106.913562,
+    "aliases": [
+      "dolgoon nuur",
+      "dulguun nuur",
+      "dulguunnuur",
+      "дөлгөөн нуур",
+      "дөлгөөннуур"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"9-р хороо"
+  },
+  "жуков": {
+    "canonical": "Жуков",
+    "type": "bus_stop",
+    "lat": 47.917741,
+    "lon": 106.950143,
+    "aliases": [
+      "jukov",
+      "jukow",
+      "jukuv",
+      "jukuw",
+      "jukv",
+      "jukw",
+      "жукв",
+      "жуков"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"4-р хороо"
+  },
+  "зайсан": {
+    "canonical": "Зайсан",
+    "type": "bus_stop",
+    "lat": 47.884698,
+    "lon": 106.912774,
+    "aliases": [
+      "zaisan",
+      "zaisn",
+      "zaysan",
+      "зайсан",
+      "зайсн"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"11-р хороо"
+  },
+  "завхан": {
+    "canonical": "Завхан ",
+    "type": "aimag",
+    "lat": 48.579838,
+    "lon": 94.777263,
+    "aliases": [
+      "zavhan",
+      "zavhn",
+      "завхан"
+    ]
+  },
+  "замын цагдаа": {
+    "canonical": "Замын цагдаа",
+    "type": "bus_stop",
+    "lat": 47.974339,
+    "lon": 106.918127,
+    "aliases": [
+      "zamiin tsagda",
+      "zamiin tsagdaa",
+      "zamiintsagdaa",
+      "zamin tsagda",
+      "zamin tsagdaa",
+      "zamintsagdaa",
+      "zamn tsagdaa",
+      "zamntsagdaa",
+      "замын цагдаа",
+      "замынцагдаа"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"1-р хороо"
+  },
+  "замын үүд": {
+    "canonical": "Замын-Үүд",
+    "type": "sum",
+    "lat": 43.815781,
+    "lon": 111.810252,
+    "aliases": [
+      "zamiin uud",
+      "zamiin vvd",
+      "zamiinuud",
+      "zamiinvvd",
+      "zamin uud",
+      "zamin vvd",
+      "zaminuud",
+      "zaminvvd",
+      "замын үүд",
+      "замын-үүд",
+      "замынүүд"
+    ],
+    "2": "Дорноговь аймаг"
+  },
+  "зунжин": {
+    "canonical": "Зунжин",
+    "type": "bus_stop",
+    "lat": 48.005036,
+    "lon": 106.923907,
+    "aliases": [
+      "zunjin",
+      "зунжин"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"24-р хороо"
+  },
+  "зурагт": {
+    "canonical": "Зурагт",
+    "type": "bus_stop",
+    "lat": 47.933456,
+    "lon": 106.886959,
+    "aliases": [
+      "zuragt",
+      "zurgt",
+      "zurgtiin etses",
+      "zurgtiin huuchin etses",
+      "zurgtiin shine etses",
+      "zurgtin etses",
+      "зурагт",
+      "зурагтийн хуучин эцэс",
+      "зурагтийн шинэ эцэс",
+      "зурагтийн эцэс",
+      "зурагтын эцэс"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"11-р хороо"
+  },
+  "зүүн 4 зам": {
+    "canonical": "Зүүн 4 зам",
+    "type": "bus_stop",
+    "lat": 47.918926,
+    "lon": 106.941388,
+    "aliases": [
+      "zuun 4",
+      "zuun 4 zam",
+      "zuun 4-р zam",
+      "zuun dorov",
+      "zuun dorov zam",
+      "zuun duruv",
+      "zuun дөрөв zam",
+      "zuun4",
+      "zuun4zam",
+      "зүүн 4 зам",
+      "зүүн 4-р зам",
+      "зүүн dorov зам",
+      "зүүн дөрөв",
+      "зүүн дөрөв зам",
+      "зүүн4зам"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"15-р хороо"
+  },
+  "зүүн салаа": {
+    "canonical": "Зүүн Салаа",
+    "type": "bus_stop",
+    "lat": 47.987991,
+    "lon": 106.827617,
+    "aliases": [
+      "zuun salaa",
+      "zuun salaani",
+      "zuun salaanii",
+      "zuunsalaa",
+      "zvvn salaa",
+      "zvvnsalaa",
+      "зүүн салаа",
+      "зүүнсалаа",
+      "зүүнсалааны"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"9-р хороо"
+  },
+  "зүүнхараа": {
+    "canonical": "Зүүнхараа",
+    "type": "railway_station",
+    "lat": 48.856828,
+    "lon": 106.454464,
+    "aliases": [
+      "zuun hara",
+      "zuun haraa",
+      "zuunhara",
+      "zuunharaa",
+      "zvvn hara",
+      "zvvn haraa",
+      "zvvnharaa",
+      "зүүн хараа",
+      "зүүнхараа"
+    ],
+    "2": "Сэлэнгэ аймаг",
+    "3": "Мандал сум"
+  },
+  "иргэний бүртгэл мэдээллийн төв": {
+    "canonical": "Иргэний бүртгэл мэдээллийн төв",
+    "type": "bus_stop",
+    "lat": 47.933206,
+    "lon": 106.927626,
+    "aliases": [
+      "irgeni burtgel medeelliin tuv",
+      "irgenii burtgel",
+      "irgenii burtgl medeelliin tuv",
+      "irgeniiburtgelmedeelliintuvbuudal",
+      "иргэний бүртгэл",
+      "иргэний бүртгэл мэдээллийн төв",
+      "иргэнийбүртгэлмэдээллийнтөв"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"11-р хороо"
+  },
+  "их монгол хороолол": {
+    "canonical": "их монгол хороолол",
+    "type": "bus_stop",
+    "lat": 47.906311,
+    "lon": 106.943218,
+    "aliases": [
+      "ih mongol",
+      "ih mongol horoolol",
+      "ih mongol hrooll",
+      "ihmongolhoroolol",
+      "их монгол хороолол",
+      "ихмонголхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"36-р хороо"
+  },
+  "их засаг их сургууль": {
+    "canonical": "Их Засаг Их Сургууль",
+    "type": "bus_stop",
+    "lat": 47.916051,
+    "lon": 106.887534,
+    "aliases": [
+      "ih zasag",
+      "ih zasag ih surgl",
+      "ih zasag ih surguuli",
+      "ih zasg",
+      "ihzasagihsurguuli",
+      "ikh zasag",
+      "ikh zasg",
+      "их засаг",
+      "их засаг их сургууль",
+      "ихзасаг",
+      "ихзасагихсургууль"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"30-р хороо"
+  },
+  "ктмс": {
+    "canonical": "КТМС",
+    "type": "bus_stop",
+    "lat": 47.926574,
+    "lon": 106.942977,
+    "aliases": [
+      "ktms",
+      "ктмс"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"7-р хороо"
+  },
+  "макс малл": {
+    "canonical": "Макс Малл",
+    "type": "bus_stop",
+    "lat": 47.915786,
+    "lon": 106.891341,
+    "aliases": [
+      "maks mall",
+      "maksmall",
+      "макс малл",
+      "максмалл"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"16-р хороо"
+  },
+  "миний дэлгүүр": {
+    "canonical": "Миний Дэлгүүр",
+    "type": "common",
+    "lat": 47.908269,
+    "lon": 106.935828,
+    "aliases": [
+      "minii delgur",
+      "minii delguur",
+      "miniidelguur",
+      "mni delguur",
+      "миний дэлгүүр"
+    ],
+    "2": "Улаанбаатар",
+    "district": null
+  },
+  "мишээл экспо": {
+    "canonical": "Мишээл Экспо",
+    "type": "bus_stop",
+    "lat": 47.893991,
+    "lon": 106.883785,
+    "aliases": [
+      "misheel expo",
+      "misheelexpo",
+      "mishel expo",
+      "мишээл экспо",
+      "мишээлэкспо"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"20-р хороо"
+  },
+  "модны 2": {
+    "canonical": "Модны 2",
+    "type": "bus_stop",
+    "lat": 47.919024,
+    "lon": 106.890621,
+    "aliases": [
+      "modni 2",
+      "modni hoer",
+      "modni hoyor",
+      "modni hoyr",
+      "modni2",
+      "modnii 2",
+      "modnii hoer",
+      "modnii hoyor",
+      "modnii hoyr",
+      "modnii2",
+      "modny 2",
+      "modny hoer",
+      "modny hoyor",
+      "modny hoyr",
+      "modny2",
+      "модний 2",
+      "модны 2",
+      "модны2",
+      "модныи 2"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"33-р хороо"
+  },
+  "могул таун": {
+    "canonical": "Могул таун",
+    "type": "bus_stop",
+    "lat": 47.875513,
+    "lon": 106.907697,
+    "aliases": [
+      "mogul town",
+      "mogultown",
+      "могул таун",
+      "могултаун"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"22-р хороо"
+  },
+  "монгол кино үйлдвэр": {
+    "canonical": "Монгол кино үйлдвэр",
+    "type": "bus_stop",
+    "lat": 47.916862,
+    "lon": 106.960182,
+    "aliases": [
+      "kino uildver",
+      "kino uildwer",
+      "kino vildwer",
+      "kinouildver",
+      "kinouildwer",
+      "kinovildwer",
+      "mongol kino uildver",
+      "mongol kino uildvr",
+      "mongol kino uildwer",
+      "mongol kino uildwr",
+      "mongol kino vildwer",
+      "mongol kino vildwr",
+      "mongolkinouildver",
+      "кино үйлдвэр",
+      "киноүйлдвэр",
+      "монгол кино үйлдвэр",
+      "монголкиноүйлдвэр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"14-р хороо"
+  },
+  "монгол улсын их сургууль": {
+    "canonical": "Монгол улсын их сургууль",
+    "type": "bus_stop",
+    "lat": 47.922496,
+    "lon": 106.920663,
+    "aliases": [
+      "mongol ulsiin ih surguuli",
+      "mongol ulsin ih surguuli",
+      "mongolulsinihsurguuli",
+      "muis",
+      "монгол улсын их сургууль",
+      "монголулсынихсургууль",
+      "муис"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"6-р хороо"
+  },
+  "монел": {
+    "canonical": "Монел",
+    "type": "bus_stop",
+    "lat": 47.943461,
+    "lon": 106.969764,
+    "aliases": [
+      "monel",
+      "moneliin",
+      "монел",
+      "монелийн"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"31-р хороо"
+  },
+  "морингийн даваа": {
+    "canonical": "Морингийн даваа",
+    "type": "bus_stop",
+    "lat": 47.844577,
+    "lon": 106.729528,
+    "aliases": [
+      "morin",
+      "moringiin davaa",
+      "moringiin dva",
+      "moringiindavaa",
+      "морин",
+      "морингийн даваа",
+      "морингийндаваа"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"10-р хороо"
+  },
+  "москва хороолол": {
+    "canonical": "Москва хороолол",
+    "type": "residential_area",
+    "lat": 47.913829,
+    "lon": 106.826997,
+    "aliases": [
+      "moscow horoolol",
+      "moscow khoroolol",
+      "moskva horoolol",
+      "moskva khoroolol",
+      "moskvahoroolol",
+      "moskwa khoroolol",
+      "москва хороолол",
+      "москвахороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"29-р хороо"
+  },
+  "мубис": {
+    "canonical": "МУБИС",
+    "type": "bus_stop",
+    "lat": 47.918724,
+    "lon": 106.924202,
+    "aliases": [
+      "bagshiin ded",
+      "bagshiin deed",
+      "bagshin ded",
+      "bagshin deed",
+      "bagshn deed",
+      "mongol ulsiin bolovsroliin ih surguuli",
+      "mubis",
+      "монгол улсын боловсролын их сургууль",
+      "мубис"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"8-р хороо"
+  },
+  "мөнгөн завъяа": {
+    "canonical": "Мөнгөн завъяа",
+    "type": "bus_stop",
+    "lat": 47.916589,
+    "lon": 106.909526,
+    "aliases": [
+      "mungun zaviya",
+      "mungun zavya",
+      "mungun zavyaa",
+      "mungunzavya",
+      "мөнгөн завъяа",
+      "мөнгөнзавъяа"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"1-р хороо"
+  },
+  "мөрөн": {
+    "canonical": "Мөрөн",
+    "type": "sum",
+    "lat": 48.484782,
+    "lon": 105.190682,
+    "aliases": [
+      "moron",
+      "murun",
+      "мөрөн"
+    ],
+    "2": "Хөвсгөл аймаг"
+  },
+  "наадам центр": {
+    "canonical": "Наадам Центр",
+    "type": "bus_stop",
+    "lat": 47.903149,
+    "lon": 106.912602,
+    "aliases": [
+      "naadam center",
+      "naadam centr",
+      "naadam tsenter",
+      "naadam tsentr",
+      "naadamtsenter",
+      "naadamtsentr",
+      "naadm center",
+      "naadm centr",
+      "naadm tsenter",
+      "naadm tsentr",
+      "naadmtsenter",
+      "naadmtsentr",
+      "наадам центр",
+      "наадам цэнтэр",
+      "наадамцентр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"15-р хороо"
+  },
+  "найман шарга төв": {
+    "canonical": "Найман шарга төв",
+    "type": "building",
+    "lat": 47.920685,
+    "lon": 106.901007,
+    "aliases": [
+      "naiman sharga",
+      "naiman sharga center",
+      "naiman sharga tov",
+      "naiman sharga tuv",
+      "naiman sharаg",
+      "naimansharga",
+      "найман шарга",
+      "найман шарга төв",
+      "найманшарга"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"2-р хороо"
+  },
+  "налайх": {
+    "canonical": "Налайх",
+    "type": "sum",
+    "lat": 47.823306,
+    "lon": 107.419468,
+    "aliases": [
+      "nalaih",
+      "nalaik",
+      "nalaikh",
+      "налайх"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "нарны зам": {
+    "canonical": "Нарны зам",
+    "type": "bus_stop",
+    "lat": 47.908835,
+    "lon": 106.899891,
+    "aliases": [
+      "narn zam",
+      "narni zam",
+      "narnii zam",
+      "narniizam",
+      "narnizam",
+      "narny zam",
+      "narnyzam",
+      "narnzam",
+      "нарны зам",
+      "нарнызам"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"13-р хороо"
+  },
+  "нарны хороолол": {
+    "canonical": "Нарны хороолол",
+    "type": "bus_stop",
+    "lat": 47.906015,
+    "lon": 106.901082,
+    "aliases": [
+      "narn horoolol",
+      "narnhoroolol",
+      "narni horooll",
+      "narni horoolol",
+      "narnihoroolol",
+      "narnii horooll",
+      "narnii horoolol",
+      "narniihoroolol",
+      "narny horolol",
+      "narny horooll",
+      "narny horoolol",
+      "narnyhoroolol",
+      "нарны хороолол",
+      "нарныхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"26-р хороо"
+  },
+  "нарангийн гол": {
+    "canonical": "Нарангийн Гол",
+    "type": "bus_stop",
+    "lat": 47.931449,
+    "lon": 106.765469,
+    "aliases": [
+      "narangiin gol",
+      "narangiingol",
+      "narngiin gol",
+      "нарангийн гол",
+      "нарангийнгол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"1-р хороо"
+  },
+  "нарантуул": {
+    "canonical": "Нарантуул",
+    "type": "tourism",
+    "lat": 47.915749,
+    "lon": 106.896049,
+    "aliases": [
+      "narantuul",
+      "narntuul",
+      "нарантуул"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"39-р хороо"
+  },
+  "натур": {
+    "canonical": "Натур",
+    "type": "bus_stop",
+    "lat": 47.912783,
+    "lon": 106.936539,
+    "aliases": [
+      "natur",
+      "natuur",
+      "натур"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"43-р хороо"
+  },
+  "нисэх": {
+    "canonical": "Нисэх",
+    "type": "bus_stop",
+    "lat": 47.865361,
+    "lon": 106.763284,
+    "aliases": [
+      "niseh",
+      "nisekh",
+      "nisex",
+      "nish",
+      "нисх",
+      "нисэх"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"9-р хороо" 
+  },
+  "нисдэг машин": {
+    "canonical": "Нисдэг машин",
+    "type": "shop",
+    "lat": 47.925488,
+    "lon": 106.901339,
+    "aliases": [
+      "flying car",
+      "nisdeg mashin",
+      "nisdeg mashn",
+      "nisdegmashin",
+      "нисдэг машин",
+      "нисдэгмашин"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"5-р хороо"
+  },
+  "ногоон нуур": {
+    "canonical": "Ногоон нуур",
+    "type": "bus_stop",
+    "lat": 47.935001,
+    "lon": 106.915964,
+    "aliases": [
+      "nogoon nuur",
+      "nogonnuur",
+      "nogonuur",
+      "nogoonnuur",
+      "ногоон нуур"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"11-р хороо"
+
+  },
+  "олимп хотхон": {
+    "canonical": "Олимп хотхон",
+    "type": "bus_stop",
+    "lat": 47.898656,
+    "lon": 106.860604,
+    "aliases": [
+      "olimp",
+      "olymp",
+      "olymp hothn",
+      "olymp hothon",
+      "olymphothon",
+      "олимп хотхон",
+      "олимпхотхон"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"26-р хороо"
+  },
+  "орбит": {
+    "canonical": "Орбит",
+    "type": "bus_stop",
+    "lat": 47.910243,
+    "lon": 106.772588,
+    "aliases": [
+      "orbit",
+      "orbt",
+      "орбит"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"34-р хороо"
+  },
+  "оргил рашаан сувилал": {
+    "canonical": "Оргил рашаан сувилал",
+    "type": "bus_stop",
+    "lat": 47.895387,
+    "lon": 106.908684,
+    "aliases": [
+      "orgil rashaan suvilal",
+      "orgil rashaan suvill",
+      "orgilrashaan suvilal",
+      "orgilrashaansuvilal",
+      "orgl rashaan suvilal",
+      "оргил рашаан сувилал",
+      "оргилрашаан сувилал"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"17-р хороо"
+  },
+  "офицеруудын ордон": {
+    "canonical": "Офицеруудын ордон",
+    "type": "bus_stop",
+    "lat": 47.915972,
+    "lon": 106.970194,
+    "aliases": [
+      "ofcer",
+      "officer",
+      "offitser",
+      "oficer",
+      "ofiser",
+      "ofitser",
+      "ofitseruudiin ordn",
+      "ofitseruudiin ordon",
+      "ofitseruudiinordon",
+      "ofitseruudin ordn",
+      "ofitseruudin ordon",
+      "ofitseruudinordon",
+      "ofitsor",
+      "oftser",
+      "opcer",
+      "opicer",
+      "opiser",
+      "opisor",
+      "opitser",
+      "opitseruudiin ordn",
+      "opitseruudiin ordon",
+      "opitseruudin ordn",
+      "opitseruudin ordon",
+      "opitsor",
+      "oppitser",
+      "optser",
+      "ovitser",
+      "ovitsor",
+      "owtser",
+      "офицер",
+      "офицеруудын ордон",
+      "офицеруудынордон",
+      "офицэр",
+      "офицэруудын ордон",
+      "офцер",
+      "офцэр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"22-р хороо"
+
+  },
+  "парадокс": {
+    "canonical": "Парадокс",
+    "type": "bus_stop",
+    "lat": 47.922623,
+    "lon": 106.878366,
+    "aliases": [
+      "paradoks",
+      "paradox",
+      "pradoks",
+      "pradox",
+      "парадокс",
+      "прадокс"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"19-р хороо"
+  },
+  "сайншанд": {
+    "canonical": "Сайншанд ",
+    "type": "sum",
+    "lat": 44.680182,
+    "lon": 109.851927,
+    "aliases": [
+      "sainshand",
+      "shand",
+      "сайншанд"
+    ],
+    "2": "Дорноговь аймаг"
+  },
+  "сансар": {
+    "canonical": "Сансар",
+    "type": "bus_stop",
+    "lat": 47.924197,
+    "lon": 106.941241,
+    "aliases": [
+      "sansar",
+      "sansr",
+      "сансар",
+      "санср"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"3-р хороо"
+  },
+  "саппоро": {
+    "canonical": "Саппоро",
+    "type": "bus_stop",
+    "lat": 47.912715,
+    "lon": 106.852292,
+    "aliases": [
+      "saparo",
+      "saporo",
+      "sapparo",
+      "sapporo",
+      "sapuro",
+      "сапоро",
+      "саппоро"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"12-р хороо"
+  },
+  "саруул хороолол": {
+    "canonical": "Саруул хороолол",
+    "type": "residential_area",
+    "lat": 47.907746,
+    "lon": 106.932822,
+    "aliases": [
+      "saruul horoolo",
+      "saruul horoolol",
+      "saruul khonkhon",
+      "saruul khoroolol",
+      "saruulhoroolol",
+      "саруул хороолол",
+      "саруулхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"36-р хороо"
+  },
+  "сентоза": {
+    "canonical": "Сентоза",
+    "type": "bus_stop",
+    "lat": 47.922868,
+    "lon": 106.886911,
+    "aliases": [
+      "sentoza",
+      "sintoza",
+      "сентоза"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"18-р хороо"
+  },
+  "содон хороолол": {
+    "canonical": "Содон хороолол",
+    "type": "residential_area",
+    "lat": 47.920836,
+    "lon": 106.819028,
+    "aliases": [
+      "sodon horoolol",
+      "sodon khoroolol",
+      "sodong khoroolol",
+      "sodonhoroolol",
+      "содон хороолол",
+      "содонхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"37-р хороо"
+  },
+  "сонгинохайрхан дүүрэг": {
+    "canonical": "Сонгино хайрхан дүүрэг",
+    "type": "bus_stop",
+    "lat": 47.924334,
+    "lon": 106.816221,
+    "aliases": [
+      "songin hairhan duureg",
+      "songin hairhan duurg",
+      "songinhairhan",
+      "songinhairhan duureg",
+      "songinhairhn",
+      "songinhairhn duureg",
+      "songino hairhan",
+      "songino hairhan duureg",
+      "songino hairhan duurg",
+      "songino hairhn duureg",
+      "songino hairhn duurg",
+      "songinohairhn",
+      "сонгин хайрхан",
+      "сонгино хайрхан",
+      "сонгино хайрхан дүүрг",
+      "сонгино хайрхан дүүрэг",
+      "сонгинохайрхандүүрэг",
+      "схд"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "сэлх": {
+    "canonical": "Сэлх",
+    "type": "bus_stop",
+    "lat": 48.017625,
+    "lon": 106.967552,
+    "aliases": [
+      "selh",
+      "сэлх"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"20-р хороо"
+  },
+  "сэлэнгэ": {
+    "canonical": "Сэлэнгэ ",
+    "type": "aimag",
+    "lat": 49.582488,
+    "lon": 105.325736,
+    "aliases": [
+      "selenge",
+      "selng",
+      "selnge",
+      "сэлнгэ",
+      "сэлэнгэ"
+    ]
+  },
+  "сүлжмэл": {
+    "canonical": "Сүлжмэл",
+    "type": "bus_stop",
+    "lat": 47.911689,
+    "lon": 106.824593,
+    "aliases": [
+      "suljmel",
+      "suljml",
+      "сүлжмл",
+      "сүлжмэл"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"29-р хороо"
+  },
+  
+  "сүхбаатар": {
+    "canonical": "Сүхбаатар аймаг",
+    "type": "district",
+    "lat": 47.874674,
+    "lon": 110.229251,
+    "aliases": [
+      "suhbaatar",
+      "suhbaatr",
+      "сүхбаатар"
+    ]
+  },
+  "сүхбаатар": {
+    "canonical": "Сүхбаатар дүүрэг",
+    "type": "district",
+    "lat": 47.874674,
+    "lon": 110.229251,
+    "aliases": [
+      "suhbaatar duureg",
+      "suhbaatar duurg",
+      "suhbaatr duureg",
+      "suhbaatr duurg",
+      "сүхбаатар дүүрэг"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "сүхбаатарын талбай": {
+    "canonical": "Сүхбаатарын талбай",
+    "type": "bus_stop",
+    "lat": 47.916726,
+    "lon": 106.917945,
+    "aliases": [
+      "talbai",
+      "suhbaatarin tlbai",
+      "suhbaatriin talbai",
+      "suhbaatriintalbai",
+      "suhbaatrin talbai",
+      "suhbaatrintalbai",
+      "сүхбаатарын талбай",
+      "сүхбаатарынталбай",
+      "сүхбаатрын талбай",
+      "сүхбаатрынталбай"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"6-р хороо"
+  },
+  "сөүлийн гудамж": {
+    "canonical": "Сөүлийн гудамж",
+    "type": "bus_stop",
+    "lat": 47.914465,
+    "lon": 106.908972,
+    "aliases": [
+      "seoul gudam",
+      "seoul gudamj",
+      "seoulgudam",
+      "seoulgudamj",
+      "seoulin gudam",
+      "seoulin gudamj",
+      "seoulingudam",
+      "seoulingudamj",
+      "сөүлийн гудамж",
+      "сөүлийнгудамж"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"5-р хороо"
+  },
+  "сити тауэр": {
+    "canonical": "Сити тауэр",
+    "type": "building",
+    "lat": 47.919246,
+    "lon": 106.918991,
+    "aliases": [
+      "city tower",
+      "citytower",
+      "сити тауэр",
+      "сититауэр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"8-р хороо"
+  },
+  "тахилт": {
+    "canonical": "Тахилт ",
+    "type": "sum",
+    "lat": 47.921174,
+    "lon": 106.696131,
+    "aliases": [
+      "tahilt",
+      "tahlt",
+      "takhilt",
+      "takhlt",
+      "taxilt",
+      "тахилт"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"33-р хороо"
+  },
+  "та чи": {
+    "canonical": "Та Чи",
+    "type": "bus_stop",
+    "lat": 47.910779,
+    "lon": 106.823844,
+    "aliases": [
+      "ta chi",
+      "tachi",
+      "та чи",
+      "тачи"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"29-р хороо"
+  },
+  "тбд андууд": {
+    "canonical": "ТБД андууд",
+    "type": "bus_stop",
+    "lat": 47.914811,
+    "lon": 106.886857,
+    "aliases": [
+      "tbd andud",
+      "tbd anduud",
+      "tbdandud",
+      "tbdanduud",
+      "тбд андууд",
+      "тбдандууд"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"2-р хороо"
+  },
+  "толгойт": {
+    "canonical": "Толгойт ",
+    "type": "railway_station",
+    "lat": 47.908567,
+    "lon": 106.778574,
+    "aliases": [
+      "tlgoit",
+      "tolgoit",
+      "толгойт"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"20-р хороо"
+  },
+  "тосонцэнгэл": {
+    "canonical": "Тосонцэнгэл ",
+    "type": "sum",
+    "lat": 48.982874,
+    "lon": 99.591231,
+    "aliases": [
+      "tosntsengel",
+      "tosntsengl",
+      "tosontsengel",
+      "тоснцэнгл",
+      "тосонцэнгл",
+      "тосонцэнгэл"
+    ],
+    "2": "Завхан аймаг"
+  },
+  "тэнгис кино театр": {
+    "canonical": "Тэнгис кино театр",
+    "type": "bus_stop",
+    "lat": 47.922116,
+    "lon": 106.904787,
+    "aliases": [
+      "tengis",
+      "tengis kino teatr",
+      "tengiskino teatr",
+      "tengs",
+      "tengs kino teatr",
+      "tngs kino teatr",
+      "тэнгис кино театр",
+      "тэнгискинотеатр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"5-р хороо"
+  },
+  "тэц iii": {
+    "canonical": "ТЭЦ III",
+    "type": "bus_stop",
+    "lat": 47.899566,
+    "lon": 106.867466,
+    "aliases": [
+      "tets iii",
+      "tets3",
+      "tetsiii",
+      "тэц iii",
+      "тэц3",
+      "тэцiii"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"3-р хороо"
+  },
+  "төв номын сан": {
+    "canonical": "Төв номын сан",
+    "type": "common",
+    "lat": 47.914351,
+    "lon": 106.915624,
+    "aliases": [
+      "nomiin san",
+      "nomin san",
+      "nominsan",
+      "tov nomiin san",
+      "tov nomin san",
+      "tuv nomiin san",
+      "tuv nomin san",
+      "tuvnominsan",
+      "төв номын сан",
+      "төвномынсан"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"1-р хороо"
+  },
+  "төв аймаг": {
+    "canonical": "Төв аймаг",
+    "type": "aimag",
+    "lat": 47.752882,
+    "lon": 106.553676,
+    "aliases": [
+      "tov aimag",
+      "tov aimg",
+      "tovaimag",
+      "tovaimg",
+      "tow aimag",
+      "tow aimg",
+      "towaimag",
+      "towaimg",
+      "tuv aimag",
+      "tuv aimg",
+      "tuvaimag",
+      "tuvaimg",
+      "tuw aimag",
+      "tuw aimg",
+      "tuwaimag",
+      "tuwaimg",
+      "төв аймаг",
+      "төваймаг"
+    ]
+  },
+  "төмөр зам": {
+    "canonical": "Төмөр зам",
+    "type": "railway_station",
+    "lat": 47.916142,
+    "lon": 106.884592,
+    "aliases": [
+      "tomor zam",
+      "tomorzam",
+      "tomr zam",
+      "tomrzam",
+      "tumr zam",
+      "tumrzam",
+      "tumur zam",
+      "tumurzam",
+      "төмр зам",
+      "төмөр зам"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"2-р хороо"
+  },
+  "увс": {
+    "canonical": "Увс",
+    "type": "aimag",
+    "lat": 49.654293,
+    "lon": 92.864146,
+    "aliases": [
+      "uvs",
+      "uws",
+      "увс"
+    ]
+  },
+  "улаанбаатар": {
+    "canonical": "Улаанбаатар ",
+    "type": "common",
+    "lat": 47.908199,
+    "lon": 106.883858,
+    "aliases": [
+      "ub",
+      "ulaanbaatar",
+      "ulaanbaatr",
+      "уб",
+      "улаанбаатар"
+    ]
+  },
+  "улаангом": {
+    "canonical": "Улаангом ",
+    "type": "sum",
+    "lat": 50.076756,
+    "lon": 91.873222,
+    "aliases": [
+      "ulaangom",
+      "улаангом"
+    ],
+    "2": "Увс аймаг"
+  },
+  "улаанхуаран": {
+    "canonical": "Улаанхуаран",
+    "type": "bus_stop",
+    "lat": 47.918441,
+    "lon": 106.983576,
+    "aliases": [
+      "ulaan huaran",
+      "ulaan huarn",
+      "ulaan xuaran",
+      "ulaan xuarn",
+      "ulaanhuar",
+      "ulaanhuaran",
+      "ulaanhuarn",
+      "ulaanxuaran",
+      "ulaanxuarn",
+      "ulan huaran",
+      "ulan huarn",
+      "ulan xuaran",
+      "ulan xuarn",
+      "ulanhuaran",
+      "ulanhuarn",
+      "ulanxuaran",
+      "ulanxuarn",
+      "улаанхуаран",
+      "улаанхуарн"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"10-р хороо"
+  },
+  "улиастай": {
+    "canonical": "Улиастай",
+    "type": "region",
+    "lat": 47.91640,
+    "lon": 107.03773,
+    "aliases": [
+      "uliastai",
+      "улиастай"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"23-р хороо"
+  },
+  "улсын их дэлгүүр": {
+    "canonical": "Улсын их дэлгүүр",
+    "type": "bus_stop",
+    "lat": 47.915865,
+    "lon": 106.903608,
+    "aliases": [
+      "ih delgur",
+      "ih delguur",
+      "ih delgvr",
+      "ihdelgur",
+      "ihdelguur",
+      "ikh delgur",
+      "ikh delguur",
+      "ikhdelgur",
+      "ikhdelguur",
+      "ulsin ih delguur",
+      "ulsinihdelguur",
+      "их дэлгүүр",
+      "ихдэлгүүр",
+      "улсын их дэлгүүр",
+      "улсынихдэлгүүр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"3-р хороо"
+  },
+  "хайлааст": {
+    "canonical": "Хайлааст",
+    "type": "area",
+    "lat": 47.969854,
+    "lon": 106.920556,
+    "aliases": [
+      "hailaast",
+      "hailast",
+      "khailaast",
+      "khailaast dund",
+      "khailaast etses",
+      "khailast",
+      "хайлааст",
+      "хайлааст дунд",
+      "хайлааст эцэс"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"15-р хороо"
+  },
+  "халдварт": {
+    "canonical": "Халдварт",
+    "type": "bus_stop",
+    "lat": 47.913617,
+    "lon": 106.944053,
+    "aliases": [
+      "haldvart",
+      "haldvrt",
+      "haldwart",
+      "haldwrt",
+      "халдварт"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4": "14-р хороо"
+  },
+  "хан уул": {
+    "canonical": "Хан-Уул ",
+    "type": "district",
+    "lat": 47.807046,
+    "lon": 106.731896,
+    "aliases": [
+      "han uul",
+      "hanuul",
+      "khan uul",
+      "khanuul",
+      "хан уул",
+      "хан-уул",
+      "хануул"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "хангай хотхон": {
+    "canonical": "Хангай хотхон",
+    "type": "residential_area",
+    "lat": 47.936166,
+    "lon": 106.917951,
+    "aliases": [
+      "hangai hotgon",
+      "hangai hothon",
+      "hangai hotkhon",
+      "hangaihotkhon",
+      "khangai khotkhon",
+      "khangai khotkon",
+      "khangaihotkhon",
+      "хангай хотхон",
+      "хангайхотхон"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"9-р хороо"
+  },
+  "ханбогд хороолол": {
+    "canonical": "Ханбогд хороолол",
+    "type": "residential_area",
+    "lat": 47.881247,
+    "lon": 106.855366,
+    "aliases": [
+      "hanbogd",
+      "hanbogd horoolol",
+      "hanbogd khoroolol",
+      "hanbogdhoroolol",
+      "khanbogd horoolol",
+      "khanbogd khoroolol",
+      "khanbogdhoroolol",
+      "ханбогд хороолол",
+      "ханбогдхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4": "24-р хороо"
+  },
+  "хархорин": {
+    "canonical": "Хархорин",
+    "type": "sum",
+    "lat": 47.911723, 
+    "lon": 106.837524,
+    "aliases": [
+      "harhorin",
+      "хархорин"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4":"16-р хороо"
+  },
+  "ховд": {
+    "canonical": "Ховд аймаг",
+    "type": "aimag",
+    "lat": 48.130334,
+    "lon": 91.596681,
+    "aliases": [
+      "hovd",
+      "howd",
+      "ховд",
+      "ховд аймаг"
+    ]
+  },
+  "хом плаза": {
+    "canonical": "Хом плаза",
+    "type": "shop",
+    "lat": 47.90448,
+    "lon": 106.927601,
+    "aliases": [
+      "home plaza",
+      "homeplaza",
+      "хом плаза"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"2-р хороо"
+  },
+  "хотын төв": {
+    "canonical": "Хотын төв",
+    "type": "common",
+    "lat": 47.918873,
+    "lon": 106.917587,
+    "aliases": [
+      "hot",
+      "hotiin tuv",
+      "hotiintuv",
+      "hotin tuv",
+      "hotintuv",
+      "хот",
+      "хотын төв"
+    ]
+  },
+  "хурд хороолол": {
+    "canonical": "Хурд хороолол",
+    "type": "bus_stop",
+    "lat": 47.899562,
+    "lon": 106.917084,
+    "aliases": [
+      "hurd horoolol",
+      "hurdhoroolol",
+      "хурд хороолол",
+      "хурдхороолол"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"15-р хороо"
+  },
+  "хэнтий": {
+    "canonical": "Хэнтий аймаг",
+    "type": "aimag",
+    "lat": 47.725865,
+    "lon": 110.539848,
+    "aliases": [
+      "henti",
+      "hentii",
+      "khenti",
+      "khentii",
+      "xenti",
+      "xentii",
+      "хэнтий",
+      "хэнтий аймаг"
+    ]
+  },
+  "хэцүү хад": {
+    "canonical": "Хэцүү хад",
+    "type": "tourism",
+    "lat": 49.033222,
+    "lon": 93.479113,
+    "aliases": [
+      "hetsu had",
+      "hetsuhad",
+      "hetsuu had",
+      "hetsuuhad",
+      "htsu had",
+      "хэцү хад",
+      "хэцүхад",
+      "хэцүү хад",
+      "хэцүүхад"
+    ],
+    "2": "Увс аймаг",
+    "3": "Хяргас сум"
+  },
+  "хүнсний 20": {
+    "canonical": "Хүнсний 20",
+    "type": "bus_stop",
+    "lat": 47.916185,
+    "lon": 106.908154,
+    "aliases": [
+      "hunsni 20",
+      "hunsni20",
+      "hunsnii 20",
+      "hunsnii20",
+      "хүнсний 20",
+      "хүнсний20"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"4-р хороо"
+  },
+  "хүүхдийн парк": {
+    "canonical": "Хүүхдийн парк",
+    "type": "bus_stop",
+    "lat": 47.913241,
+    "lon": 106.922387,
+    "aliases": [
+      "huuhdiin park",
+      "huuhdiinpark",
+      "huuhdin park",
+      "huuhdinpark",
+      "huuhdn park",
+      "park",
+      "хүүхдийн парк",
+      "хүүхдийнпарк"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"1-р хороо"
+  },
+  "хүүхдийн 100": {
+    "canonical": "Хүүхдийн 100",
+    "type": "area",
+    "lat": 47.915004,
+    "lon": 106.911579,
+    "aliases": [
+      "huuhdiin 100",
+      "huuhdiin zuu",
+      "huuhdiin100",
+      "huuhdiinzuu",
+      "huuhdin 100",
+      "huuhdin zuu",
+      "hvvhdiin 100",
+      "hvvhdiin zuu",
+      "hvvhdin 100",
+      "hvvhdin zuu",
+      "khuukhdiin 100",
+      "khuukhdiin zuu",
+      "khuukhdiin100",
+      "khuukhdiinzuu",
+      "xuuxdiin 100",
+      "xuuxdiin zuu",
+      "хүүхдийн 100",
+      "хүүхдийн зуу",
+      "хүүхдийн100",
+      "хүүхдийнзуу"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4": "3-р хороо"
+  },
+  "хөвсгөл аймаг": {
+    "canonical": "Хөвсгөл аймаг",
+    "type": "tourism",
+    "lat": 49.637026,
+    "lon": 100.160636,
+    "aliases": [
+      "howsgl",
+      "howsgol",
+      "huvsgl",
+      "huvsglaimg",
+      "huvsgul",
+      "huvsgulaimag",
+      "huwsgl",
+      "huwsgul",
+      "hvsglaimg",
+      "хөвсгөл",
+      "хөвсгөл аймаг",
+      "хөвсгөлаймаг"
+    ]
+  },
+  "хөгжим бүжгийн коллеж": {
+    "canonical": "Хөгжим бүжгийн коллеж",
+    "type": "bus_stop",
+    "lat": 47.923092,
+    "lon": 106.926473,
+    "aliases": [
+      "hugjim bujg",
+      "hugjim bujgiin colleg",
+      "hugjim bujgiin college",
+      "hugjim bujgin colleg",
+      "hugjim bujgin college",
+      "hugjim bujig",
+      "hugjimbujgiin kollej",
+      "hugjimbujgiinkollej",
+      "hugjm bujgiin kollej",
+      "хөгжим бүжгийн коллеж",
+      "хөгжимбүжгийн коллеж",
+      "хөгжимбүжгийнколлеж"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"7-р хороо"
+  },
+  "хөдөө аж ахуйн их сургууль": {
+    "canonical": "Хөдөө аж ахуйн их сургууль",
+    "type": "bus_stop",
+    "lat": 47.886212,
+    "lon": 106.910881,
+    "aliases": [
+      "haais",
+      "hdu aj ahuin ih surguuli",
+      "huduu aj ahuin ih srguuli",
+      "huduu aj ahuin ih surguuli",
+      "huduuajahuinihsurguuli",
+      "хааис",
+      "хөдөө аж ахуйн их сургууль",
+      "хөдөөаж ахуйнихсургууль",
+      "хөдөөажахуйнихсургууль"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"22-р хороо"
+  },
+  "хөтөл": {
+    "canonical": "Хөтөл",
+    "type": "common",
+    "lat": 49.098527,
+    "lon": 105.544601,
+    "aliases": [
+      "hotol",
+      "hutul",
+      "khotol",
+      "khutul",
+      "xotol",
+      "хөтөл"
+    ],
+    "2": "Сэлэнгэ аймаг",
+    "3": "Сайхан сум"
+  },
+  "цагаан байр": {
+    "canonical": "Цагаан байр",
+    "type": "bus_stop",
+    "lat": 47.933312,
+    "lon": 106.906414,
+    "aliases": [
+      "tsagaan bair",
+      "tsagaanbair",
+      "tsagan bair",
+      "tsgn bair",
+      "цагаан байр",
+      "цагаанбайр"
+    ],
+    "2": "Улаанбаатар",
+	  "3": "Чингэлтэй дүүрэг",
+    "4":"9-р хороо"
+  },
+  "цайз": {
+    "canonical": "Цайз",
+    "type": "bus_stop",
+    "lat": 47.924125,
+    "lon": 106.974051,
+    "aliases": [
+      "tsaiz",
+      "tsaiz 16",
+      "tsaiz16",
+      "цайз",
+      "цайз 16",
+      "цайз 16 хороолол",
+      "цайз16"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"19-р хороо"
+  },
+  "цамбагарав": {
+    "canonical": "Цамбагарав",
+    "type": "bus_stop",
+    "lat": 47.912267,
+    "lon": 106.846334,
+    "aliases": [
+      "tsamb",
+      "tsamba",
+      "tsambagarav",
+      "tsambagarv",
+      "tsambgarav",
+      "tsambgarv",
+      "tsambgrv",
+      "цамба",
+      "цамбагарав"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"5-р хороо"
+  },
+  "цогтцэций": {
+    "canonical": "Цогтцэций",
+    "type": "sum",
+    "lat": 43.843597,
+    "lon": 105.923286,
+    "aliases": [
+      "tsetsi",
+      "tsetsii",
+      "tsogt tsetsi",
+      "tsogt tsetsii",
+      "tsogtsetsi",
+      "tsogtsetsii",
+      "tsogttsetsi",
+      "tsogttsetsii",
+      "цогтцэций"
+    ],
+    "2": "Өмнөговь аймаг"
+  },
+  "чингис зочид буудал": {
+    "canonical": "Чингис зочид буудал",
+    "type": "tourism",
+    "lat": 47.922658, 
+    "lon": 106.934942,
+    "aliases": [
+      "chingis buudal",
+      "chingis zochid buudal",
+      "chingis zochid buudl",
+      "chingiszochid buudal",
+      "chings zochid buudal",
+      "чингис зочид буудал",
+      "чингисзочид буудал"
+    ],
+    "2": "Улаанбаатар",
+	  "3": "Баянзүрх дүүрэг",
+    "4":"3-р хороо"
+  },
+  "цэцэрлэгт хүрээлэн": {
+    "canonical": "Үндэсний цэцэрлэгт хүрээлэн",
+    "type": "park",
+    "lat": 47.901596,
+    "lon": 106.945823,
+    "aliases": [
+      "tsetserlegt hureelen",
+      "tsetserlegt khureelen",
+      "tsetserlegtkhureelen",
+      "цэцэрлэгт хүрээлэн",
+      "цэцэрлэгтхүрээлэн",
+      "үндэсний цэцэрлэгт хүрээлэн"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"26-р хороо"
+  },
+  "чингэлтэй дүүрэг": {
+    "canonical": "Чингэлтэй дүүрэг",
+    "type": "bus_stop",
+    "lat": 47.921862,
+    "lon": 106.907114,
+    "aliases": [
+      "chingeltei",
+      "chingltei",
+      "чингэлтэй",
+      "чингэлтэй дүүрэг"
+    ],
+    "2": "Улаанбаатар"
+  },
+  "чойр": {
+    "canonical": "Чойр",
+    "type": "railway_station",
+    "lat": 46.357797,
+    "lon": 108.357069,
+    "aliases": [
+      "choir",
+      "чойр"
+    ],
+    "2": "Говьсүмбэр аймаг"
+  },
+  "чулуун овоо": {
+    "canonical": "Чулуун овоо",
+    "type": "bus_stop",
+    "lat": 47.912293, 
+    "lon": 106.982128,
+    "aliases": [
+      "chluun ovo",
+      "chluun ovoo",
+      "chluun owo",
+      "chluun owoo",
+      "chluunovo",
+      "chluunovoo",
+      "chluunowo",
+      "chluunowoo",
+      "chuluu owoo",
+      "chuluun ovo",
+      "chuluun ovoo",
+      "chuluun owo",
+      "chuluun owoo",
+      "chuluunovo",
+      "chuluunovoo",
+      "chuluunowo",
+      "chuluunowoo",
+      "чулуун овоо",
+      "чулууновоо"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"8-р хороо"
+  },
+  "шангри ла": {
+    "canonical": "Шангри-Ла",
+    "type": "tourism",
+    "lat": 47.913009,
+    "lon": 106.920144,
+    "aliases": [
+      "shangri la",
+      "shangrila",
+      "shangrilla",
+      "шангри ла",
+      "шангри-ла",
+      "шангрила"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"1-р хороо"
+  },
+  "шар хад": {
+    "canonical": "Шар хад",
+    "type": "bus_stop",
+    "lat": 47.934788,
+    "lon": 107.005617,
+    "aliases": [
+      "shar had",
+      "shar hd",
+      "sharhad",
+      "sharhd",
+      "шар хад",
+      "шархад"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4": "9-р хороо"
+  },
+  "шарга морьт": {
+    "canonical": "Шарга морьт",
+    "type": "area",
+    "lat": 48.067451,
+    "lon": 106.924877,
+    "aliases": [
+      "sharga morit",
+      "sharga mort",
+      "shargamorit",
+      "shargamort",
+      "шарга морьт",
+      "шаргаморьт"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"19-р хороо"
+  },
+  "шөнийн зах": {
+    "canonical": "Шөнийн зах",
+    "type": "bus_stop",
+    "lat": 47.909953,
+    "lon": 106.943650,
+    "aliases": [
+      "shuniin zah",
+      "shuniinzah",
+      "shunin zah",
+      "shuninzah",
+      "шөнийн зах",
+      "шөнийнзах"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянзүрх дүүрэг",
+    "4":"14-р хороо"
+  },
+  "эмээлт": {
+    "canonical": "Эмээлт",
+    "type": "railway_station",
+    "lat": 47.886956,
+    "lon": 106.599644,
+    "aliases": [
+      "emeelt",
+      "emelt",
+      "эмээлт"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сонгинохайрхан дүүрэг",
+    "4": "32-р хороо"
+  },
+  "эрдэнэт": {
+    "canonical": "Эрдэнэт",
+    "type": "railway_station",
+    "lat": 49.059039,
+    "lon": 104.162682,
+    "aliases": [
+      "erdenet",
+      "erdent",
+      "erdnet",
+      "erdnt",
+      "эрдэнэт"
+    ],
+    "2": "Орхон"
+  },
+  "эх нялхас": {
+    "canonical": "Эх нялхас",
+    "type": "bus_stop",
+    "lat": 47.926696,
+    "lon": 106.893711,
+    "aliases": [
+      "eh nyalhas",
+      "eh nyalhs",
+      "eh nylhas",
+      "eh nylhs",
+      "ehnyalhs",
+      "ehnylhas",
+      "эх нялхас",
+      "эх нялхс",
+      "эхнялхс"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4":"11-р хороо"
+  },
+  "яармаг": {
+    "canonical": "Яармаг",
+    "type": "bus_stop",
+    "lat": 47.861812,
+    "lon": 106.787998,
+    "aliases": [
+      "uarmag",
+      "yaarmag",
+      "yaarmg",
+      "yarmag",
+      "yarmg",
+      "yrmag",
+      "yrmg",
+      "яармаг",
+      "яармг"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"6-р хороо"
+  },
+  "яргайт": {
+    "canonical": "Яргайт",
+    "type": "bus_stop",
+    "lat": 48.039796,
+    "lon": 106.904897,
+    "aliases": [
+      "yargait",
+      "yrgait",
+      "яргайт"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Чингэлтэй дүүрэг",
+    "4":"24-р хороо"
+  },
+  "өвөр согоот": {
+    "canonical": "Өвөр согоот",
+    "type": "bus_stop",
+    "lat": 48.017419,
+    "lon": 106.925046,
+    "aliases": [
+      "uvr sogoot",
+      "uvr sogot",
+      "uvur sogoot",
+      "uvur sogot",
+      "uvursogoot",
+      "uvursogot",
+      "өвөр согоот",
+      "өвөрсогоот"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Сүхбаатар дүүрэг",
+    "4":"15-р хороо"
+  },
+
+  "өвөрхангай": {
+    "canonical": "Өвөрхангай",
+    "type": "aimag",
+    "lat": 45.739769,
+    "lon": 102.894802,
+    "aliases": [
+      "oworxangai",
+      "uvrhangai",
+      "uvurhangai",
+      "uvurhngai",
+      "uwrhangai",
+      "uwrhng",
+      "uwrhngai",
+      "uwurhangai",
+      "uwurhngai",
+      "өвөрхангай"
+    ]
+  },
+  "өмнөговь": {
+    "canonical": "Өмнөговь",
+    "type": "aimag",
+    "lat": 46.243341,
+    "lon": 97.631546,
+    "aliases": [
+      "omngovi",
+      "omngowi",
+      "omnogobi",
+      "omnogovi",
+      "omnogowi",
+      "umngovi",
+      "umngowi",
+      "umnugovi",
+      "umnugowi",
+      "өмнговь",
+      "өмнөговь"
+    ]
+  },
+  "өргөө кино театр": {
+    "canonical": "Өргөө кино театр",
+    "type": "bus_stop",
+    "lat": 47.922835,
+    "lon": 106.874834,
+    "aliases": [
+      "urgu kino teatr",
+      "urguu kino teatr",
+      "urguu kino ttr",
+      "urguukinoteatr",
+      "өргө кино театр",
+      "өргөө кино театр",
+      "өргөөкинотеатр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Баянгол дүүрэг",
+    "4": "13-р хороо"
+  },
+  "кинг тауэр": {
+    "canonical": "кинг тауэр",
+    "type": "bus_stop",
+    "lat": 47.893946,
+    "lon": 106.929502,
+    "aliases": [
+      "king tower",
+      "kingtower",
+      "кинг тауэр",
+      "кингтауэр"
+    ],
+    "2": "Улаанбаатар",
+    "3": "Хан-Уул дүүрэг",
+    "4":"11-р хороо"
+  },
+  "эрээн": {
+    "canonical": "Эрээн",
+    "type": "city",
+    "lat": 43.828003,
+    "lon": 87.621635,
+    "aliases": [
+      "ereen",
+      "эрээн"
+    ],
+    "1": "Өвөр Монгол"
+  },
+  "seoul": {
+    "canonical": "Сөүл",
+    "type": "city",
+    "lat": 37.566535,
+    "lon": 126.977969,
+    "aliases": [
+      "seoul",
+      "seul",
+      "сөүл"
+    ],
+    "1": "Солонгос улс"
+  }
+}

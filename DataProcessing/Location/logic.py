@@ -132,9 +132,9 @@ def match_locations(text):
     text_norm = normalize(text)
     tokens = text_norm.split()
     if not tokens:
-        return []
+        return [], []
 
-    found = set()
+    found = {}  # canonical -> set(aliases)
     n = len(tokens)
     i = 0
 
@@ -156,7 +156,6 @@ def match_locations(text):
             if i + m > n:
                 continue
 
-            # эхний m-1 token шалгах
             if any(tokens[i + j] != alias_tokens[j] for j in range(m - 1)):
                 continue
 
@@ -166,17 +165,18 @@ def match_locations(text):
             if not last_text_token.startswith(last_alias_part):
                 continue
 
+            matched_alias = " ".join(tokens[i:i + m])
+
             if item["type"] == "common":
                 ok, skip = check_common_logic(tokens, i, m, alias_tokens)
                 if ok:
-                    found.add(item["canonical"])
+                    found.setdefault(item["canonical"], set()).add(matched_alias)
                     i += m + skip
                     matched = True
                     break
             else:
-                # STANDARD
                 if len(last_text_token) <= len(last_alias_part) + 4:
-                    found.add(item["canonical"])
+                    found.setdefault(item["canonical"], set()).add(matched_alias)
                     i += m
                     matched = True
                     break
@@ -184,14 +184,20 @@ def match_locations(text):
         if not matched:
             i += 1
 
-    return list(found)
+    matched_locations = list(found.keys())
+    matched_aliases = [
+        f"{canon} => {', '.join(sorted(aliases))}"
+        for canon, aliases in found.items()
+    ]
+
+    return matched_locations, matched_aliases
 
 # =========================================================
 # ================= EXECUTION & REPORT ====================
 # =========================================================
 print("Байршил тогтоож байна...")
 
-posts_df["matched_locations"] = posts_df["Content"].apply(match_locations)
+posts_df[["matched_locations", "matched_aliases"]] = posts_df["Content"].apply(lambda x: pd.Series(match_locations(x)))
 
 posts_df.to_excel("posts_with_locations_logic.xlsx", index=False)
 
@@ -218,7 +224,7 @@ if not exploded.empty:
             writer, sheet_name="Илэрсэн бүх байршил", index=False
         )
 
-    print("✅ Амжилттай дууслаа")
-    print(f"📍 Нийт {total} байршил илэрсэн")
+    print("Амжилттай дууслаа")
+    print(f"Нийт {total} байршил илэрсэн")
 else:
-    print("❌ Байршил олдсонгүй")
+    print("Байршил олдсонгүй")
